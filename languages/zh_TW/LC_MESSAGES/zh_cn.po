@@ -1,0 +1,3019 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SaaSaMe\n"
+"POT-Creation-Date: 2018-09-03 10:36+0800\n"
+"PO-Revision-Date: 2018-09-03 10:45+0800\n"
+"Last-Translator: \n"
+"Language-Team: Rex\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ../../../..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: _pages\n"
+"X-Poedit-SearchPath-1: _inc/languages/transport_lan.php\n"
+"X-Poedit-SearchPath-2: _inc/languages/management_lan.php\n"
+
+#: _inc/languages/management_lan.php:3
+msgid "Replication process started."
+msgstr ""
+
+#: _inc/languages/management_lan.php:4
+msgid "Created Loader job for the specified buffer size."
+msgstr ""
+
+#: _inc/languages/management_lan.php:5
+msgid "Resume Loader job for specified buffer size."
+msgstr ""
+
+#: _inc/languages/management_lan.php:6
+msgid "Created Loader job for the specified data size."
+msgstr ""
+
+#: _inc/languages/management_lan.php:7
+msgid "Resume Loader job for the specified data size."
+msgstr ""
+
+#: _inc/languages/management_lan.php:8
+msgid "Replication process submitted to the Transport server."
+msgstr ""
+
+#: _inc/languages/management_lan.php:9
+msgid "Success to recreate the Loader connection."
+msgstr ""
+
+#: _inc/languages/management_lan.php:10
+msgid "Cannot recreate the Loader connection."
+msgstr ""
+
+#: _inc/languages/management_lan.php:11
+msgid "Preparing instances."
+msgstr ""
+
+#: _inc/languages/management_lan.php:12
+msgid "Uploading...%1%"
+msgstr ""
+
+#: _inc/languages/management_lan.php:13
+msgid "Import image fail."
+msgstr ""
+
+#: _inc/languages/management_lan.php:14
+msgid "Creating image from VHD."
+msgstr ""
+
+#: _inc/languages/management_lan.php:15
+msgid "Detaching the volume from the Transport server."
+msgstr ""
+
+#: _inc/languages/management_lan.php:16
+msgid "The Volumes detached from the Transport server."
+msgstr ""
+
+#: _inc/languages/management_lan.php:17
+msgid "Creating an instance."
+msgstr ""
+
+#: _inc/languages/management_lan.php:18
+msgid "The instance created."
+msgstr ""
+
+#: _inc/languages/management_lan.php:19
+msgid "Cannot create an instance."
+msgstr ""
+
+#: _inc/languages/management_lan.php:20
+msgid "Export image is ready to use."
+msgstr ""
+
+#: _inc/languages/management_lan.php:21
+msgid "Recovery kit media is ready to use."
+msgstr ""
+
+#: _inc/languages/management_lan.php:22
+msgid "Creating image 100%."
+msgstr ""
+
+#: _inc/languages/management_lan.php:23
+msgid "Creating image %1%"
+msgstr ""
+
+#: _inc/languages/management_lan.php:24
+msgid "Image create completed."
+msgstr ""
+
+#: _inc/languages/management_lan.php:25
+msgid "Reflush disks information for selected virtual host."
+msgstr ""
+
+#: _inc/languages/management_lan.php:26
+msgid "A recovery process created."
+msgstr ""
+
+#: _inc/languages/management_lan.php:27
+msgid "Not enough licenses to run recover workload."
+msgstr ""
+
+#: _inc/languages/management_lan.php:28
+msgid "Source Transport and Target Transport cannot both in-direct mode."
+msgstr ""
+
+#: _inc/languages/management_lan.php:29
+msgid "Success to recreate the Carrier connection."
+msgstr ""
+
+#: _inc/languages/management_lan.php:30
+msgid "Cannot recreate the Carrier connection."
+msgstr ""
+
+#: _inc/languages/management_lan.php:31
+msgid ""
+"Failed to connect to transport server. Cannot recreate the Carrier "
+"connection."
+msgstr ""
+
+#: _inc/languages/management_lan.php:32
+msgid "Setting up WebDAV connection with URL - %1%"
+msgstr ""
+
+#: _inc/languages/management_lan.php:33
+msgid "Failed to initialize webDAV connection."
+msgstr ""
+
+#: _inc/languages/management_lan.php:34
+msgid "Cannot get the volume address information."
+msgstr ""
+
+#: _inc/languages/management_lan.php:35
+msgid "The SCSI address is %1%"
+msgstr ""
+
+#: _inc/languages/management_lan.php:36
+msgid "The disk unique id is %1%"
+msgstr ""
+
+#: _inc/languages/management_lan.php:37
+msgid "The disk customized id is %1%"
+msgstr ""
+
+#: _inc/languages/management_lan.php:38
+msgid "The disk serial number is %1%"
+msgstr ""
+
+#: _inc/languages/management_lan.php:39
+msgid "Failed to verify storage connection string."
+msgstr ""
+
+#: _inc/languages/management_lan.php:40
+msgid "Getting disk information of the Azure disk with Blob."
+msgstr ""
+
+#: _inc/languages/management_lan.php:41
+msgid "Getting disk information of the export job."
+msgstr ""
+
+#: _inc/languages/management_lan.php:42
+msgid "The disk information updated."
+msgstr ""
+
+#: _inc/languages/management_lan.php:43
+msgid "Getting disk information of the Recovery Kit."
+msgstr ""
+
+#: _inc/languages/management_lan.php:44
+msgid "Failed to get disk mapping information."
+msgstr ""
+
+#: _inc/languages/management_lan.php:45
+msgid "The disk partition does not allow."
+msgstr ""
+
+#: _inc/languages/management_lan.php:46
+msgid "The disk size does not match the Recovery Kit information."
+msgstr ""
+
+#: _inc/languages/management_lan.php:47
+msgid "The disk matches the Recovery Kit information."
+msgstr ""
+
+#: _inc/languages/management_lan.php:48
+msgid "The number of disks does not match the Recovery Kit information."
+msgstr ""
+
+#: _inc/languages/management_lan.php:49
+msgid "Creating volume %1% with size %2%"
+msgstr ""
+
+#: _inc/languages/management_lan.php:50
+msgid "Cannot get the volume information."
+msgstr ""
+
+#: _inc/languages/management_lan.php:51
+msgid "Cannot mount the volume to the Transport server."
+msgstr ""
+
+#: _inc/languages/management_lan.php:52
+msgid "Cannot create or mount the volume to the Transport server."
+msgstr ""
+
+#: _inc/languages/management_lan.php:53
+msgid "A volume created and mounted to the Transport server."
+msgstr ""
+
+#: _inc/languages/management_lan.php:54
+msgid "Data volume created and mounted to Transport server."
+msgstr ""
+
+#: _inc/languages/management_lan.php:55
+msgid "Image export folder %1% does not exist."
+msgstr ""
+
+#: _inc/languages/management_lan.php:56
+msgid "The export image will save to %1%"
+msgstr ""
+
+#: _inc/languages/management_lan.php:57
+msgid "Cannot create webDAV connection."
+msgstr ""
+
+#: _inc/languages/management_lan.php:58
+msgid "The other disk action is processing please wait.<sup>%1%</sup>"
+msgstr ""
+
+#: _inc/languages/management_lan.php:59
+msgid "Fail to proceed disk create action."
+msgstr ""
+
+#: _inc/languages/management_lan.php:60
+msgid "Connection information updated."
+msgstr ""
+
+#: _inc/languages/management_lan.php:61
+msgid "Preparing workload will begin at %1%"
+msgstr ""
+
+#: _inc/languages/management_lan.php:62
+msgid "Cannot submit the recovery process."
+msgstr ""
+
+#: _inc/languages/management_lan.php:63
+msgid "Not enough licenses to run this process."
+msgstr ""
+
+#: _inc/languages/management_lan.php:64
+msgid "The Scheduler sync started."
+msgstr ""
+
+#: _inc/languages/management_lan.php:65
+msgid "Checking the Scheduler job status."
+msgstr ""
+
+#: _inc/languages/management_lan.php:66
+msgid "Checking the Scheduler job status.<sup>%1%</sup>"
+msgstr ""
+
+#: _inc/languages/management_lan.php:67
+msgid "The Loader sync started."
+msgstr ""
+
+#: _inc/languages/management_lan.php:68
+msgid "Checking the Loader job status."
+msgstr ""
+
+#: _inc/languages/management_lan.php:69
+msgid "Checking the Loader job status.<sup>%1%</sup>"
+msgstr ""
+
+#: _inc/languages/management_lan.php:70
+msgid "Job canceled."
+msgstr ""
+
+#: _inc/languages/management_lan.php:71
+msgid "Wait %1% seconds for previous job finish."
+msgstr ""
+
+#: _inc/languages/management_lan.php:72
+msgid "cannot use private ip %1%"
+msgstr ""
+
+#: _inc/languages/management_lan.php:73
+msgid "Please activate OSS and RAM services from Alibaba console."
+msgstr ""
+
+#: _inc/languages/management_lan.php:74
+msgid "Bucket create fail."
+msgstr ""
+
+#: _inc/languages/management_lan.php:75
+msgid "Getting snapshot information."
+msgstr ""
+
+#: _inc/languages/management_lan.php:76
+msgid "The snapshot size is %1%"
+msgstr ""
+
+#: _inc/languages/management_lan.php:77
+msgid "New %1% unique id %2%"
+msgstr ""
+
+#: _inc/languages/management_lan.php:78
+msgid "Creating a new data volume."
+msgstr ""
+
+#: _inc/languages/management_lan.php:79
+msgid "Creating a new system volume."
+msgstr ""
+
+#: _inc/languages/management_lan.php:80
+msgid "Cannot create volume."
+msgstr ""
+
+#: _inc/languages/management_lan.php:81
+msgid "Getting system %1% information."
+msgstr ""
+
+#: _inc/languages/management_lan.php:82
+msgid "Cannot attach the volume to the Transport server."
+msgstr ""
+
+#: _inc/languages/management_lan.php:83
+msgid "Getting new %1% information."
+msgstr ""
+
+#: _inc/languages/management_lan.php:84
+msgid "Cannot get volume address information."
+msgstr ""
+
+#: _inc/languages/management_lan.php:85
+msgid "A volume created and attached to the Transport server."
+msgstr ""
+
+#: _inc/languages/management_lan.php:86
+msgid "New %1% customized id %2%"
+msgstr ""
+
+#: _inc/languages/management_lan.php:87
+msgid "New %1% serial number is %2%"
+msgstr ""
+
+#: _inc/languages/management_lan.php:88
+msgid "New %1% address is %2%"
+msgstr ""
+
+#: _inc/languages/management_lan.php:89
+msgid "Linux Launcher service cannot be found."
+msgstr ""
+
+#: _inc/languages/management_lan.php:90
+msgid "Linux Launcher service required at least 2GB of memory."
+msgstr ""
+
+#: _inc/languages/management_lan.php:91
+msgid "Getting replica disk information."
+msgstr ""
+
+#: _inc/languages/management_lan.php:92
+msgid "The volume is ready for the Launcher."
+msgstr ""
+
+#: _inc/languages/management_lan.php:93
+msgid "The recovery process submitted."
+msgstr ""
+
+#: _inc/languages/management_lan.php:94
+msgid "Cannot get the management server address."
+msgstr ""
+
+#: _inc/languages/management_lan.php:95
+msgid "Deleting replication job."
+msgstr ""
+
+#: _inc/languages/management_lan.php:96
+msgid "Get the Scheduler job status."
+msgstr ""
+
+#: _inc/languages/management_lan.php:97
+msgid "Stop the Scheduler job."
+msgstr ""
+
+#: _inc/languages/management_lan.php:98
+msgid "Remove the Scheduler job."
+msgstr ""
+
+#: _inc/languages/management_lan.php:99
+msgid "Remove the snapshot images."
+msgstr ""
+
+#: _inc/languages/management_lan.php:100
+msgid "Cannot remove the snapshot images."
+msgstr ""
+
+#: _inc/languages/management_lan.php:101
+msgid "Get the Loader job status."
+msgstr ""
+
+#: _inc/languages/management_lan.php:102
+msgid "Stop the Loader job."
+msgstr ""
+
+#: _inc/languages/management_lan.php:103
+msgid "Remove the Loader job."
+msgstr ""
+
+#: _inc/languages/management_lan.php:104
+msgid "Removing the recovery process."
+msgstr ""
+
+#: _inc/languages/management_lan.php:105
+msgid "The Recovery process removed."
+msgstr ""
+
+#: _inc/languages/management_lan.php:106
+msgid "Start to terminate instance."
+msgstr ""
+
+#: _inc/languages/management_lan.php:107
+msgid "The instance terminated."
+msgstr ""
+
+#: _inc/languages/management_lan.php:108
+msgid "Failed to terminate instance."
+msgstr ""
+
+#: _inc/languages/management_lan.php:109
+msgid "Disk unmount timeout."
+msgstr ""
+
+#: _inc/languages/management_lan.php:110
+msgid "The instance volumes removed."
+msgstr ""
+
+#: _inc/languages/management_lan.php:111
+msgid "The replication configuration updated."
+msgstr ""
+
+#: _inc/languages/management_lan.php:112
+msgid "Cannot update the replication configuration."
+msgstr ""
+
+#: _inc/languages/management_lan.php:113
+msgid "Create and upload SaaSaMe private image for volume creation reference."
+msgstr ""
+
+#: _inc/languages/management_lan.php:114
+msgid "The uploaded image still in processing.<sup>%1%</sup>"
+msgstr ""
+
+#: _inc/languages/management_lan.php:115
+msgid "Attaching the volume to the Transport server"
+msgstr ""
+
+#: _inc/languages/management_lan.php:116
+msgid "Checking the volume status<sup>%1%</sup>"
+msgstr ""
+
+#: _inc/languages/management_lan.php:117
+msgid "Disk creation timeout."
+msgstr ""
+
+#: _inc/languages/management_lan.php:118
+msgid "Snapshot %1% removed."
+msgstr ""
+
+#: _inc/languages/management_lan.php:119
+msgid "Trying to attach data disk."
+msgstr ""
+
+#: _inc/languages/management_lan.php:120
+msgid "Removing the snapshots."
+msgstr ""
+
+#: _inc/languages/management_lan.php:121
+msgid "The volume removed."
+msgstr ""
+
+#: _inc/languages/management_lan.php:122
+msgid "Getting the instance root device."
+msgstr ""
+
+#: _inc/languages/management_lan.php:123
+msgid "Powering off the instance."
+msgstr ""
+
+#: _inc/languages/management_lan.php:124
+msgid "The instance powered off."
+msgstr ""
+
+#: _inc/languages/management_lan.php:125
+msgid "Detach temp root device from the instance."
+msgstr ""
+
+#: _inc/languages/management_lan.php:126
+msgid "Attach volume to the instance."
+msgstr ""
+
+#: _inc/languages/management_lan.php:127
+msgid "Delete the temp root device."
+msgstr ""
+
+#: _inc/languages/management_lan.php:128
+msgid "Associate elastic address to instance."
+msgstr ""
+
+#: _inc/languages/management_lan.php:129
+msgid "Powering on the instance."
+msgstr ""
+
+#: _inc/languages/management_lan.php:130
+msgid "Creating temporary snapshot from converted system volume."
+msgstr ""
+
+#: _inc/languages/management_lan.php:131
+msgid "Temporary snapshot %1% created."
+msgstr ""
+
+#: _inc/languages/management_lan.php:132
+msgid "Creating custom image from snapshot %1%."
+msgstr ""
+
+#: _inc/languages/management_lan.php:133
+msgid "Custom image %1% created."
+msgstr ""
+
+#: _inc/languages/management_lan.php:134
+msgid "Instance %1% created"
+msgstr ""
+
+#: _inc/languages/management_lan.php:135
+msgid "Creating snapshot %1%"
+msgstr ""
+
+#: _inc/languages/management_lan.php:136
+msgid "Snapshot created."
+msgstr ""
+
+#: _inc/languages/management_lan.php:137
+msgid "Starting system conversion process."
+msgstr ""
+
+#: _inc/languages/management_lan.php:138
+msgid "Creating temporary system disk from last snapshot."
+msgstr ""
+
+#: _inc/languages/management_lan.php:139
+msgid "Temporary system disk created."
+msgstr ""
+
+#: _inc/languages/management_lan.php:140
+msgid "Attached temporary system disk to Transport Server."
+msgstr ""
+
+#: _inc/languages/management_lan.php:141
+msgid "New volume address is %1%."
+msgstr ""
+
+#: _inc/languages/management_lan.php:142
+msgid "The volume is ready for conversion."
+msgstr ""
+
+#: _inc/languages/management_lan.php:143
+msgid "Conversion process submitted."
+msgstr ""
+
+#: _inc/languages/management_lan.php:144
+msgid "Recover Workload process started."
+msgstr ""
+
+#: _inc/languages/management_lan.php:145
+msgid "Creating a new instance from custom image %1%."
+msgstr ""
+
+#: _inc/languages/management_lan.php:146
+msgid "Instance %1% created."
+msgstr ""
+
+#: _inc/languages/management_lan.php:147
+msgid "Creating disk %1%."
+msgstr ""
+
+#: _inc/languages/management_lan.php:148
+msgid "Attaching disk %1% to instance."
+msgstr ""
+
+#: _inc/languages/management_lan.php:149
+msgid "Starting instance."
+msgstr ""
+
+#: _inc/languages/management_lan.php:150
+msgid "Recover Workload process completed."
+msgstr ""
+
+#: _inc/languages/management_lan.php:151
+msgid "Please power off recovery instance before delete recovery process."
+msgstr ""
+
+#: _inc/languages/management_lan.php:152
+msgid "Detaching volumes from recovery instance."
+msgstr ""
+
+#: _inc/languages/management_lan.php:153
+msgid "Creating temporary instance."
+msgstr ""
+
+#: _inc/languages/management_lan.php:154
+msgid "Waiting for instance ready."
+msgstr ""
+
+#: _inc/languages/management_lan.php:155
+msgid "Failed to power off instance."
+msgstr ""
+
+#: _inc/languages/management_lan.php:156
+msgid "Getting instance root volume id."
+msgstr ""
+
+#: _inc/languages/management_lan.php:157
+msgid "Cannot get instance root id."
+msgstr ""
+
+#: _inc/languages/management_lan.php:158
+msgid "Detach root volume from instance."
+msgstr ""
+
+#: _inc/languages/management_lan.php:159
+msgid "Failed to detach root volume from instance."
+msgstr ""
+
+#: _inc/languages/management_lan.php:160
+msgid "Expend root volume size to %1%"
+msgstr ""
+
+#: _inc/languages/management_lan.php:161
+msgid "Failed to expend root volume size."
+msgstr ""
+
+#: _inc/languages/management_lan.php:162
+msgid "Delete temporary instance."
+msgstr ""
+
+#: _inc/languages/management_lan.php:163
+msgid "Failed to delete temporary instance."
+msgstr ""
+
+#: _inc/languages/management_lan.php:164
+msgid "Getting instance ready."
+msgstr ""
+
+#: _inc/languages/management_lan.php:165
+msgid "Failed to create instance."
+msgstr ""
+
+#: _inc/languages/management_lan.php:166
+msgid "Power off instance."
+msgstr ""
+
+#: _inc/languages/management_lan.php:167
+msgid "Failed to stop instance."
+msgstr ""
+
+#: _inc/languages/management_lan.php:168
+msgid "Getting instance temporary root volume id."
+msgstr ""
+
+#: _inc/languages/management_lan.php:169
+msgid "Cannot get instance temporary root volume ID."
+msgstr ""
+
+#: _inc/languages/management_lan.php:170
+msgid "Detach temporary root volume from instance."
+msgstr ""
+
+#: _inc/languages/management_lan.php:171
+msgid "Cannot get detach temporary root volume."
+msgstr ""
+
+#: _inc/languages/management_lan.php:172
+msgid "Delete temporary root volume."
+msgstr ""
+
+#: _inc/languages/management_lan.php:173
+msgid "Failed to delete temporary root volume."
+msgstr ""
+
+#: _inc/languages/management_lan.php:174
+msgid "Attach recovery volumes to instance."
+msgstr ""
+
+#: _inc/languages/management_lan.php:175
+msgid "Cannot get attach volume to the recovery instacne."
+msgstr ""
+
+#: _inc/languages/management_lan.php:176
+msgid "Power on instacne."
+msgstr ""
+
+#: _inc/languages/management_lan.php:177
+msgid "Failed to power on recovery instance."
+msgstr ""
+
+#: _inc/languages/management_lan.php:178
+msgid "Trigger job synchronization."
+msgstr ""
+
+#: _inc/languages/management_lan.php:179
+msgid "Successful submitted synchronization task."
+msgstr ""
+
+#: _inc/languages/management_lan.php:180
+msgid "Failed to submit synchronization task."
+msgstr ""
+
+#: _inc/languages/management_lan.php:181
+msgid "Instance is ready."
+msgstr ""
+
+#: _inc/languages/management_lan.php:182
+msgid ""
+"Cannot remove the replication process due to the active recovery process."
+msgstr ""
+
+#: _inc/languages/management_lan.php:183
+msgid "Fource to removed the Replication."
+msgstr ""
+
+#: _inc/languages/management_lan.php:184
+msgid "Fource to removed the Recovery."
+msgstr ""
+
+#: _inc/languages/management_lan.php:185
+msgid "Invalid Security code."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:3
+msgid "Calculating backup size of disk %1%."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:4
+msgid "Cannot calculate backup size of disk %1%."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:5
+msgid "Backup size estimate of disk %1% : %2%."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:6
+msgid "Cannot estimate backup size of disk %1%."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:7
+msgid "Cannot open disk image %1%."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:8
+msgid "Cannot create disk image %1%."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:9
+msgid "Disk %1% backup started."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:10
+msgid "Disk %1% backup failed."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:11
+msgid "Disk %1% backup completed with size : %2%"
+msgstr "磁碟 %1% 備份完成，空間大小: %2%"
+
+#: _inc/languages/transport_lan.php:12
+msgid "Cannot backup disk %1%."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:13
+msgid "Cannot get volume object from access path %1%."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:14
+msgid "Cannot find VSS snapshot for volume %1%."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:15
+msgid "Cannot find snapshot %1%."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:16
+msgid "Cannot find snapshots by snapshot set %1%."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:17
+msgid "Cannot get snapshots info."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:18
+msgid "No snapshot found."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:19
+msgid "WinPE required."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:20
+msgid "Multiple system disks found. Target only supports a single system disk."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:21
+msgid "Cannot connect to VMware host %1%."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:22
+msgid "Cannot get thumbprint data of Packer for VMware %1%."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:23
+#, php-format
+msgid "Cannot get virtual machine %s info."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:24
+msgid "Invalid job spec."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:25
+msgid "Disk %1% has incorrect changed block tracking configuration."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:26
+msgid "Cannot open vmdk file %1%."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:27
+msgid "Cannot open vmdk disk %1%."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:28
+msgid "Cannot replicate data to disk %1%."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:29
+msgid "Cannot import data block file %1%."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:30
+msgid "Cannot connect to the management server to take snapshot."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:31
+msgid "Abort replicating all data from disk %1%."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:32
+msgid "Replicating snapshot data from disk %1%."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:33
+msgid "Abort replicating snapshot data from disk %1%."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:34
+msgid "Data replication from disk %1% completed with size : %2%"
+msgstr ""
+
+#: _inc/languages/transport_lan.php:35
+msgid "Initializing Loader job."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:36
+msgid "Cannot initialize Loader job."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:37
+msgid "Cannot get the loader job detail"
+msgstr ""
+
+#: _inc/languages/transport_lan.php:38
+msgid "Cannot get a connection object."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:39
+msgid "Invalid SCSI address %1% for disk %2%."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:40
+msgid "Faile to create the detal virtual disk file %1%"
+msgstr ""
+
+#: _inc/languages/transport_lan.php:41
+msgid "Cannot create virtual disk %1%."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:42
+msgid "Cannot find disk %1%."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:43
+msgid "Job devices are not ready."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:44
+msgid "Initialization of Loader job completed."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:45
+msgid "Incorrect job spec."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:46
+msgid "Cannnot open disk %1% for data replication."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:47
+#, php-format
+msgid "Replication of %s data completed."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:48
+msgid "Snapshot creation completed."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:49
+msgid "Cannot create snapshot."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:50
+msgid "Snapshot discarded."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:51
+msgid "Cannot discard snapshot."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:52
+msgid "Disk partition is larger than %1%G."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:53
+msgid "Cannot find any bootable disk."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:54
+msgid "Conversion started."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:55
+msgid "The volume shrink operation started."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:56
+msgid ""
+"There is not enough space available on the disk(s) to complete the shrink "
+"operation."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:57
+msgid "The volume shrink operation completed."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:58
+msgid "The volume shrink operation failed."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:59
+msgid "Please make sure MBR disk to boot from UEFI BIOS."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:60
+msgid "Cannot convert partition style from GPT to MBR : disk size over 2 TB"
+msgstr ""
+
+#: _inc/languages/transport_lan.php:61
+msgid "Cannot convert partition style from GPT to MBR."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:62
+msgid "Disk conversion failed."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:63
+msgid "System booting takes longer due to Windows Update."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:64
+msgid "Cannot find any system information from disk(s)."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:65
+msgid "Initializing a Launcher job."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:66
+msgid "Cannot get the Launcher job detail from management server."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:67
+msgid "Faile to create the temp virtual disk file %1% for conversion."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:68
+msgid "Faile to attach the temp virtual disk file %1% for conversion."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:69
+msgid "Cannot find virtual disk %1%."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:70
+msgid "Cannot find any disk for recovery."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:71
+msgid "VHD upload completed."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:72
+msgid "Disk(s) conversion completed."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:73
+msgid "Disk(s) conversion failed."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:74
+msgid "Job interrupted."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:75
+msgid "Uploading VHD."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:76
+msgid "Connection retry timeout to Packer."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:77
+msgid "Connection retry timeout to Offline Packer."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:78
+msgid "Response timeout from Packer."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:79
+msgid "Response timeout from Offline Packer."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:80
+msgid "Resume connection to Packer."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:81
+msgid "Resume connection to Offline Packer."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:82
+msgid "Cannot get the replica job detail"
+msgstr ""
+
+#: _inc/languages/transport_lan.php:83
+msgid "Cannot connect to the physical host."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:84
+msgid "The Packer cannot connect to the Carrier."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:85
+msgid "Pending for available job resource."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:86
+msgid "Cannot connect to the management server."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:87
+msgid "Carrier job started."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:88
+msgid "Cannot find disks from host %1%."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:89
+msgid "Cannot take snapshots of host %1%."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:90
+msgid "Cannot create a Packer job for host %1%."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:91
+msgid "Connection retry timeout to Packer for VMware."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:92
+msgid "Response timeout from Packer for VMware."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:93
+msgid "Resume connection to Packer for VMware."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:94
+msgid "Cannot get thumbprint data of VMware host %1%."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:95
+msgid "Cannot connect to the Packer for VMware."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:96
+msgid "Virtual machine %1% not found."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:97
+msgid "Cannot enable CBT."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:98
+msgid "Cannot find disks from virtual machine %1%."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:99
+msgid "Cannot create temporary snapshot %1%."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:100
+msgid "Cannot create Packer job for host %1%."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:101
+msgid "Cannot get the replica job detail."
+msgstr ""
+
+#: _inc/languages/transport_lan.php:102
+msgid "Cannot creatae a Packer job for host %1%."
+msgstr ""
+
+#: _pages/_headernavi.php:5
+msgid "Reset"
+msgstr ""
+
+#: _pages/_headernavi.php:6
+msgid "Log out"
+msgstr ""
+
+#: _pages/_headernavi.php:7
+msgid "Settings"
+msgstr ""
+
+#: _pages/_headernavi.php:8
+msgid "Main"
+msgstr ""
+
+#: _pages/_inc/_ConfigureWorkload.php:162
+#: _pages/_inc/_MgmtPrepareWorkload.php:660
+#: _pages/_inc/_PrepareWorkloadSummary.php:371
+#: _pages/_inc/_SelectRegisteredHost.php:230
+#: _pages/_inc/_SelectTargetTransportServer.php:131 _pages/_leftnavi.php:13
+msgid "Replication"
+msgstr ""
+
+#: _pages/_inc/_ConfigureWorkload.php:168
+#: _pages/_inc/_PrepareWorkloadSummary.php:377
+#: _pages/_inc/_SelectRegisteredHost.php:236
+#: _pages/_inc/_SelectTargetTransportServer.php:137
+msgid "Step 1 - Select Registered Host"
+msgstr ""
+
+#: _pages/_inc/_ConfigureWorkload.php:169
+#: _pages/_inc/_PrepareWorkloadSummary.php:378
+#: _pages/_inc/_SelectRegisteredHost.php:237
+#: _pages/_inc/_SelectTargetTransportServer.php:138
+msgid "Step 2 - Select Transport Server"
+msgstr ""
+
+#: _pages/_inc/_ConfigureWorkload.php:170
+#: _pages/_inc/_PrepareWorkloadSummary.php:379
+#: _pages/_inc/_SelectRegisteredHost.php:238
+#: _pages/_inc/_SelectTargetTransportServer.php:139
+msgid "Step 3 - Configure Workload"
+msgstr ""
+
+#: _pages/_inc/_ConfigureWorkload.php:171
+#: _pages/_inc/_PrepareWorkloadSummary.php:380
+#: _pages/_inc/_SelectRegisteredHost.php:239
+#: _pages/_inc/_SelectTargetTransportServer.php:140
+msgid "Step 4 - Configure Schedule"
+msgstr ""
+
+#: _pages/_inc/_ConfigureWorkload.php:172
+#: _pages/_inc/_PrepareWorkloadSummary.php:381
+#: _pages/_inc/_SelectRegisteredHost.php:240
+#: _pages/_inc/_SelectTargetTransportServer.php:141
+msgid "Step 5 - Replication Summary"
+msgstr ""
+
+#: _pages/_inc/_ConfigureWorkload.php:181
+msgid "Pre Snapshot Script:"
+msgstr ""
+
+#: _pages/_inc/_ConfigureWorkload.php:186
+msgid "Post Snapshot Script:"
+msgstr ""
+
+#: _pages/_inc/_ConfigureWorkload.php:193
+#: _pages/_inc/_InstanceAliyunConfigurations.php:678
+#: _pages/_inc/_InstanceAwsConfigurations.php:571
+#: _pages/_inc/_InstanceAzureConfigurations.php:109
+#: _pages/_inc/_InstanceConfigurations.php:676
+#: _pages/_inc/_InstanceCtyunConfigurations.php:672
+#: _pages/_inc/_InstanceTencentConfigurations.php:663
+#: _pages/_inc/_MgmtAcct.php:773 _pages/_inc/_MgmtAliyunConnection.php:273
+#: _pages/_inc/_MgmtAwsConnection.php:261
+#: _pages/_inc/_MgmtAzureConnection.php:361
+#: _pages/_inc/_MgmtCtyunConnection.php:285
+#: _pages/_inc/_MgmtHuaweiCloudConnection.php:313
+#: _pages/_inc/_MgmtOpenStackConnection.php:302
+#: _pages/_inc/_MgmtTencentConnection.php:283
+#: _pages/_inc/_PlanInstanceAliyunConfigurations.php:647
+#: _pages/_inc/_PlanInstanceAwsConfigurations.php:616
+#: _pages/_inc/_PlanInstanceAzureConfigurations.php:157
+#: _pages/_inc/_PlanInstanceConfigurations.php:703
+#: _pages/_inc/_PlanInstanceTencentConfigurations.php:723
+#: _pages/_inc/_PlanRecoverAliyunSummary.php:348
+#: _pages/_inc/_PlanRecoverAwsSummary.php:361
+#: _pages/_inc/_PlanRecoverAzureSummary.php:358
+#: _pages/_inc/_PlanRecoverSummary.php:383
+#: _pages/_inc/_PlanRecoverTencentSummary.php:348
+#: _pages/_inc/_PlanSelectRecoverReplica.php:226
+#: _pages/_inc/_PlanSelectRecoverType.php:144
+#: _pages/_inc/_PrepareWorkloadSummary.php:425
+#: _pages/_inc/_RecoverAliyunSummary.php:351
+#: _pages/_inc/_RecoverAwsSummary.php:373
+#: _pages/_inc/_RecoverAzureSummary.php:367
+#: _pages/_inc/_RecoverCtyunSummary.php:368
+#: _pages/_inc/_RecoverExportSummary.php:287
+#: _pages/_inc/_RecoverKitSummary.php:248 _pages/_inc/_RecoverSummary.php:393
+#: _pages/_inc/_RecoverTencentSummary.php:340
+#: _pages/_inc/_SelectAliyunHostTransportInstance.php:204
+#: _pages/_inc/_SelectAliyunTransportInstance.php:204
+#: _pages/_inc/_SelectAwsHostTransportInstance.php:228
+#: _pages/_inc/_SelectAwsLinuxLauncher.php:227
+#: _pages/_inc/_SelectAwsTransportInstance.php:226
+#: _pages/_inc/_SelectAzureHostTransportInstance.php:201
+#: _pages/_inc/_SelectAzureTransportInstance.php:208
+#: _pages/_inc/_SelectCtyunHostTransportInstance.php:212
+#: _pages/_inc/_SelectCtyunTransportInstance.php:211
+#: _pages/_inc/_SelectHostTransportInstance.php:208
+#: _pages/_inc/_SelectLinuxLauncher.php:210
+#: _pages/_inc/_SelectListAliyunSnapshot.php:178
+#: _pages/_inc/_SelectListAzureSnapshot.php:213
+#: _pages/_inc/_SelectListCtyunSnapshot.php:171
+#: _pages/_inc/_SelectListEbsSnapshot.php:177
+#: _pages/_inc/_SelectListSnapshot.php:161
+#: _pages/_inc/_SelectListTencentSnapshot.php:178
+#: _pages/_inc/_SelectRecoverHost.php:245
+#: _pages/_inc/_SelectRecoverPlan.php:159
+#: _pages/_inc/_SelectRegisteredHost.php:264
+#: _pages/_inc/_SelectTargetTransportServer.php:154
+#: _pages/_inc/_SelectTencentHostTransportInstance.php:204
+#: _pages/_inc/_SelectTencentTransportInstance.php:204
+#: _pages/_inc/_SelectTransportInstance.php:215
+#: _pages/_inc/_ServCloudConnection.php:201
+#: _pages/_inc/_ServLinuxConnection.php:175
+#: _pages/_inc/_VerifyAliyunHostTransportType.php:458
+#: _pages/_inc/_VerifyAliyunTransportServices.php:467
+#: _pages/_inc/_VerifyAwsHostTransportType.php:485
+#: _pages/_inc/_VerifyAwsLinuxLauncherService.php:404
+#: _pages/_inc/_VerifyAwsTransportServices.php:493
+#: _pages/_inc/_VerifyAzureHostTransportType.php:452
+#: _pages/_inc/_VerifyAzureTransportServices.php:507
+#: _pages/_inc/_VerifyCloudTransportServices.php:451
+#: _pages/_inc/_VerifyCtyunHostTransportType.php:473
+#: _pages/_inc/_VerifyCtyunTransportServices.php:451
+#: _pages/_inc/_VerifyHostCloud.php:187
+#: _pages/_inc/_VerifyHostOfflineClone.php:376
+#: _pages/_inc/_VerifyHostPhysical.php:384
+#: _pages/_inc/_VerifyHostTransportType.php:473
+#: _pages/_inc/_VerifyHostVirtual.php:419
+#: _pages/_inc/_VerifyLinuxLauncherService.php:377
+#: _pages/_inc/_VerifyOnPremiseTransportServices.php:375
+#: _pages/_inc/_VerifyRecoveryKitServices.php:300
+#: _pages/_inc/_VerifyTencentHostTransportType.php:423
+#: _pages/_inc/_VerifyTencentTransportServices.php:522
+msgid "Back"
+msgstr ""
+
+#: _pages/_inc/_ConfigureWorkload.php:194
+#: _pages/_inc/_InstanceAliyunConfigurations.php:679
+#: _pages/_inc/_InstanceAwsConfigurations.php:572
+#: _pages/_inc/_InstanceAzureConfigurations.php:110
+#: _pages/_inc/_InstanceConfigurations.php:677
+#: _pages/_inc/_InstanceCtyunConfigurations.php:673
+#: _pages/_inc/_InstanceTencentConfigurations.php:664
+#: _pages/_inc/_MgmtAliyunConnection.php:274
+#: _pages/_inc/_MgmtAwsConnection.php:262
+#: _pages/_inc/_MgmtAzureConnection.php:362
+#: _pages/_inc/_MgmtCtyunConnection.php:286
+#: _pages/_inc/_MgmtHuaweiCloudConnection.php:314
+#: _pages/_inc/_MgmtOpenStackConnection.php:303
+#: _pages/_inc/_MgmtTencentConnection.php:284
+#: _pages/_inc/_PlanInstanceAliyunConfigurations.php:648
+#: _pages/_inc/_PlanInstanceAwsConfigurations.php:617
+#: _pages/_inc/_PlanInstanceAzureConfigurations.php:158
+#: _pages/_inc/_PlanInstanceConfigurations.php:704
+#: _pages/_inc/_PlanInstanceTencentConfigurations.php:724
+#: _pages/_inc/_PlanRecoverAliyunSummary.php:349
+#: _pages/_inc/_PlanRecoverAwsSummary.php:362
+#: _pages/_inc/_PlanRecoverAzureSummary.php:359
+#: _pages/_inc/_PlanRecoverSummary.php:384
+#: _pages/_inc/_PlanRecoverTencentSummary.php:349
+#: _pages/_inc/_PlanSelectRecoverReplica.php:227
+#: _pages/_inc/_PlanSelectRecoverType.php:145
+#: _pages/_inc/_PrepareWorkloadSummary.php:426
+#: _pages/_inc/_RecoverAliyunSummary.php:352
+#: _pages/_inc/_RecoverAwsSummary.php:374
+#: _pages/_inc/_RecoverAzureSummary.php:368
+#: _pages/_inc/_RecoverCtyunSummary.php:369
+#: _pages/_inc/_RecoverExportSummary.php:288
+#: _pages/_inc/_RecoverKitSummary.php:249 _pages/_inc/_RecoverSummary.php:394
+#: _pages/_inc/_RecoverTencentSummary.php:341
+#: _pages/_inc/_SelectAliyunHostTransportInstance.php:205
+#: _pages/_inc/_SelectAliyunTransportInstance.php:205
+#: _pages/_inc/_SelectAwsHostTransportInstance.php:229
+#: _pages/_inc/_SelectAwsLinuxLauncher.php:228
+#: _pages/_inc/_SelectAwsTransportInstance.php:227
+#: _pages/_inc/_SelectAzureHostTransportInstance.php:202
+#: _pages/_inc/_SelectAzureTransportInstance.php:209
+#: _pages/_inc/_SelectCtyunHostTransportInstance.php:213
+#: _pages/_inc/_SelectCtyunTransportInstance.php:212
+#: _pages/_inc/_SelectHostTransportInstance.php:209
+#: _pages/_inc/_SelectLinuxLauncher.php:211
+#: _pages/_inc/_SelectListAliyunSnapshot.php:179
+#: _pages/_inc/_SelectListAzureSnapshot.php:214
+#: _pages/_inc/_SelectListCtyunSnapshot.php:172
+#: _pages/_inc/_SelectListEbsSnapshot.php:178
+#: _pages/_inc/_SelectListSnapshot.php:162
+#: _pages/_inc/_SelectListTencentSnapshot.php:179
+#: _pages/_inc/_SelectRecoverHost.php:246
+#: _pages/_inc/_SelectRecoverPlan.php:160
+#: _pages/_inc/_SelectRegisteredHost.php:265
+#: _pages/_inc/_SelectTargetTransportServer.php:155
+#: _pages/_inc/_SelectTencentHostTransportInstance.php:205
+#: _pages/_inc/_SelectTencentTransportInstance.php:205
+#: _pages/_inc/_SelectTransportInstance.php:216
+#: _pages/_inc/_ServCloudConnection.php:202
+#: _pages/_inc/_ServLinuxConnection.php:176
+#: _pages/_inc/_VerifyAliyunHostTransportType.php:459
+#: _pages/_inc/_VerifyAliyunTransportServices.php:468
+#: _pages/_inc/_VerifyAwsHostTransportType.php:486
+#: _pages/_inc/_VerifyAwsLinuxLauncherService.php:405
+#: _pages/_inc/_VerifyAwsTransportServices.php:494
+#: _pages/_inc/_VerifyAzureHostTransportType.php:453
+#: _pages/_inc/_VerifyAzureTransportServices.php:508
+#: _pages/_inc/_VerifyCloudTransportServices.php:452
+#: _pages/_inc/_VerifyCtyunHostTransportType.php:474
+#: _pages/_inc/_VerifyCtyunTransportServices.php:452
+#: _pages/_inc/_VerifyHostCloud.php:188
+#: _pages/_inc/_VerifyHostOfflineClone.php:377
+#: _pages/_inc/_VerifyHostPhysical.php:385
+#: _pages/_inc/_VerifyHostTransportType.php:474
+#: _pages/_inc/_VerifyHostVirtual.php:420
+#: _pages/_inc/_VerifyLinuxLauncherService.php:378
+#: _pages/_inc/_VerifyOnPremiseTransportServices.php:376
+#: _pages/_inc/_VerifyRecoveryKitServices.php:301
+#: _pages/_inc/_VerifyTencentHostTransportType.php:424
+#: _pages/_inc/_VerifyTencentTransportServices.php:523
+msgid "Cancel"
+msgstr ""
+
+#: _pages/_inc/_ConfigureWorkload.php:195
+#: _pages/_inc/_InstanceAliyunConfigurations.php:680
+#: _pages/_inc/_InstanceAwsConfigurations.php:573
+#: _pages/_inc/_InstanceAzureConfigurations.php:111
+#: _pages/_inc/_InstanceConfigurations.php:678
+#: _pages/_inc/_InstanceCtyunConfigurations.php:674
+#: _pages/_inc/_InstanceTencentConfigurations.php:665
+#: _pages/_inc/_PlanInstanceAliyunConfigurations.php:649
+#: _pages/_inc/_PlanInstanceAwsConfigurations.php:618
+#: _pages/_inc/_PlanInstanceAzureConfigurations.php:159
+#: _pages/_inc/_PlanInstanceConfigurations.php:705
+#: _pages/_inc/_PlanInstanceTencentConfigurations.php:725
+#: _pages/_inc/_PlanSelectRecoverReplica.php:228
+#: _pages/_inc/_PlanSelectRecoverType.php:146
+#: _pages/_inc/_SelectAliyunHostTransportInstance.php:206
+#: _pages/_inc/_SelectAliyunTransportInstance.php:206
+#: _pages/_inc/_SelectAwsHostTransportInstance.php:230
+#: _pages/_inc/_SelectAwsLinuxLauncher.php:229
+#: _pages/_inc/_SelectAwsTransportInstance.php:228
+#: _pages/_inc/_SelectAzureHostTransportInstance.php:203
+#: _pages/_inc/_SelectAzureTransportInstance.php:210
+#: _pages/_inc/_SelectCtyunHostTransportInstance.php:214
+#: _pages/_inc/_SelectCtyunTransportInstance.php:213
+#: _pages/_inc/_SelectHostTransportInstance.php:210
+#: _pages/_inc/_SelectLinuxLauncher.php:212
+#: _pages/_inc/_SelectListAliyunSnapshot.php:180
+#: _pages/_inc/_SelectListAzureSnapshot.php:215
+#: _pages/_inc/_SelectListCtyunSnapshot.php:173
+#: _pages/_inc/_SelectListEbsSnapshot.php:179
+#: _pages/_inc/_SelectListSnapshot.php:163
+#: _pages/_inc/_SelectListTencentSnapshot.php:180
+#: _pages/_inc/_SelectRecoverHost.php:247
+#: _pages/_inc/_SelectRecoverPlan.php:161
+#: _pages/_inc/_SelectRegisteredHost.php:266
+#: _pages/_inc/_SelectTargetTransportServer.php:156
+#: _pages/_inc/_SelectTencentHostTransportInstance.php:206
+#: _pages/_inc/_SelectTencentTransportInstance.php:206
+#: _pages/_inc/_SelectTransportInstance.php:217
+#: _pages/_inc/_ServCloudConnection.php:203
+#: _pages/_inc/_ServLinuxConnection.php:177
+#: _pages/_inc/_VerifyHostCloud.php:189
+msgid "Next"
+msgstr ""
+
+#: _pages/_inc/_InstanceAliyunConfigurations.php:619
+#: _pages/_inc/_InstanceAwsConfigurations.php:527
+#: _pages/_inc/_InstanceAzureConfigurations.php:42
+#: _pages/_inc/_InstanceConfigurations.php:630
+#: _pages/_inc/_InstanceCtyunConfigurations.php:626
+#: _pages/_inc/_MgmtRecoverWorkload.php:556
+#: _pages/_inc/_PlanRecoverAliyunSummary.php:310
+#: _pages/_inc/_PlanRecoverAwsSummary.php:324
+#: _pages/_inc/_PlanRecoverAzureSummary.php:320
+#: _pages/_inc/_RecoverAliyunSummary.php:299
+#: _pages/_inc/_RecoverAwsSummary.php:321
+#: _pages/_inc/_RecoverAzureSummary.php:316
+#: _pages/_inc/_RecoverCtyunSummary.php:316
+#: _pages/_inc/_RecoverExportSummary.php:251
+#: _pages/_inc/_RecoverKitSummary.php:213 _pages/_inc/_RecoverSummary.php:341
+#: _pages/_inc/_SelectListAliyunSnapshot.php:158
+#: _pages/_inc/_SelectListAzureSnapshot.php:193
+#: _pages/_inc/_SelectListCtyunSnapshot.php:151
+#: _pages/_inc/_SelectListEbsSnapshot.php:157
+#: _pages/_inc/_SelectListSnapshot.php:141
+#: _pages/_inc/_SelectRecoverHost.php:209
+#: _pages/_inc/_SelectRecoverPlan.php:113 _pages/_leftnavi.php:15
+#: _pages/_leftnavi.php:17
+msgid "Recovery"
+msgstr ""
+
+#: _pages/_inc/_InstanceAliyunConfigurations.php:625
+#: _pages/_inc/_InstanceAwsConfigurations.php:533
+#: _pages/_inc/_InstanceAzureConfigurations.php:48
+#: _pages/_inc/_InstanceConfigurations.php:636
+#: _pages/_inc/_InstanceCtyunConfigurations.php:632
+#: _pages/_inc/_InstanceTencentConfigurations.php:602
+#: _pages/_inc/_PlanInstanceAliyunConfigurations.php:601
+#: _pages/_inc/_PlanInstanceAwsConfigurations.php:578
+#: _pages/_inc/_PlanInstanceAzureConfigurations.php:97
+#: _pages/_inc/_PlanInstanceConfigurations.php:664
+#: _pages/_inc/_PlanInstanceTencentConfigurations.php:664
+#: _pages/_inc/_PlanRecoverAliyunSummary.php:316
+#: _pages/_inc/_PlanRecoverAwsSummary.php:330
+#: _pages/_inc/_PlanRecoverAzureSummary.php:326
+#: _pages/_inc/_PlanRecoverSummary.php:352
+#: _pages/_inc/_PlanRecoverTencentSummary.php:311
+#: _pages/_inc/_PlanSelectRecoverReplica.php:197
+#: _pages/_inc/_PlanSelectRecoverType.php:105
+#: _pages/_inc/_RecoverAliyunSummary.php:305
+#: _pages/_inc/_RecoverAwsSummary.php:327
+#: _pages/_inc/_RecoverAzureSummary.php:322
+#: _pages/_inc/_RecoverCtyunSummary.php:322
+#: _pages/_inc/_RecoverExportSummary.php:257
+#: _pages/_inc/_RecoverKitSummary.php:219 _pages/_inc/_RecoverSummary.php:347
+#: _pages/_inc/_RecoverTencentSummary.php:298
+#: _pages/_inc/_SelectListAliyunSnapshot.php:164
+#: _pages/_inc/_SelectListAzureSnapshot.php:199
+#: _pages/_inc/_SelectListCtyunSnapshot.php:157
+#: _pages/_inc/_SelectListEbsSnapshot.php:163
+#: _pages/_inc/_SelectListSnapshot.php:147
+#: _pages/_inc/_SelectListTencentSnapshot.php:164
+#: _pages/_inc/_SelectRecoverHost.php:215
+#: _pages/_inc/_SelectRecoverPlan.php:119
+msgid "Step 1 - Select Host"
+msgstr ""
+
+#: _pages/_inc/_InstanceAliyunConfigurations.php:626
+#: _pages/_inc/_InstanceAwsConfigurations.php:534
+#: _pages/_inc/_InstanceAzureConfigurations.php:49
+#: _pages/_inc/_InstanceConfigurations.php:637
+#: _pages/_inc/_InstanceCtyunConfigurations.php:633
+#: _pages/_inc/_InstanceTencentConfigurations.php:603
+#: _pages/_inc/_PlanInstanceAliyunConfigurations.php:602
+#: _pages/_inc/_PlanInstanceAwsConfigurations.php:579
+#: _pages/_inc/_PlanInstanceAzureConfigurations.php:98
+#: _pages/_inc/_PlanInstanceConfigurations.php:665
+#: _pages/_inc/_PlanInstanceTencentConfigurations.php:665
+#: _pages/_inc/_PlanRecoverAliyunSummary.php:317
+#: _pages/_inc/_PlanRecoverAwsSummary.php:331
+#: _pages/_inc/_PlanRecoverAzureSummary.php:327
+#: _pages/_inc/_PlanRecoverSummary.php:353
+#: _pages/_inc/_PlanRecoverTencentSummary.php:312
+#: _pages/_inc/_PlanSelectRecoverReplica.php:198
+#: _pages/_inc/_PlanSelectRecoverType.php:106
+#: _pages/_inc/_RecoverAliyunSummary.php:306
+#: _pages/_inc/_RecoverAwsSummary.php:328
+#: _pages/_inc/_RecoverAzureSummary.php:323
+#: _pages/_inc/_RecoverCtyunSummary.php:323
+#: _pages/_inc/_RecoverExportSummary.php:258
+#: _pages/_inc/_RecoverKitSummary.php:220 _pages/_inc/_RecoverSummary.php:348
+#: _pages/_inc/_RecoverTencentSummary.php:299
+#: _pages/_inc/_SelectListAliyunSnapshot.php:165
+#: _pages/_inc/_SelectListAzureSnapshot.php:200
+#: _pages/_inc/_SelectListCtyunSnapshot.php:158
+#: _pages/_inc/_SelectListEbsSnapshot.php:164
+#: _pages/_inc/_SelectListSnapshot.php:148
+#: _pages/_inc/_SelectListTencentSnapshot.php:165
+#: _pages/_inc/_SelectRecoverHost.php:216
+#: _pages/_inc/_SelectRecoverPlan.php:120
+msgid "Step 2 - Select Recovery Type"
+msgstr ""
+
+#: _pages/_inc/_InstanceAliyunConfigurations.php:627
+#: _pages/_inc/_InstanceAwsConfigurations.php:535
+#: _pages/_inc/_InstanceAzureConfigurations.php:50
+#: _pages/_inc/_InstanceConfigurations.php:638
+#: _pages/_inc/_InstanceCtyunConfigurations.php:634
+#: _pages/_inc/_InstanceTencentConfigurations.php:604
+#: _pages/_inc/_RecoverAliyunSummary.php:307
+#: _pages/_inc/_RecoverAwsSummary.php:329
+#: _pages/_inc/_RecoverCtyunSummary.php:324
+#: _pages/_inc/_RecoverExportSummary.php:259
+#: _pages/_inc/_RecoverKitSummary.php:221 _pages/_inc/_RecoverSummary.php:349
+#: _pages/_inc/_RecoverTencentSummary.php:300
+#: _pages/_inc/_SelectListAliyunSnapshot.php:166
+#: _pages/_inc/_SelectListAzureSnapshot.php:201
+#: _pages/_inc/_SelectListCtyunSnapshot.php:159
+#: _pages/_inc/_SelectListEbsSnapshot.php:165
+#: _pages/_inc/_SelectListSnapshot.php:149
+#: _pages/_inc/_SelectListTencentSnapshot.php:166
+#: _pages/_inc/_SelectRecoverHost.php:217
+#: _pages/_inc/_SelectRecoverPlan.php:121
+msgid "Step 3 - Select Snapshot"
+msgstr ""
+
+#: _pages/_inc/_InstanceAliyunConfigurations.php:628
+#: _pages/_inc/_InstanceAwsConfigurations.php:536
+#: _pages/_inc/_InstanceAzureConfigurations.php:51
+#: _pages/_inc/_InstanceConfigurations.php:639
+#: _pages/_inc/_InstanceCtyunConfigurations.php:635
+#: _pages/_inc/_InstanceTencentConfigurations.php:605
+#: _pages/_inc/_RecoverAliyunSummary.php:308
+#: _pages/_inc/_RecoverAwsSummary.php:330
+#: _pages/_inc/_RecoverCtyunSummary.php:325
+#: _pages/_inc/_RecoverExportSummary.php:260
+#: _pages/_inc/_RecoverKitSummary.php:222 _pages/_inc/_RecoverSummary.php:350
+#: _pages/_inc/_RecoverTencentSummary.php:301
+#: _pages/_inc/_SelectListAliyunSnapshot.php:167
+#: _pages/_inc/_SelectListAzureSnapshot.php:202
+#: _pages/_inc/_SelectListCtyunSnapshot.php:160
+#: _pages/_inc/_SelectListEbsSnapshot.php:166
+#: _pages/_inc/_SelectListSnapshot.php:150
+#: _pages/_inc/_SelectListTencentSnapshot.php:167
+#: _pages/_inc/_SelectRecoverHost.php:218
+#: _pages/_inc/_SelectRecoverPlan.php:122
+msgid "Step 4 - Configure Instance"
+msgstr ""
+
+#: _pages/_inc/_InstanceAliyunConfigurations.php:629
+#: _pages/_inc/_InstanceAwsConfigurations.php:537
+#: _pages/_inc/_InstanceAzureConfigurations.php:52
+#: _pages/_inc/_InstanceConfigurations.php:640
+#: _pages/_inc/_InstanceCtyunConfigurations.php:636
+#: _pages/_inc/_InstanceTencentConfigurations.php:606
+#: _pages/_inc/_RecoverAliyunSummary.php:309
+#: _pages/_inc/_RecoverAwsSummary.php:331
+#: _pages/_inc/_RecoverCtyunSummary.php:326
+#: _pages/_inc/_RecoverExportSummary.php:261
+#: _pages/_inc/_RecoverKitSummary.php:223 _pages/_inc/_RecoverSummary.php:351
+#: _pages/_inc/_RecoverTencentSummary.php:302
+#: _pages/_inc/_SelectListAliyunSnapshot.php:168
+#: _pages/_inc/_SelectListAzureSnapshot.php:203
+#: _pages/_inc/_SelectListCtyunSnapshot.php:161
+#: _pages/_inc/_SelectListEbsSnapshot.php:167
+#: _pages/_inc/_SelectListSnapshot.php:151
+#: _pages/_inc/_SelectListTencentSnapshot.php:168
+#: _pages/_inc/_SelectRecoverHost.php:219
+#: _pages/_inc/_SelectRecoverPlan.php:123
+msgid "Step 5 - Recovery Summary"
+msgstr ""
+
+#: _pages/_inc/_InstanceAliyunConfigurations.php:634
+#: _pages/_inc/_InstanceAzureConfigurations.php:57
+#: _pages/_inc/_InstanceConfigurations.php:645
+#: _pages/_inc/_InstanceCtyunConfigurations.php:641
+#: _pages/_inc/_InstanceTencentConfigurations.php:611
+#: _pages/_inc/_PlanInstanceAliyunConfigurations.php:609
+#: _pages/_inc/_PlanInstanceAwsConfigurations.php:586
+#: _pages/_inc/_PlanInstanceAzureConfigurations.php:105
+#: _pages/_inc/_PlanInstanceConfigurations.php:672
+msgid "Recovery Script"
+msgstr ""
+
+#: _pages/_inc/_InstanceAliyunConfigurations.php:638
+#: _pages/_inc/_InstanceAwsConfigurations.php:545
+#: _pages/_inc/_InstanceAzureConfigurations.php:61
+#: _pages/_inc/_InstanceConfigurations.php:649
+#: _pages/_inc/_InstanceTencentConfigurations.php:615
+#: _pages/_inc/_PlanInstanceAliyunConfigurations.php:613
+#: _pages/_inc/_PlanInstanceAwsConfigurations.php:590
+#: _pages/_inc/_PlanInstanceAzureConfigurations.php:109
+#: _pages/_inc/_PlanInstanceConfigurations.php:676
+#: _pages/_inc/_PlanInstanceTencentConfigurations.php:675
+msgid "Add Script"
+msgstr ""
+
+#: _pages/_inc/_InstanceAliyunConfigurations.php:642
+#: _pages/_inc/_InstanceAwsConfigurations.php:549
+#: _pages/_inc/_InstanceAzureConfigurations.php:65
+#: _pages/_inc/_InstanceTencentConfigurations.php:619
+#: _pages/_inc/_PlanInstanceAliyunConfigurations.php:617
+#: _pages/_inc/_PlanInstanceAwsConfigurations.php:594
+#: _pages/_inc/_PlanInstanceAzureConfigurations.php:113
+#: _pages/_inc/_PlanInstanceTencentConfigurations.php:679
+#: _pages/_inc/_SelectAwsHostTransportInstance.php:214
+#: _pages/_inc/_SelectAwsLinuxLauncher.php:213
+#: _pages/_inc/_SelectAwsTransportInstance.php:212
+#: _pages/_inc/_SelectCtyunHostTransportInstance.php:198
+#: _pages/_inc/_SelectCtyunTransportInstance.php:197
+msgid "Instance Type"
+msgstr ""
+
+#: _pages/_inc/_InstanceAliyunConfigurations.php:647
+#: _pages/_inc/_InstanceTencentConfigurations.php:624
+#: _pages/_inc/_PlanInstanceAliyunConfigurations.php:622
+#: _pages/_inc/_PlanInstanceTencentConfigurations.php:684
+msgid "VPC"
+msgstr ""
+
+#: _pages/_inc/_InstanceAliyunConfigurations.php:652
+#: _pages/_inc/_PlanInstanceAliyunConfigurations.php:627
+msgid "Switch"
+msgstr ""
+
+#: _pages/_inc/_InstanceAliyunConfigurations.php:657
+#: _pages/_inc/_InstanceAwsConfigurations.php:559
+#: _pages/_inc/_InstanceAzureConfigurations.php:75
+#: _pages/_inc/_InstanceConfigurations.php:664
+#: _pages/_inc/_InstanceCtyunConfigurations.php:660
+#: _pages/_inc/_InstanceTencentConfigurations.php:634
+#: _pages/_inc/_PlanInstanceAliyunConfigurations.php:632
+#: _pages/_inc/_PlanInstanceAwsConfigurations.php:604
+#: _pages/_inc/_PlanInstanceAzureConfigurations.php:123
+#: _pages/_inc/_PlanInstanceConfigurations.php:691
+#: _pages/_inc/_PlanInstanceTencentConfigurations.php:694
+msgid "Security Group"
+msgstr ""
+
+#: _pages/_inc/_InstanceAliyunConfigurations.php:662
+#: _pages/_inc/_InstanceAzureConfigurations.php:93
+#: _pages/_inc/_InstanceTencentConfigurations.php:647
+#: _pages/_inc/_PlanInstanceAliyunConfigurations.php:637
+#: _pages/_inc/_PlanInstanceAzureConfigurations.php:141
+#: _pages/_inc/_PlanInstanceTencentConfigurations.php:707
+msgid "Public IP"
+msgstr ""
+
+#: _pages/_inc/_InstanceAliyunConfigurations.php:669
+#: _pages/_inc/_InstanceAzureConfigurations.php:100
+#: _pages/_inc/_InstanceTencentConfigurations.php:654
+#: _pages/_inc/_PlanInstanceAzureConfigurations.php:148
+#: _pages/_inc/_PlanInstanceTencentConfigurations.php:714
+msgid "Specified Private IP:"
+msgstr ""
+
+#: _pages/_inc/_InstanceAwsConfigurations.php:554
+#: _pages/_inc/_PlanInstanceAwsConfigurations.php:599
+msgid "Internal Network"
+msgstr ""
+
+#: _pages/_inc/_InstanceAwsConfigurations.php:564
+#: _pages/_inc/_PlanInstanceAwsConfigurations.php:609
+msgid "Elastic Address"
+msgstr ""
+
+#: _pages/_inc/_InstanceAzureConfigurations.php:70
+#: _pages/_inc/_PlanInstanceAzureConfigurations.php:118
+msgid "Internal Network ( virtual network | subnet )"
+msgstr ""
+
+#: _pages/_inc/_InstanceAzureConfigurations.php:80
+#: _pages/_inc/_PlanInstanceAzureConfigurations.php:128
+msgid "Availability Set"
+msgstr ""
+
+#: _pages/_inc/_InstanceAzureConfigurations.php:85
+#: _pages/_inc/_InstanceTencentConfigurations.php:639
+#: _pages/_inc/_PlanInstanceAzureConfigurations.php:133
+#: _pages/_inc/_PlanInstanceTencentConfigurations.php:699
+msgid "Disk Type"
+msgstr ""
+
+#: _pages/_inc/_InstanceConfigurations.php:653
+#: _pages/_inc/_InstanceCtyunConfigurations.php:649
+#: _pages/_inc/_PlanInstanceConfigurations.php:680
+msgid "Instance Flavors"
+msgstr ""
+
+#: _pages/_inc/_InstanceConfigurations.php:657
+#: _pages/_inc/_InstanceCtyunConfigurations.php:653
+#: _pages/_inc/_PlanInstanceConfigurations.php:684
+msgid "Subnet Network"
+msgstr ""
+
+#: _pages/_inc/_InstanceConfigurations.php:669
+#: _pages/_inc/_InstanceCtyunConfigurations.php:665
+#: _pages/_inc/_PlanInstanceConfigurations.php:696
+#: _pages/_inc/_SelectCtyunHostTransportInstance.php:197
+#: _pages/_inc/_SelectCtyunTransportInstance.php:196
+#: _pages/_inc/_SelectHostTransportInstance.php:195
+#: _pages/_inc/_SelectLinuxLauncher.php:197
+#: _pages/_inc/_SelectTransportInstance.php:202
+msgid "Floating IP"
+msgstr ""
+
+#: _pages/_inc/_InstanceTencentConfigurations.php:596
+#: _pages/_inc/_PlanInstanceTencentConfigurations.php:658
+#: _pages/_inc/_PlanRecoverTencentSummary.php:305
+#: _pages/_inc/_RecoverTencentSummary.php:292
+#: _pages/_inc/_SelectListTencentSnapshot.php:158
+msgid "Recover Workload"
+msgstr ""
+
+#: _pages/_inc/_InstanceTencentConfigurations.php:629
+#: _pages/_inc/_PlanInstanceTencentConfigurations.php:689
+msgid "Subnet"
+msgstr ""
+
+#: _pages/_inc/_Login.php:92
+msgid "Username"
+msgstr ""
+
+#: _pages/_inc/_Login.php:97
+msgid "Password"
+msgstr ""
+
+#: _pages/_inc/_Login.php:103
+msgid "Log in"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:80 _pages/_inc/_MgmtAcct.php:926
+msgid "Loading... "
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:490 _pages/_inc/_MgmtAcct.php:507
+msgid "Authorization Message"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:550 _pages/_inc/_MgmtAcct.php:689
+msgid "Select Type of X-Ray"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:551
+msgid "Cannot get Transport server\\'s X-Ray."
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:598 _pages/_inc/_MgmtAcct.php:1524
+#: _pages/_inc/_MgmtAcct.php:1686
+msgid "Information"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:598
+msgid "Account UUID copied!"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:650
+msgid "Transport Server"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:651
+msgid "Packer for Windows/Linux"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:652
+msgid "checked> Management Server"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:690
+msgid "Please select a X-Ray type."
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:734
+msgid "General"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:735
+msgid "Notifications"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:736
+msgid "Licensing"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:737
+msgid "File Management"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:743
+msgid "Time Zone:"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:744
+msgid "Web Port:"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:752
+msgid "Language:"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:753
+msgid "UI Mode:"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:754
+msgid "Security Code:"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:763 _pages/_inc/_MgmtAcct.php:842
+#: _pages/_inc/_MgmtHuaweiCloudConnection.php:300
+#: _pages/_inc/_MgmtOpenStackConnection.php:294
+msgid "Password:"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:764
+msgid "Account UUID:"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:774 _pages/_inc/_MgmtAcct.php:813
+#: _pages/_inc/_MgmtAliyunConnection.php:275
+#: _pages/_inc/_MgmtAwsConnection.php:263
+#: _pages/_inc/_MgmtAzureConnection.php:363
+#: _pages/_inc/_MgmtCtyunConnection.php:287
+#: _pages/_inc/_MgmtHuaweiCloudConnection.php:315
+#: _pages/_inc/_MgmtOpenStackConnection.php:304
+#: _pages/_inc/_MgmtTencentConnection.php:285
+#: _pages/_inc/_VerifyAliyunHostTransportType.php:460
+#: _pages/_inc/_VerifyAliyunTransportServices.php:469
+#: _pages/_inc/_VerifyAwsHostTransportType.php:487
+#: _pages/_inc/_VerifyAwsLinuxLauncherService.php:406
+#: _pages/_inc/_VerifyAwsTransportServices.php:495
+#: _pages/_inc/_VerifyAzureHostTransportType.php:454
+#: _pages/_inc/_VerifyAzureTransportServices.php:509
+#: _pages/_inc/_VerifyCloudTransportServices.php:453
+#: _pages/_inc/_VerifyCtyunHostTransportType.php:475
+#: _pages/_inc/_VerifyCtyunTransportServices.php:453
+#: _pages/_inc/_VerifyHostOfflineClone.php:378
+#: _pages/_inc/_VerifyHostPhysical.php:386
+#: _pages/_inc/_VerifyHostTransportType.php:475
+#: _pages/_inc/_VerifyLinuxLauncherService.php:379
+#: _pages/_inc/_VerifyOnPremiseTransportServices.php:377
+#: _pages/_inc/_VerifyRecoveryKitServices.php:302
+#: _pages/_inc/_VerifyTencentHostTransportType.php:425
+#: _pages/_inc/_VerifyTencentTransportServices.php:524
+msgid "Submit"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:775
+msgid "X-Ray"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:783 _pages/_inc/_MgmtAcct.php:789
+msgid "Preferences"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:784 _pages/_inc/_MgmtAcct.php:819
+msgid "SMTP Settings"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:796
+msgid "Replication Notification"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:796
+msgid "A message will be sent whenever a replication process starts."
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:798
+msgid "Recovery Notification"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:798
+msgid "A message will be sent whenever a new recovery process completes."
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:800
+msgid "Daily Report"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:800
+msgid ""
+"A message with the activity from the last 24hs will be sent every day at the "
+"specified time."
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:825
+msgid "SMTP Address:"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:826
+msgid "SMTP Secure:"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:827
+msgid "SMTP Port:"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:833
+msgid "TLS"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:834
+msgid "SSL"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:835
+msgid "Normal"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:841 _pages/_inc/_MgmtOpenStackConnection.php:289
+msgid "Username:"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:850
+msgid "Mail From Address:"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:851
+msgid "Mail To Address:"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:862 _pages/_inc/_MgmtAcct.php:936
+#: _pages/_inc/_MgmtCloudConnection.php:280
+#: _pages/_inc/_MgmtHostConnection.php:434
+#: _pages/_inc/_MgmtPrepareWorkload.php:663
+#: _pages/_inc/_MgmtRecoverPlan.php:299
+#: _pages/_inc/_MgmtTransportConnection.php:399
+#: _pages/_inc/_MgmtUploadWorkload.php:557
+msgid "Delete"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:863 _pages/_inc/_PlanRecoverAliyunSummary.php:350
+#: _pages/_inc/_PlanRecoverAwsSummary.php:363
+#: _pages/_inc/_PlanRecoverAzureSummary.php:360
+#: _pages/_inc/_PlanRecoverSummary.php:385
+msgid "Save"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:864
+msgid "Verify"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:873 _pages/_inc/_MgmtAcct.php:881
+msgid "Licenses"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:874 _pages/_inc/_MgmtAcct.php:887
+msgid "Activity"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:875 _pages/_inc/_MgmtAcct.php:893
+msgid "Activation"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:876 _pages/_inc/_MgmtAcct.php:1379
+msgid "Offline Activation"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:904
+msgid "Activate"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:918
+#: _pages/_inc/_SelectAliyunHostTransportInstance.php:187
+#: _pages/_inc/_SelectAliyunTransportInstance.php:187
+#: _pages/_inc/_SelectAwsHostTransportInstance.php:211
+#: _pages/_inc/_SelectAwsLinuxLauncher.php:210
+#: _pages/_inc/_SelectAwsTransportInstance.php:209
+#: _pages/_inc/_SelectAzureHostTransportInstance.php:185
+#: _pages/_inc/_SelectAzureTransportInstance.php:192
+#: _pages/_inc/_SelectCtyunHostTransportInstance.php:195
+#: _pages/_inc/_SelectCtyunTransportInstance.php:194
+#: _pages/_inc/_SelectHostTransportInstance.php:193
+#: _pages/_inc/_SelectLinuxLauncher.php:195
+#: _pages/_inc/_SelectTencentHostTransportInstance.php:187
+#: _pages/_inc/_SelectTencentTransportInstance.php:187
+#: _pages/_inc/_SelectTransportInstance.php:200
+#: _pages/_inc/_VerifyAliyunHostTransportType.php:431
+#: _pages/_inc/_VerifyAliyunTransportServices.php:454
+#: _pages/_inc/_VerifyAwsHostTransportType.php:458
+#: _pages/_inc/_VerifyAwsLinuxLauncherService.php:391
+#: _pages/_inc/_VerifyAwsTransportServices.php:480
+#: _pages/_inc/_VerifyAzureHostTransportType.php:425
+#: _pages/_inc/_VerifyAzureTransportServices.php:494
+#: _pages/_inc/_VerifyCloudTransportServices.php:438
+#: _pages/_inc/_VerifyCtyunHostTransportType.php:446
+#: _pages/_inc/_VerifyCtyunTransportServices.php:438
+#: _pages/_inc/_VerifyHostTransportType.php:446
+#: _pages/_inc/_VerifyLinuxLauncherService.php:364
+#: _pages/_inc/_VerifyTencentHostTransportType.php:400
+#: _pages/_inc/_VerifyTencentTransportServices.php:509
+msgid "Name"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:919
+msgid "Date Modified"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:920
+msgid "Size"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:934
+msgid "Browse..."
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:935 _pages/_inc/_MgmtUploadWorkload.php:554
+msgid "Upload"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:1232
+msgid "Remove License"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:1233
+msgid "Failed to remove license."
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:1312 _pages/_inc/_MgmtAcct.php:1425
+msgid "License Information"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:1385
+msgid "Input String For Activation"
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:1426
+msgid "Transport is activated."
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:1448
+msgid "Product activation failed."
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:1525
+msgid "Notification preferences saved."
+msgstr ""
+
+#: _pages/_inc/_MgmtAcct.php:1687
+msgid "SMTP Settings Saved."
+msgstr ""
+
+#: _pages/_inc/_MgmtAliyunConnection.php:254
+#: _pages/_inc/_MgmtAwsConnection.php:242
+#: _pages/_inc/_MgmtAzureConnection.php:314
+#: _pages/_inc/_MgmtCtyunConnection.php:261
+#: _pages/_inc/_MgmtHuaweiCloudConnection.php:275
+#: _pages/_inc/_MgmtOpenStackConnection.php:272
+#: _pages/_inc/_SelectCloudRegistration.php:12
+msgid "Step 1 - Select Cloud"
+msgstr ""
+
+#: _pages/_inc/_MgmtAliyunConnection.php:255
+#: _pages/_inc/_MgmtAwsConnection.php:243
+#: _pages/_inc/_MgmtAzureConnection.php:315
+#: _pages/_inc/_MgmtCtyunConnection.php:262
+#: _pages/_inc/_MgmtHuaweiCloudConnection.php:276
+#: _pages/_inc/_MgmtOpenStackConnection.php:273
+#: _pages/_inc/_MgmtTencentConnection.php:260
+#: _pages/_inc/_SelectCloudRegistration.php:13
+msgid "Step 2 - Verify Cloud Connection"
+msgstr ""
+
+#: _pages/_inc/_MgmtAliyunConnection.php:260
+#: _pages/_inc/_MgmtAwsConnection.php:248
+#: _pages/_inc/_MgmtCtyunConnection.php:267
+#: _pages/_inc/_MgmtTencentConnection.php:265
+msgid "Access Key:"
+msgstr ""
+
+#: _pages/_inc/_MgmtAliyunConnection.php:265
+#: _pages/_inc/_MgmtAwsConnection.php:253
+#: _pages/_inc/_MgmtCtyunConnection.php:272
+#: _pages/_inc/_MgmtTencentConnection.php:270
+msgid "Secret Key:"
+msgstr ""
+
+#: _pages/_inc/_MgmtAliyunConnection.php:276
+#: _pages/_inc/_MgmtAwsConnection.php:264
+#: _pages/_inc/_MgmtAzureConnection.php:364
+#: _pages/_inc/_MgmtCtyunConnection.php:288
+#: _pages/_inc/_MgmtHuaweiCloudConnection.php:316
+#: _pages/_inc/_MgmtOpenStackConnection.php:305
+#: _pages/_inc/_MgmtTencentConnection.php:286
+msgid "Verify Connection"
+msgstr ""
+
+#: _pages/_inc/_MgmtAwsConnection.php:236
+#: _pages/_inc/_MgmtAzureConnection.php:308
+#: _pages/_inc/_MgmtCloudConnection.php:277 _pages/_inc/_MgmtEnvironment.php:12
+#: _pages/_inc/_MgmtRecoverPlan.php:311
+#: _pages/_inc/_SelectCloudRegistration.php:6
+#: _pages/_inc/_SelectHostType.php:24 _pages/_inc/_SelectServRegion.php:22
+#: _pages/_leftnavi.php:8
+msgid "Cloud"
+msgstr "云"
+
+#: _pages/_inc/_MgmtAzureConnection.php:320
+msgid "Endpoint:"
+msgstr ""
+
+#: _pages/_inc/_MgmtAzureConnection.php:335
+msgid "Application ID:"
+msgstr ""
+
+#: _pages/_inc/_MgmtAzureConnection.php:340
+msgid "Security Key:"
+msgstr ""
+
+#: _pages/_inc/_MgmtAzureConnection.php:344
+msgid "Directory Id:"
+msgstr ""
+
+#: _pages/_inc/_MgmtAzureConnection.php:348
+msgid "Subscription Id:"
+msgstr ""
+
+#: _pages/_inc/_MgmtAzureConnection.php:353
+msgid "Storage Connection String:"
+msgstr ""
+
+#: _pages/_inc/_MgmtCloudConnection.php:102
+msgid "Click New to add a Cloud connection."
+msgstr ""
+
+#: _pages/_inc/_MgmtCloudConnection.php:107
+#: _pages/_inc/_MgmtHostConnection.php:162
+#: _pages/_inc/_MgmtPrepareWorkload.php:168
+#: _pages/_inc/_MgmtRecoverWorkload.php:163
+#: _pages/_inc/_MgmtTransportConnection.php:141
+msgid "Failed to coneect to database."
+msgstr ""
+
+#: _pages/_inc/_MgmtCloudConnection.php:260
+msgid "Do you want to delete the selected cloud connection?"
+msgstr ""
+
+#: _pages/_inc/_MgmtCloudConnection.php:278
+#: _pages/_inc/_MgmtHostConnection.php:432
+#: _pages/_inc/_MgmtPrepareWorkload.php:661
+#: _pages/_inc/_MgmtRecoverPlan.php:298
+#: _pages/_inc/_MgmtRecoverWorkload.php:557
+#: _pages/_inc/_MgmtTransportConnection.php:397
+#: _pages/_inc/_MgmtUploadWorkload.php:555
+msgid "New"
+msgstr ""
+
+#: _pages/_inc/_MgmtCloudConnection.php:279
+#: _pages/_inc/_MgmtHostConnection.php:433
+#: _pages/_inc/_MgmtPrepareWorkload.php:662
+#: _pages/_inc/_MgmtRecoverPlan.php:300
+#: _pages/_inc/_MgmtTransportConnection.php:398
+#: _pages/_inc/_MgmtUploadWorkload.php:556
+msgid "Edit"
+msgstr ""
+
+#: _pages/_inc/_MgmtCloudConnection.php:290
+#: _pages/_inc/_ServCloudConnection.php:190
+#: _pages/_inc/_ServLinuxConnection.php:161
+#: _pages/_inc/_VerifyHostCloud.php:175
+msgid "Platform"
+msgstr ""
+
+#: _pages/_inc/_MgmtCloudConnection.php:291
+#: _pages/_inc/_ServCloudConnection.php:191
+#: _pages/_inc/_ServLinuxConnection.php:163
+#: _pages/_inc/_VerifyHostCloud.php:177
+msgid "Username / Access key ID / Tenant ID"
+msgstr ""
+
+#: _pages/_inc/_MgmtCloudConnection.php:298
+#: _pages/_inc/_MgmtHostConnection.php:456
+#: _pages/_inc/_MgmtPrepareWorkload.php:685
+#: _pages/_inc/_MgmtRecoverPlan.php:320
+#: _pages/_inc/_MgmtRecoverWorkload.php:578
+#: _pages/_inc/_MgmtTransportConnection.php:418
+#: _pages/_inc/_MgmtUploadWorkload.php:578
+#: _pages/_inc/_PlanSelectRecoverReplica.php:218
+#: _pages/_inc/_SelectRecoverHost.php:237
+msgid "Checking management connection..."
+msgstr ""
+
+#: _pages/_inc/_MgmtCtyunConnection.php:277
+#: _pages/_inc/_MgmtHuaweiCloudConnection.php:305
+msgid "Region:"
+msgstr ""
+
+#: _pages/_inc/_MgmtEnvironment.php:7 _pages/_leftnavi.php:6
+msgid "Environment"
+msgstr ""
+
+#: _pages/_inc/_MgmtEnvironment.php:13
+#: _pages/_inc/_MgmtTransportConnection.php:396
+#: _pages/_inc/_SelectAliyunTransportInstance.php:169
+#: _pages/_inc/_SelectAwsLinuxLauncher.php:192
+#: _pages/_inc/_SelectAwsTransportInstance.php:191
+#: _pages/_inc/_SelectAzureTransportInstance.php:174
+#: _pages/_inc/_SelectCtyunTransportInstance.php:176
+#: _pages/_inc/_SelectLinuxLauncher.php:177 _pages/_inc/_SelectServRegion.php:6
+#: _pages/_inc/_SelectTencentTransportInstance.php:169
+#: _pages/_inc/_SelectTransportInstance.php:182
+#: _pages/_inc/_ServCloudConnection.php:172
+#: _pages/_inc/_ServLinuxConnection.php:143
+#: _pages/_inc/_VerifyAliyunTransportServices.php:437
+#: _pages/_inc/_VerifyAwsLinuxLauncherService.php:374
+#: _pages/_inc/_VerifyAwsTransportServices.php:463
+#: _pages/_inc/_VerifyAzureTransportServices.php:477
+#: _pages/_inc/_VerifyCloudTransportServices.php:421
+#: _pages/_inc/_VerifyCtyunTransportServices.php:421
+#: _pages/_inc/_VerifyLinuxLauncherService.php:347
+#: _pages/_inc/_VerifyOnPremiseTransportServices.php:353
+#: _pages/_inc/_VerifyRecoveryKitServices.php:278
+#: _pages/_inc/_VerifyTencentTransportServices.php:492 _pages/_leftnavi.php:9
+msgid "Transport"
+msgstr ""
+
+#: _pages/_inc/_MgmtEnvironment.php:14 _pages/_inc/_MgmtHostConnection.php:431
+#: _pages/_inc/_SelectAliyunHostTransportInstance.php:169
+#: _pages/_inc/_SelectAwsHostTransportInstance.php:193
+#: _pages/_inc/_SelectAzureHostTransportInstance.php:167
+#: _pages/_inc/_SelectCtyunHostTransportInstance.php:177
+#: _pages/_inc/_SelectHostTransportInstance.php:175
+#: _pages/_inc/_SelectHostType.php:6
+#: _pages/_inc/_SelectTencentHostTransportInstance.php:169
+#: _pages/_inc/_VerifyAliyunHostTransportType.php:414
+#: _pages/_inc/_VerifyAwsHostTransportType.php:441
+#: _pages/_inc/_VerifyAzureHostTransportType.php:408
+#: _pages/_inc/_VerifyCtyunHostTransportType.php:429
+#: _pages/_inc/_VerifyHostCloud.php:157
+#: _pages/_inc/_VerifyHostOfflineClone.php:347
+#: _pages/_inc/_VerifyHostPhysical.php:355
+#: _pages/_inc/_VerifyHostTransportType.php:429
+#: _pages/_inc/_VerifyHostVirtual.php:380
+#: _pages/_inc/_VerifyTencentHostTransportType.php:383 _pages/_leftnavi.php:10
+msgid "Host"
+msgstr ""
+
+#: _pages/_inc/_MgmtHostConnection.php:157
+msgid "Click New to add a host."
+msgstr ""
+
+#: _pages/_inc/_MgmtHostConnection.php:398
+msgid "Do you want to delete the selected host connection?"
+msgstr ""
+
+#: _pages/_inc/_MgmtHostConnection.php:412
+msgid "Do you want to rescan the selected host connection?"
+msgstr ""
+
+#: _pages/_inc/_MgmtHostConnection.php:435
+msgid "Rescan"
+msgstr ""
+
+#: _pages/_inc/_MgmtHostConnection.php:445
+#: _pages/_inc/_MgmtPrepareWorkload.php:675
+#: _pages/_inc/_MgmtRecoverPlan.php:310
+#: _pages/_inc/_MgmtRecoverWorkload.php:569
+#: _pages/_inc/_MgmtUploadWorkload.php:568
+#: _pages/_inc/_PlanSelectRecoverReplica.php:209
+#: _pages/_inc/_SelectRecoverHost.php:228
+#: _pages/_inc/_SelectRegisteredHost.php:249
+msgid "Host Name"
+msgstr ""
+
+#: _pages/_inc/_MgmtHostConnection.php:446
+#: _pages/_inc/_SelectRegisteredHost.php:250
+msgid "Host IP"
+msgstr ""
+
+#: _pages/_inc/_MgmtHostConnection.php:447
+#: _pages/_inc/_SelectRegisteredHost.php:251
+msgid "OS Type"
+msgstr ""
+
+#: _pages/_inc/_MgmtHostConnection.php:448
+#: _pages/_inc/_SelectRegisteredHost.php:252
+msgid "Packer Type"
+msgstr ""
+
+#: _pages/_inc/_MgmtHostConnection.php:449
+#: _pages/_inc/_SelectRegisteredHost.php:253
+msgid "Total Disk Size"
+msgstr ""
+
+#: _pages/_inc/_MgmtHostConnection.php:450
+#: _pages/_inc/_MgmtPrepareWorkload.php:679
+#: _pages/_inc/_MgmtRecoverPlan.php:314
+#: _pages/_inc/_MgmtRecoverWorkload.php:572
+#: _pages/_inc/_MgmtTransportConnection.php:412
+#: _pages/_inc/_SelectRegisteredHost.php:254
+msgid "Details"
+msgstr ""
+
+#: _pages/_inc/_MgmtHuaweiCloudConnection.php:283
+msgid "VIP Address"
+msgstr ""
+
+#: _pages/_inc/_MgmtHuaweiCloudConnection.php:290
+msgid "Account Name:"
+msgstr ""
+
+#: _pages/_inc/_MgmtHuaweiCloudConnection.php:295
+msgid "IAM User name:"
+msgstr ""
+
+#: _pages/_inc/_MgmtOpenStackConnection.php:278
+msgid "Address:"
+msgstr ""
+
+#: _pages/_inc/_MgmtOpenStackConnection.php:283
+msgid "Project:"
+msgstr ""
+
+#: _pages/_inc/_MgmtPrepareWorkload.php:163
+msgid "Click New to create a new replication process."
+msgstr ""
+
+#: _pages/_inc/_MgmtPrepareWorkload.php:215
+msgid "Delta Replication"
+msgstr ""
+
+#: _pages/_inc/_MgmtPrepareWorkload.php:215
+msgid "Replicates changed data"
+msgstr ""
+
+#: _pages/_inc/_MgmtPrepareWorkload.php:217
+msgid "Full Replication"
+msgstr ""
+
+#: _pages/_inc/_MgmtPrepareWorkload.php:217
+msgid "Replicates all data (long replication time)​"
+msgstr ""
+
+#: _pages/_inc/_MgmtPrepareWorkload.php:221
+msgid "Fource Clean up​"
+msgstr ""
+
+#: _pages/_inc/_MgmtPrepareWorkload.php:320
+msgid "Click New to create a new replication process.​"
+msgstr ""
+
+#: _pages/_inc/_MgmtPrepareWorkload.php:582
+msgid "Do you want to delete the selected replication process?"
+msgstr ""
+
+#: _pages/_inc/_MgmtPrepareWorkload.php:664
+#: _pages/_inc/_MgmtUploadWorkload.php:558
+msgid "Sync"
+msgstr ""
+
+#: _pages/_inc/_MgmtPrepareWorkload.php:665
+#: _pages/_inc/_MgmtRecoverWorkload.php:559
+msgid "Force Delete"
+msgstr ""
+
+#: _pages/_inc/_MgmtPrepareWorkload.php:676
+#: _pages/_inc/_MgmtRecoverWorkload.php:570
+#: _pages/_inc/_MgmtUploadWorkload.php:569
+#: _pages/_inc/_PlanSelectRecoverReplica.php:210
+#: _pages/_inc/_SelectCtyunHostTransportInstance.php:200
+#: _pages/_inc/_SelectCtyunTransportInstance.php:199
+#: _pages/_inc/_SelectHostTransportInstance.php:196
+#: _pages/_inc/_SelectLinuxLauncher.php:198
+#: _pages/_inc/_SelectRecoverHost.php:229
+#: _pages/_inc/_SelectTransportInstance.php:203
+msgid "Status"
+msgstr ""
+
+#: _pages/_inc/_MgmtPrepareWorkload.php:677
+#: _pages/_inc/_MgmtUploadWorkload.php:570
+msgid "Progress"
+msgstr ""
+
+#: _pages/_inc/_MgmtPrepareWorkload.php:678
+#: _pages/_inc/_MgmtRecoverPlan.php:313
+#: _pages/_inc/_MgmtRecoverWorkload.php:571
+#: _pages/_inc/_MgmtUploadWorkload.php:571
+#: _pages/_inc/_PlanSelectRecoverReplica.php:212
+#: _pages/_inc/_SelectRecoverHost.php:231
+#: _pages/_inc/_ServCloudConnection.php:192
+#: _pages/_inc/_ServLinuxConnection.php:164
+#: _pages/_inc/_VerifyHostCloud.php:178
+msgid "Time"
+msgstr ""
+
+#: _pages/_inc/_MgmtRecoverPlan.php:163
+msgid "Click New to create a recovery plan."
+msgstr ""
+
+#: _pages/_inc/_MgmtRecoverPlan.php:276
+msgid "Do you want to delete the selected recovery plan?"
+msgstr ""
+
+#: _pages/_inc/_MgmtRecoverPlan.php:297
+#: _pages/_inc/_PlanInstanceAwsConfigurations.php:572
+#: _pages/_inc/_PlanInstanceAzureConfigurations.php:91
+#: _pages/_inc/_PlanInstanceConfigurations.php:658
+#: _pages/_inc/_PlanRecoverSummary.php:346
+#: _pages/_inc/_PlanSelectRecoverReplica.php:191
+#: _pages/_inc/_PlanSelectRecoverType.php:99 _pages/_leftnavi.php:18
+msgid "Recovery Plan"
+msgstr ""
+
+#: _pages/_inc/_MgmtRecoverPlan.php:312
+#: _pages/_inc/_MgmtTransportConnection.php:410
+#: _pages/_inc/_SelectAliyunHostTransportInstance.php:188
+#: _pages/_inc/_SelectAliyunTransportInstance.php:188
+#: _pages/_inc/_SelectRecoverHost.php:230
+#: _pages/_inc/_SelectRecoverPlan.php:132
+#: _pages/_inc/_SelectTencentHostTransportInstance.php:188
+#: _pages/_inc/_SelectTencentTransportInstance.php:188
+msgid "Type"
+msgstr ""
+
+#: _pages/_inc/_MgmtRecoverWorkload.php:158
+#: _pages/_inc/_MgmtRecoverWorkload.php:313
+msgid "Click New to start a new recovery process."
+msgstr ""
+
+#: _pages/_inc/_MgmtRecoverWorkload.php:207
+#: _pages/_inc/_MgmtRecoverWorkload.php:213
+#: _pages/_inc/_MgmtRecoverWorkload.php:219
+#: _pages/_inc/_MgmtRecoverWorkload.php:230
+#: _pages/_inc/_MgmtRecoverWorkload.php:236
+msgid "Remove Process"
+msgstr ""
+
+#: _pages/_inc/_MgmtRecoverWorkload.php:207
+msgid ""
+"Launched replica for dev-test environment will be deleted and this recovery "
+"process will be removed. You can create a new dev-test environment by "
+"creating a new recovery process."
+msgstr ""
+
+#: _pages/_inc/_MgmtRecoverWorkload.php:209
+msgid "Keep Instance"
+msgstr ""
+
+#: _pages/_inc/_MgmtRecoverWorkload.php:209
+msgid ""
+"Launched replica for dev-test environment will remain on target. Only this "
+"recovery process will be removed."
+msgstr ""
+
+#: _pages/_inc/_MgmtRecoverWorkload.php:213
+msgid ""
+"Recovered replica will be deleted and this recovery process will be removed. "
+"You can create a new replica by creating a new recovery process."
+msgstr ""
+
+#: _pages/_inc/_MgmtRecoverWorkload.php:215
+#: _pages/_inc/_MgmtRecoverWorkload.php:221
+#: _pages/_inc/_MgmtRecoverWorkload.php:232
+#: _pages/_inc/_MgmtRecoverWorkload.php:238
+msgid "Complete Process"
+msgstr ""
+
+#: _pages/_inc/_MgmtRecoverWorkload.php:215
+#: _pages/_inc/_MgmtRecoverWorkload.php:219
+msgid ""
+"Recovered replica will remain on target. Only this recovery process will be "
+"removed."
+msgstr ""
+
+#: _pages/_inc/_MgmtRecoverWorkload.php:221
+msgid ""
+"Migration completed. Prepare Workload and Recover Workload jobs will be "
+"cleaned up."
+msgstr ""
+
+#: _pages/_inc/_MgmtRecoverWorkload.php:224
+msgid "Clean Up Snapshot(s)"
+msgstr ""
+
+#: _pages/_inc/_MgmtRecoverWorkload.php:230
+#: _pages/_inc/_MgmtRecoverWorkload.php:236
+msgid ""
+"Recover Workload process will be deleted. You can run conversion again by "
+"creating a new Recover Workload process."
+msgstr ""
+
+#: _pages/_inc/_MgmtRecoverWorkload.php:232
+#: _pages/_inc/_MgmtRecoverWorkload.php:238
+msgid ""
+"Conversion completed and system running in production mode. Prepare Workload "
+"and Recover Workload jobs will be cleaned up."
+msgstr ""
+
+#: _pages/_inc/_MgmtRecoverWorkload.php:458
+msgid "Do you want to delete the selected recovery process?"
+msgstr ""
+
+#: _pages/_inc/_MgmtRecoverWorkload.php:558
+msgid "Action"
+msgstr ""
+
+#: _pages/_inc/_MgmtTencentConnection.php:259
+msgid "Step 1 - Select Cloud Type"
+msgstr ""
+
+#: _pages/_inc/_MgmtTencentConnection.php:275
+msgid "App Id:"
+msgstr ""
+
+#: _pages/_inc/_MgmtTransportConnection.php:136
+msgid "Click New to add a Transport."
+msgstr ""
+
+#: _pages/_inc/_MgmtTransportConnection.php:378
+msgid "Do you want to delete the selected transport server connection?"
+msgstr ""
+
+#: _pages/_inc/_MgmtTransportConnection.php:409
+msgid "Server"
+msgstr ""
+
+#: _pages/_inc/_MgmtTransportConnection.php:411
+msgid "Address"
+msgstr ""
+
+#: _pages/_inc/_MgmtUploadWorkload.php:572
+msgid "Detail"
+msgstr ""
+
+#: _pages/_inc/_PlanInstanceAliyunConfigurations.php:603
+#: _pages/_inc/_PlanInstanceAwsConfigurations.php:580
+#: _pages/_inc/_PlanInstanceAzureConfigurations.php:99
+#: _pages/_inc/_PlanInstanceConfigurations.php:666
+#: _pages/_inc/_PlanInstanceTencentConfigurations.php:666
+#: _pages/_inc/_PlanRecoverAliyunSummary.php:318
+#: _pages/_inc/_PlanRecoverAwsSummary.php:332
+#: _pages/_inc/_PlanRecoverAzureSummary.php:328
+#: _pages/_inc/_PlanRecoverSummary.php:354
+#: _pages/_inc/_PlanRecoverTencentSummary.php:313
+#: _pages/_inc/_PlanSelectRecoverReplica.php:199
+#: _pages/_inc/_PlanSelectRecoverType.php:107
+#: _pages/_inc/_RecoverAzureSummary.php:324
+msgid "Step 3 - Configure Instance"
+msgstr ""
+
+#: _pages/_inc/_PlanInstanceAliyunConfigurations.php:604
+#: _pages/_inc/_PlanInstanceAwsConfigurations.php:581
+#: _pages/_inc/_PlanInstanceAzureConfigurations.php:100
+#: _pages/_inc/_PlanInstanceConfigurations.php:667
+#: _pages/_inc/_PlanRecoverAwsSummary.php:333
+#: _pages/_inc/_PlanRecoverSummary.php:355
+#: _pages/_inc/_PlanRecoverTencentSummary.php:314
+#: _pages/_inc/_PlanSelectRecoverReplica.php:200
+#: _pages/_inc/_PlanSelectRecoverType.php:108
+msgid "Step 4 - Recovery Plan Summary"
+msgstr ""
+
+#: _pages/_inc/_PlanInstanceTencentConfigurations.php:667
+#: _pages/_inc/_PlanRecoverAliyunSummary.php:319
+#: _pages/_inc/_PlanRecoverAzureSummary.php:329
+#: _pages/_inc/_RecoverAzureSummary.php:325
+msgid "Step 4 - Recover Summary"
+msgstr ""
+
+#: _pages/_inc/_PlanRecoverTencentSummary.php:350
+#: _pages/_inc/_PrepareWorkloadSummary.php:427
+#: _pages/_inc/_RecoverAliyunSummary.php:353
+#: _pages/_inc/_RecoverAwsSummary.php:375
+#: _pages/_inc/_RecoverAzureSummary.php:369
+#: _pages/_inc/_RecoverCtyunSummary.php:370
+#: _pages/_inc/_RecoverExportSummary.php:289
+#: _pages/_inc/_RecoverKitSummary.php:250 _pages/_inc/_RecoverSummary.php:395
+#: _pages/_inc/_RecoverTencentSummary.php:342
+msgid "Run"
+msgstr ""
+
+#: _pages/_inc/_PlanSelectRecoverReplica.php:211
+msgid "Job Type"
+msgstr ""
+
+#: _pages/_inc/_PlanSelectRecoverType.php:125
+#: _pages/_inc/_SelectRecoverPlan.php:140
+msgid "Planned Migration"
+msgstr ""
+
+#: _pages/_inc/_PlanSelectRecoverType.php:126
+#: _pages/_inc/_SelectRecoverPlan.php:141
+msgid "Migrates a chosen workload state to the target environment."
+msgstr ""
+
+#: _pages/_inc/_PlanSelectRecoverType.php:130
+#: _pages/_inc/_SelectRecoverPlan.php:145
+msgid "Disaster Recovery"
+msgstr ""
+
+#: _pages/_inc/_PlanSelectRecoverType.php:131
+#: _pages/_inc/_SelectRecoverPlan.php:146
+msgid "Resumes a recent workload state in the event of a disaster."
+msgstr ""
+
+#: _pages/_inc/_PlanSelectRecoverType.php:135
+#: _pages/_inc/_SelectRecoverPlan.php:150
+msgid "Development Testing"
+msgstr ""
+
+#: _pages/_inc/_PlanSelectRecoverType.php:136
+#: _pages/_inc/_SelectRecoverPlan.php:151
+msgid "Creates a test environment using chosen snapshot."
+msgstr ""
+
+#: _pages/_inc/_PrepareWorkloadSummary.php:389
+msgid "Host Information"
+msgstr ""
+
+#: _pages/_inc/_PrepareWorkloadSummary.php:398
+msgid "Transport Server Information"
+msgstr ""
+
+#: _pages/_inc/_PrepareWorkloadSummary.php:407
+msgid "Virtual Packer Information"
+msgstr ""
+
+#: _pages/_inc/_PrepareWorkloadSummary.php:416
+msgid "Replication Configuration"
+msgstr ""
+
+#: _pages/_inc/_RecoverExportSummary.php:270
+#: _pages/_inc/_RecoverTencentSummary.php:311
+msgid "Trigger data synchronize:"
+msgstr ""
+
+#: _pages/_inc/_RecoverKitSummary.php:231
+msgid "Reboot after completed:"
+msgstr ""
+
+#: _pages/_inc/_SelectAliyunHostTransportInstance.php:175
+#: _pages/_inc/_SelectAliyunTransportInstance.php:175
+#: _pages/_inc/_SelectAwsHostTransportInstance.php:199
+#: _pages/_inc/_SelectAwsLinuxLauncher.php:198
+#: _pages/_inc/_SelectAwsTransportInstance.php:197
+#: _pages/_inc/_SelectAzureHostTransportInstance.php:173
+#: _pages/_inc/_SelectAzureTransportInstance.php:180
+#: _pages/_inc/_SelectCtyunHostTransportInstance.php:183
+#: _pages/_inc/_SelectCtyunTransportInstance.php:182
+#: _pages/_inc/_SelectHostTransportInstance.php:181
+#: _pages/_inc/_SelectHostType.php:12 _pages/_inc/_SelectLinuxLauncher.php:183
+#: _pages/_inc/_SelectServRegion.php:12
+#: _pages/_inc/_SelectTencentHostTransportInstance.php:175
+#: _pages/_inc/_SelectTencentTransportInstance.php:175
+#: _pages/_inc/_SelectTransportInstance.php:188
+#: _pages/_inc/_ServCloudConnection.php:178
+#: _pages/_inc/_ServLinuxConnection.php:149
+#: _pages/_inc/_VerifyAliyunHostTransportType.php:420
+#: _pages/_inc/_VerifyAliyunTransportServices.php:443
+#: _pages/_inc/_VerifyAwsHostTransportType.php:447
+#: _pages/_inc/_VerifyAwsLinuxLauncherService.php:380
+#: _pages/_inc/_VerifyAwsTransportServices.php:469
+#: _pages/_inc/_VerifyAzureHostTransportType.php:414
+#: _pages/_inc/_VerifyAzureTransportServices.php:483
+#: _pages/_inc/_VerifyCloudTransportServices.php:427
+#: _pages/_inc/_VerifyCtyunHostTransportType.php:435
+#: _pages/_inc/_VerifyCtyunTransportServices.php:427
+#: _pages/_inc/_VerifyHostCloud.php:163
+#: _pages/_inc/_VerifyHostOfflineClone.php:353
+#: _pages/_inc/_VerifyHostPhysical.php:361
+#: _pages/_inc/_VerifyHostTransportType.php:435
+#: _pages/_inc/_VerifyHostVirtual.php:386
+#: _pages/_inc/_VerifyLinuxLauncherService.php:353
+#: _pages/_inc/_VerifyOnPremiseTransportServices.php:359
+#: _pages/_inc/_VerifyRecoveryKitServices.php:284
+#: _pages/_inc/_VerifyTencentHostTransportType.php:389
+#: _pages/_inc/_VerifyTencentTransportServices.php:498
+msgid "Step 1 - Select Type"
+msgstr ""
+
+#: _pages/_inc/_SelectAliyunHostTransportInstance.php:176
+#: _pages/_inc/_SelectAliyunTransportInstance.php:176
+#: _pages/_inc/_SelectAwsHostTransportInstance.php:200
+#: _pages/_inc/_SelectAwsLinuxLauncher.php:199
+#: _pages/_inc/_SelectAwsTransportInstance.php:198
+#: _pages/_inc/_SelectAzureHostTransportInstance.php:174
+#: _pages/_inc/_SelectAzureTransportInstance.php:181
+#: _pages/_inc/_SelectCtyunHostTransportInstance.php:184
+#: _pages/_inc/_SelectCtyunTransportInstance.php:183
+#: _pages/_inc/_SelectHostTransportInstance.php:182
+#: _pages/_inc/_SelectHostType.php:13 _pages/_inc/_SelectLinuxLauncher.php:184
+#: _pages/_inc/_SelectServRegion.php:13
+#: _pages/_inc/_SelectTencentHostTransportInstance.php:176
+#: _pages/_inc/_SelectTencentTransportInstance.php:176
+#: _pages/_inc/_SelectTransportInstance.php:189
+#: _pages/_inc/_ServCloudConnection.php:179
+#: _pages/_inc/_ServLinuxConnection.php:150
+#: _pages/_inc/_VerifyAliyunHostTransportType.php:421
+#: _pages/_inc/_VerifyAliyunTransportServices.php:444
+#: _pages/_inc/_VerifyAwsHostTransportType.php:448
+#: _pages/_inc/_VerifyAwsLinuxLauncherService.php:381
+#: _pages/_inc/_VerifyAwsTransportServices.php:470
+#: _pages/_inc/_VerifyAzureHostTransportType.php:415
+#: _pages/_inc/_VerifyAzureTransportServices.php:484
+#: _pages/_inc/_VerifyCloudTransportServices.php:428
+#: _pages/_inc/_VerifyCtyunHostTransportType.php:436
+#: _pages/_inc/_VerifyCtyunTransportServices.php:428
+#: _pages/_inc/_VerifyHostCloud.php:164
+#: _pages/_inc/_VerifyHostOfflineClone.php:354
+#: _pages/_inc/_VerifyHostPhysical.php:362
+#: _pages/_inc/_VerifyHostTransportType.php:436
+#: _pages/_inc/_VerifyHostVirtual.php:387
+#: _pages/_inc/_VerifyLinuxLauncherService.php:354
+#: _pages/_inc/_VerifyOnPremiseTransportServices.php:360
+#: _pages/_inc/_VerifyRecoveryKitServices.php:285
+#: _pages/_inc/_VerifyTencentHostTransportType.php:390
+#: _pages/_inc/_VerifyTencentTransportServices.php:499
+msgid "Step 2 - Select Connection"
+msgstr ""
+
+#: _pages/_inc/_SelectAliyunHostTransportInstance.php:177
+#: _pages/_inc/_SelectAliyunTransportInstance.php:177
+#: _pages/_inc/_SelectAwsHostTransportInstance.php:201
+#: _pages/_inc/_SelectAwsLinuxLauncher.php:200
+#: _pages/_inc/_SelectAwsTransportInstance.php:199
+#: _pages/_inc/_SelectAzureHostTransportInstance.php:175
+#: _pages/_inc/_SelectAzureTransportInstance.php:182
+#: _pages/_inc/_SelectCtyunHostTransportInstance.php:185
+#: _pages/_inc/_SelectCtyunTransportInstance.php:184
+#: _pages/_inc/_SelectHostTransportInstance.php:183
+#: _pages/_inc/_SelectHostType.php:14 _pages/_inc/_SelectLinuxLauncher.php:185
+#: _pages/_inc/_SelectServRegion.php:14
+#: _pages/_inc/_SelectTencentHostTransportInstance.php:177
+#: _pages/_inc/_SelectTencentTransportInstance.php:177
+#: _pages/_inc/_SelectTransportInstance.php:190
+#: _pages/_inc/_ServCloudConnection.php:180
+#: _pages/_inc/_ServLinuxConnection.php:151
+#: _pages/_inc/_VerifyAliyunHostTransportType.php:422
+#: _pages/_inc/_VerifyAliyunTransportServices.php:445
+#: _pages/_inc/_VerifyAwsHostTransportType.php:449
+#: _pages/_inc/_VerifyAwsLinuxLauncherService.php:382
+#: _pages/_inc/_VerifyAwsTransportServices.php:471
+#: _pages/_inc/_VerifyAzureHostTransportType.php:416
+#: _pages/_inc/_VerifyAzureTransportServices.php:485
+#: _pages/_inc/_VerifyCloudTransportServices.php:429
+#: _pages/_inc/_VerifyCtyunHostTransportType.php:437
+#: _pages/_inc/_VerifyCtyunTransportServices.php:429
+#: _pages/_inc/_VerifyHostCloud.php:165
+#: _pages/_inc/_VerifyHostOfflineClone.php:355
+#: _pages/_inc/_VerifyHostPhysical.php:363
+#: _pages/_inc/_VerifyHostTransportType.php:437
+#: _pages/_inc/_VerifyHostVirtual.php:388
+#: _pages/_inc/_VerifyLinuxLauncherService.php:355
+#: _pages/_inc/_VerifyOnPremiseTransportServices.php:361
+#: _pages/_inc/_VerifyRecoveryKitServices.php:286
+#: _pages/_inc/_VerifyTencentHostTransportType.php:391
+#: _pages/_inc/_VerifyTencentTransportServices.php:500
+msgid "Step 3 - Select Server"
+msgstr ""
+
+#: _pages/_inc/_SelectAliyunHostTransportInstance.php:178
+#: _pages/_inc/_SelectAwsHostTransportInstance.php:202
+#: _pages/_inc/_SelectAzureHostTransportInstance.php:176
+#: _pages/_inc/_SelectCtyunHostTransportInstance.php:186
+#: _pages/_inc/_SelectHostTransportInstance.php:184
+#: _pages/_inc/_SelectHostType.php:15
+#: _pages/_inc/_SelectTencentHostTransportInstance.php:178
+#: _pages/_inc/_VerifyAliyunHostTransportType.php:423
+#: _pages/_inc/_VerifyAwsHostTransportType.php:450
+#: _pages/_inc/_VerifyAzureHostTransportType.php:417
+#: _pages/_inc/_VerifyCtyunHostTransportType.php:438
+#: _pages/_inc/_VerifyHostCloud.php:166
+#: _pages/_inc/_VerifyHostOfflineClone.php:356
+#: _pages/_inc/_VerifyHostPhysical.php:364
+#: _pages/_inc/_VerifyHostTransportType.php:438
+#: _pages/_inc/_VerifyHostVirtual.php:389
+#: _pages/_inc/_VerifyTencentHostTransportType.php:392
+msgid "Step 4 - Verify Host"
+msgstr ""
+
+#: _pages/_inc/_SelectAliyunHostTransportInstance.php:189
+#: _pages/_inc/_SelectAliyunTransportInstance.php:189
+#: _pages/_inc/_SelectAwsHostTransportInstance.php:212
+#: _pages/_inc/_SelectAwsLinuxLauncher.php:211
+#: _pages/_inc/_SelectAwsTransportInstance.php:210
+#: _pages/_inc/_SelectAzureHostTransportInstance.php:186
+#: _pages/_inc/_SelectAzureTransportInstance.php:193
+#: _pages/_inc/_SelectTencentHostTransportInstance.php:189
+#: _pages/_inc/_SelectTencentTransportInstance.php:189
+msgid "Public Address"
+msgstr ""
+
+#: _pages/_inc/_SelectAliyunHostTransportInstance.php:190
+#: _pages/_inc/_SelectAliyunTransportInstance.php:190
+#: _pages/_inc/_SelectTencentHostTransportInstance.php:190
+#: _pages/_inc/_SelectTencentTransportInstance.php:190
+msgid "Private Address"
+msgstr ""
+
+#: _pages/_inc/_SelectAliyunHostTransportInstance.php:191
+#: _pages/_inc/_SelectAliyunTransportInstance.php:191
+#: _pages/_inc/_SelectTencentHostTransportInstance.php:191
+#: _pages/_inc/_SelectTencentTransportInstance.php:191
+msgid "Zone"
+msgstr ""
+
+#: _pages/_inc/_SelectAliyunHostTransportInstance.php:192
+#: _pages/_inc/_SelectAliyunTransportInstance.php:192
+#: _pages/_inc/_SelectAwsHostTransportInstance.php:215
+#: _pages/_inc/_SelectAwsLinuxLauncher.php:214
+#: _pages/_inc/_SelectAwsTransportInstance.php:213
+#: _pages/_inc/_SelectTencentHostTransportInstance.php:192
+#: _pages/_inc/_SelectTencentTransportInstance.php:192
+msgid "Power Status"
+msgstr ""
+
+#: _pages/_inc/_SelectAliyunTransportInstance.php:178
+#: _pages/_inc/_SelectAwsLinuxLauncher.php:201
+#: _pages/_inc/_SelectAwsTransportInstance.php:200
+#: _pages/_inc/_SelectAzureTransportInstance.php:183
+#: _pages/_inc/_SelectCtyunTransportInstance.php:185
+#: _pages/_inc/_SelectLinuxLauncher.php:186
+#: _pages/_inc/_SelectServRegion.php:15
+#: _pages/_inc/_SelectTencentTransportInstance.php:178
+#: _pages/_inc/_SelectTransportInstance.php:191
+#: _pages/_inc/_ServCloudConnection.php:181
+#: _pages/_inc/_ServLinuxConnection.php:152
+#: _pages/_inc/_VerifyAliyunTransportServices.php:446
+#: _pages/_inc/_VerifyAwsLinuxLauncherService.php:383
+#: _pages/_inc/_VerifyAwsTransportServices.php:472
+#: _pages/_inc/_VerifyAzureTransportServices.php:486
+#: _pages/_inc/_VerifyCloudTransportServices.php:430
+#: _pages/_inc/_VerifyCtyunTransportServices.php:430
+#: _pages/_inc/_VerifyLinuxLauncherService.php:356
+#: _pages/_inc/_VerifyOnPremiseTransportServices.php:362
+#: _pages/_inc/_VerifyRecoveryKitServices.php:287
+#: _pages/_inc/_VerifyTencentTransportServices.php:501
+msgid "Step 4 - Verify Services"
+msgstr ""
+
+#: _pages/_inc/_SelectAwsHostTransportInstance.php:213
+#: _pages/_inc/_SelectAwsLinuxLauncher.php:212
+#: _pages/_inc/_SelectAwsTransportInstance.php:211
+#: _pages/_inc/_SelectAzureHostTransportInstance.php:187
+#: _pages/_inc/_SelectAzureTransportInstance.php:194
+msgid "Internal Address"
+msgstr ""
+
+#: _pages/_inc/_SelectAwsHostTransportInstance.php:216
+#: _pages/_inc/_SelectAwsLinuxLauncher.php:215
+#: _pages/_inc/_SelectAwsTransportInstance.php:214
+#: _pages/_inc/_SelectCtyunHostTransportInstance.php:199
+#: _pages/_inc/_SelectCtyunTransportInstance.php:198
+msgid "Availability Zone"
+msgstr ""
+
+#: _pages/_inc/_SelectAzureHostTransportInstance.php:188
+#: _pages/_inc/_SelectAzureTransportInstance.php:195
+msgid "Resource Group"
+msgstr ""
+
+#: _pages/_inc/_SelectAzureHostTransportInstance.php:189
+#: _pages/_inc/_SelectAzureTransportInstance.php:196
+msgid "Location"
+msgstr ""
+
+#: _pages/_inc/_SelectCtyunHostTransportInstance.php:196
+#: _pages/_inc/_SelectCtyunTransportInstance.php:195
+#: _pages/_inc/_SelectHostTransportInstance.php:194
+#: _pages/_inc/_SelectLinuxLauncher.php:196
+#: _pages/_inc/_SelectTransportInstance.php:201
+msgid "IP"
+msgstr ""
+
+#: _pages/_inc/_SelectHostType.php:21
+msgid "Windows Server"
+msgstr ""
+
+#: _pages/_inc/_SelectHostType.php:22
+msgid "Linux Server"
+msgstr ""
+
+#: _pages/_inc/_SelectHostType.php:23
+msgid "VMware<br>ESX Server"
+msgstr ""
+
+#: _pages/_inc/_SelectHostType.php:25
+msgid "Offline Clone"
+msgstr ""
+
+#: _pages/_inc/_SelectRecoverPlan.php:133
+#: _pages/_inc/_VerifyAliyunHostTransportType.php:432
+#: _pages/_inc/_VerifyAliyunTransportServices.php:455
+#: _pages/_inc/_VerifyAwsHostTransportType.php:459
+#: _pages/_inc/_VerifyAwsLinuxLauncherService.php:392
+#: _pages/_inc/_VerifyAwsTransportServices.php:481
+#: _pages/_inc/_VerifyAzureHostTransportType.php:426
+#: _pages/_inc/_VerifyAzureTransportServices.php:495
+#: _pages/_inc/_VerifyCloudTransportServices.php:439
+#: _pages/_inc/_VerifyCtyunHostTransportType.php:447
+#: _pages/_inc/_VerifyCtyunTransportServices.php:439
+#: _pages/_inc/_VerifyHostTransportType.php:447
+#: _pages/_inc/_VerifyLinuxLauncherService.php:365
+#: _pages/_inc/_VerifyTencentHostTransportType.php:401
+#: _pages/_inc/_VerifyTencentTransportServices.php:510
+msgid "Description"
+msgstr ""
+
+#: _pages/_inc/_SelectServRegion.php:21
+msgid "On-Premises"
+msgstr ""
+
+#: _pages/_inc/_SelectServRegion.php:23
+msgid "Recovery Kit"
+msgstr ""
+
+#: _pages/_inc/_SelectTargetTransportServer.php:146
+msgid "Target Transport Server:"
+msgstr ""
+
+#: _pages/_inc/_ServLinuxConnection.php:162
+#: _pages/_inc/_VerifyHostCloud.php:176
+msgid "Project / User"
+msgstr ""
+
+#: _pages/_inc/_VerifyAliyunHostTransportType.php:442
+#: _pages/_inc/_VerifyAwsHostTransportType.php:469
+#: _pages/_inc/_VerifyAzureHostTransportType.php:436
+#: _pages/_inc/_VerifyCtyunHostTransportType.php:457
+#: _pages/_inc/_VerifyHostOfflineClone.php:366
+#: _pages/_inc/_VerifyHostPhysical.php:374
+#: _pages/_inc/_VerifyHostTransportType.php:457
+#: _pages/_inc/_VerifyHostVirtual.php:411
+msgid "Transport Server:"
+msgstr ""
+
+#: _pages/_inc/_VerifyAliyunHostTransportType.php:443
+#: _pages/_inc/_VerifyAwsHostTransportType.php:470
+#: _pages/_inc/_VerifyAzureHostTransportType.php:437
+#: _pages/_inc/_VerifyCtyunHostTransportType.php:458
+#: _pages/_inc/_VerifyHostOfflineClone.php:367
+#: _pages/_inc/_VerifyHostPhysical.php:375
+#: _pages/_inc/_VerifyHostTransportType.php:458
+msgid "Preferred Address:"
+msgstr ""
+
+#: _pages/_inc/_VerifyAliyunHostTransportType.php:461
+#: _pages/_inc/_VerifyAwsHostTransportType.php:488
+#: _pages/_inc/_VerifyAzureHostTransportType.php:455
+#: _pages/_inc/_VerifyCtyunHostTransportType.php:476
+#: _pages/_inc/_VerifyHostOfflineClone.php:379
+#: _pages/_inc/_VerifyHostPhysical.php:387
+#: _pages/_inc/_VerifyHostTransportType.php:476
+#: _pages/_inc/_VerifyHostVirtual.php:422
+#: _pages/_inc/_VerifyTencentHostTransportType.php:426
+msgid "Test Connection"
+msgstr ""
+
+#: _pages/_inc/_VerifyAliyunTransportServices.php:470
+#: _pages/_inc/_VerifyAwsLinuxLauncherService.php:407
+#: _pages/_inc/_VerifyAwsTransportServices.php:496
+#: _pages/_inc/_VerifyAzureTransportServices.php:510
+#: _pages/_inc/_VerifyCloudTransportServices.php:454
+#: _pages/_inc/_VerifyCtyunTransportServices.php:454
+#: _pages/_inc/_VerifyLinuxLauncherService.php:380
+#: _pages/_inc/_VerifyOnPremiseTransportServices.php:378
+#: _pages/_inc/_VerifyRecoveryKitServices.php:303
+#: _pages/_inc/_VerifyTencentTransportServices.php:525
+msgid "Verify Service"
+msgstr ""
+
+#: _pages/_inc/_VerifyHostOfflineClone.php:361
+#: _pages/_inc/_VerifyHostPhysical.php:369
+msgid "FQDN / Host Name / IP Address:"
+msgstr ""
+
+#: _pages/_inc/_VerifyHostVirtual.php:396
+msgid "ESX IP / Name:"
+msgstr ""
+
+#: _pages/_inc/_VerifyHostVirtual.php:401
+msgid "ESX Username:"
+msgstr ""
+
+#: _pages/_inc/_VerifyHostVirtual.php:406
+msgid "ESX Password:"
+msgstr ""
+
+#: _pages/_inc/_VerifyHostVirtual.php:421
+msgid "Select Host"
+msgstr ""
+
+#: _pages/_inc/_VerifyOnPremiseTransportServices.php:367
+#: _pages/_inc/_VerifyRecoveryKitServices.php:292
+msgid "FQDN / Host Name / IP address:"
+msgstr ""
+
+#: _pages/_inc/_VerifyTencentHostTransportType.php:411
+msgid "Home Transport Server:"
+msgstr ""
