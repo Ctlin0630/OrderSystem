@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SaaSaMe\n"
 "POT-Creation-Date: 2018-09-03 10:36+0800\n"
-"PO-Revision-Date: 2018-09-03 10:45+0800\n"
+"PO-Revision-Date: 2018-09-10 14:22+0800\n"
 "Last-Translator: \n"
 "Language-Team: Rex\n"
 "Language: zh_TW\n"
@@ -18,1158 +18,1158 @@ msgstr ""
 
 #: _inc/languages/management_lan.php:3
 msgid "Replication process started."
-msgstr ""
+msgstr "開始複製工作"
 
 #: _inc/languages/management_lan.php:4
 msgid "Created Loader job for the specified buffer size."
-msgstr ""
+msgstr "依據暫存空間設定建立 Loader 工作"
 
 #: _inc/languages/management_lan.php:5
 msgid "Resume Loader job for specified buffer size."
-msgstr ""
+msgstr "依據暫存空間設定啟動 Loader 工作"
 
 #: _inc/languages/management_lan.php:6
 msgid "Created Loader job for the specified data size."
-msgstr ""
+msgstr "依據複製資料量建立 Loader 工作"
 
 #: _inc/languages/management_lan.php:7
 msgid "Resume Loader job for the specified data size."
-msgstr ""
+msgstr "依據複製資料量啟動 Loader 工作"
 
 #: _inc/languages/management_lan.php:8
 msgid "Replication process submitted to the Transport server."
-msgstr ""
+msgstr "複製執行已傳送到 Transport 伺服器"
 
 #: _inc/languages/management_lan.php:9
 msgid "Success to recreate the Loader connection."
-msgstr ""
+msgstr "成功重新建立 Loader 複製連線"
 
 #: _inc/languages/management_lan.php:10
 msgid "Cannot recreate the Loader connection."
-msgstr ""
+msgstr "無法重新建立 Loader 複製連線"
 
 #: _inc/languages/management_lan.php:11
 msgid "Preparing instances."
-msgstr ""
+msgstr "準備建立目標還原機器"
 
 #: _inc/languages/management_lan.php:12
 msgid "Uploading...%1%"
-msgstr ""
+msgstr "上傳中 ...%1%"
 
 #: _inc/languages/management_lan.php:13
 msgid "Import image fail."
-msgstr ""
+msgstr "鏡像建立失敗"
 
 #: _inc/languages/management_lan.php:14
 msgid "Creating image from VHD."
-msgstr ""
+msgstr "從 VHD 建立鏡像"
 
 #: _inc/languages/management_lan.php:15
 msgid "Detaching the volume from the Transport server."
-msgstr ""
+msgstr "從 Transport 服務器卸載轉換完成的磁碟"
 
 #: _inc/languages/management_lan.php:16
 msgid "The Volumes detached from the Transport server."
-msgstr ""
+msgstr "成功卸載轉換完成的磁碟"
 
 #: _inc/languages/management_lan.php:17
 msgid "Creating an instance."
-msgstr ""
+msgstr "開始建立目標還原機器"
 
 #: _inc/languages/management_lan.php:18
 msgid "The instance created."
-msgstr ""
+msgstr "完成目標還原機器建立"
 
 #: _inc/languages/management_lan.php:19
 msgid "Cannot create an instance."
-msgstr ""
+msgstr "無法建立目標還原機器"
 
 #: _inc/languages/management_lan.php:20
 msgid "Export image is ready to use."
-msgstr ""
+msgstr "完成匯出磁碟檔案"
 
 #: _inc/languages/management_lan.php:21
 msgid "Recovery kit media is ready to use."
-msgstr ""
+msgstr "Recovery Kit 複製磁碟工作完畢"
 
 #: _inc/languages/management_lan.php:22
 msgid "Creating image 100%."
-msgstr ""
+msgstr "建立鏡像中 100%."
 
 #: _inc/languages/management_lan.php:23
 msgid "Creating image %1%"
-msgstr ""
+msgstr "建立鏡像中 %1%"
 
 #: _inc/languages/management_lan.php:24
 msgid "Image create completed."
-msgstr ""
+msgstr "完成鏡像建立"
 
 #: _inc/languages/management_lan.php:25
 msgid "Reflush disks information for selected virtual host."
-msgstr ""
+msgstr "重新讀取虛擬機磁碟資訊"
 
 #: _inc/languages/management_lan.php:26
 msgid "A recovery process created."
-msgstr ""
+msgstr "建立目標還原工作"
 
 #: _inc/languages/management_lan.php:27
 msgid "Not enough licenses to run recover workload."
-msgstr ""
+msgstr "沒有足夠的授權建立新的複製工作"
 
 #: _inc/languages/management_lan.php:28
 msgid "Source Transport and Target Transport cannot both in-direct mode."
-msgstr ""
+msgstr "來源和目標 Transport 伺服器不能同時以主機端註冊模式進行複製"
 
 #: _inc/languages/management_lan.php:29
 msgid "Success to recreate the Carrier connection."
-msgstr ""
+msgstr "成功重新建立 Carrier 連線"
 
 #: _inc/languages/management_lan.php:30
 msgid "Cannot recreate the Carrier connection."
-msgstr ""
+msgstr "無法重新建立 Carrier 連線"
 
 #: _inc/languages/management_lan.php:31
 msgid ""
 "Failed to connect to transport server. Cannot recreate the Carrier "
 "connection."
-msgstr ""
+msgstr "無法建立與來源 Transport 服務器 Carrier 複製連線"
 
 #: _inc/languages/management_lan.php:32
 msgid "Setting up WebDAV connection with URL - %1%"
-msgstr ""
+msgstr "成功建立 WebDAV 複製連線到 - %1%"
 
 #: _inc/languages/management_lan.php:33
 msgid "Failed to initialize webDAV connection."
-msgstr ""
+msgstr "無法建立 WebDAV 複製連線"
 
 #: _inc/languages/management_lan.php:34
 msgid "Cannot get the volume address information."
-msgstr ""
+msgstr "無法取得新增磁碟識別資訊"
 
 #: _inc/languages/management_lan.php:35
 msgid "The SCSI address is %1%"
-msgstr ""
+msgstr "磁碟 SCSI 資訊為 %1%"
 
 #: _inc/languages/management_lan.php:36
 msgid "The disk unique id is %1%"
-msgstr ""
+msgstr "磁碟標記識別資訊為 %1%"
 
 #: _inc/languages/management_lan.php:37
 msgid "The disk customized id is %1%"
-msgstr ""
+msgstr "磁碟標記識別資訊為 %1%"
 
 #: _inc/languages/management_lan.php:38
 msgid "The disk serial number is %1%"
-msgstr ""
+msgstr "磁碟序號資訊為 %1%"
 
 #: _inc/languages/management_lan.php:39
 msgid "Failed to verify storage connection string."
-msgstr ""
+msgstr "無法以儲存體帳戶連接字串完成連線驗證"
 
 #: _inc/languages/management_lan.php:40
 msgid "Getting disk information of the Azure disk with Blob."
-msgstr ""
+msgstr "讀取 AZURE 儲存體帳戶複製磁碟資訊"
 
 #: _inc/languages/management_lan.php:41
 msgid "Getting disk information of the export job."
-msgstr ""
+msgstr "讀取匯出工作的磁碟資訊"
 
 #: _inc/languages/management_lan.php:42
 msgid "The disk information updated."
-msgstr ""
+msgstr "已成功更新磁碟資訊"
 
 #: _inc/languages/management_lan.php:43
 msgid "Getting disk information of the Recovery Kit."
-msgstr ""
+msgstr "讀取 Recovery Kit 掛載的磁碟資訊"
 
 #: _inc/languages/management_lan.php:44
 msgid "Failed to get disk mapping information."
-msgstr ""
+msgstr "無法讀取磁碟對應資訊"
 
 #: _inc/languages/management_lan.php:45
 msgid "The disk partition does not allow."
-msgstr ""
+msgstr "不允許執行的磁碟分區資訊"
 
 #: _inc/languages/management_lan.php:46
 msgid "The disk size does not match the Recovery Kit information."
-msgstr ""
+msgstr "無法對應 Recovery Kit 掛載的磁碟大小"
 
 #: _inc/languages/management_lan.php:47
 msgid "The disk matches the Recovery Kit information."
-msgstr ""
+msgstr "成功對應 Recovery Kit 掛載磁碟數量及大小"
 
 #: _inc/languages/management_lan.php:48
 msgid "The number of disks does not match the Recovery Kit information."
-msgstr ""
+msgstr "無法對應 Recovery Kit 掛載的磁碟數量"
 
 #: _inc/languages/management_lan.php:49
 msgid "Creating volume %1% with size %2%"
-msgstr ""
+msgstr "建立磁碟 %1% 磁碟容量為 %2%"
 
 #: _inc/languages/management_lan.php:50
 msgid "Cannot get the volume information."
-msgstr ""
+msgstr "無法讀取磁碟資訊"
 
 #: _inc/languages/management_lan.php:51
 msgid "Cannot mount the volume to the Transport server."
-msgstr ""
+msgstr "無法將磁碟掛載到 Transport 伺服器"
 
 #: _inc/languages/management_lan.php:52
 msgid "Cannot create or mount the volume to the Transport server."
-msgstr ""
+msgstr "無法建立或掛載磁碟到 Transport 伺服器"
 
 #: _inc/languages/management_lan.php:53
 msgid "A volume created and mounted to the Transport server."
-msgstr ""
+msgstr "成功建立磁碟並掛載到 Transport 伺服器"
 
 #: _inc/languages/management_lan.php:54
 msgid "Data volume created and mounted to Transport server."
-msgstr ""
+msgstr "成功建之資訊磁碟並掛載到 Transport 伺服器"
 
 #: _inc/languages/management_lan.php:55
 msgid "Image export folder %1% does not exist."
-msgstr ""
+msgstr "無法找到匯出磁碟檔案指定儲存的資料夾  %1% "
 
 #: _inc/languages/management_lan.php:56
 msgid "The export image will save to %1%"
-msgstr ""
+msgstr "匯出的磁碟檔案將會儲存在資訊夾 %1%"
 
 #: _inc/languages/management_lan.php:57
 msgid "Cannot create webDAV connection."
-msgstr ""
+msgstr "無法建立 WebDAV 連線"
 
 #: _inc/languages/management_lan.php:58
 msgid "The other disk action is processing please wait.<sup>%1%</sup>"
-msgstr ""
+msgstr "等待其它磁碟處理程序完成 <sup>%1%</sup>"
 
 #: _inc/languages/management_lan.php:59
 msgid "Fail to proceed disk create action."
-msgstr ""
+msgstr "無法執行磁碟建立程序"
 
 #: _inc/languages/management_lan.php:60
 msgid "Connection information updated."
-msgstr ""
+msgstr "成功更新連線資訊"
 
 #: _inc/languages/management_lan.php:61
 msgid "Preparing workload will begin at %1%"
-msgstr ""
+msgstr "複製工作設定在以下指定時間開始執行  %1%"
 
 #: _inc/languages/management_lan.php:62
 msgid "Cannot submit the recovery process."
-msgstr ""
+msgstr "無法傳送還原工作"
 
 #: _inc/languages/management_lan.php:63
 msgid "Not enough licenses to run this process."
-msgstr ""
+msgstr "沒有足夠的授權建立還原工作"
 
 #: _inc/languages/management_lan.php:64
 msgid "The Scheduler sync started."
-msgstr ""
+msgstr "開始執行排程複製作"
 
 #: _inc/languages/management_lan.php:65
 msgid "Checking the Scheduler job status."
-msgstr ""
+msgstr "檢查 Scheduler 工作狀態"
 
 #: _inc/languages/management_lan.php:66
 msgid "Checking the Scheduler job status.<sup>%1%</sup>"
-msgstr ""
+msgstr "檢查 Scheduler 工作狀態.<sup>%1%</sup>"
 
 #: _inc/languages/management_lan.php:67
 msgid "The Loader sync started."
-msgstr ""
+msgstr "開始 Loader 目標磁碟複製工作"
 
 #: _inc/languages/management_lan.php:68
 msgid "Checking the Loader job status."
-msgstr ""
+msgstr "檢查 Loader 工作狀態"
 
 #: _inc/languages/management_lan.php:69
 msgid "Checking the Loader job status.<sup>%1%</sup>"
-msgstr ""
+msgstr "檢查 Loader 工作狀態.<sup>%1%</sup>"
 
 #: _inc/languages/management_lan.php:70
 msgid "Job canceled."
-msgstr ""
+msgstr "複製工作已被關閉"
 
 #: _inc/languages/management_lan.php:71
 msgid "Wait %1% seconds for previous job finish."
-msgstr ""
+msgstr "等待 %1% 秒以配合其它工作完成"
 
 #: _inc/languages/management_lan.php:72
 msgid "cannot use private ip %1%"
-msgstr ""
+msgstr "無法使用指定的私人IP %1%"
 
 #: _inc/languages/management_lan.php:73
 msgid "Please activate OSS and RAM services from Alibaba console."
-msgstr ""
+msgstr "請由阿里雲控制台事先啟用 OSS and RAM 服務"
 
 #: _inc/languages/management_lan.php:74
 msgid "Bucket create fail."
-msgstr ""
+msgstr "無法建立 Bucket"
 
 #: _inc/languages/management_lan.php:75
 msgid "Getting snapshot information."
-msgstr ""
+msgstr "讀取快照資訊"
 
 #: _inc/languages/management_lan.php:76
 msgid "The snapshot size is %1%"
-msgstr ""
+msgstr "磁碟快照大小為 %1%"
 
 #: _inc/languages/management_lan.php:77
 msgid "New %1% unique id %2%"
-msgstr ""
+msgstr "新磁碟 %1% 磁碟識別為 %2%"
 
 #: _inc/languages/management_lan.php:78
 msgid "Creating a new data volume."
-msgstr ""
+msgstr "建立新資料磁碟"
 
 #: _inc/languages/management_lan.php:79
 msgid "Creating a new system volume."
-msgstr ""
+msgstr "建立新系統磁碟"
 
 #: _inc/languages/management_lan.php:80
 msgid "Cannot create volume."
-msgstr ""
+msgstr "無法執行磁碟建立"
 
 #: _inc/languages/management_lan.php:81
 msgid "Getting system %1% information."
-msgstr ""
+msgstr "讀取系統磁碟資訊 %1%"
 
 #: _inc/languages/management_lan.php:82
 msgid "Cannot attach the volume to the Transport server."
-msgstr ""
+msgstr "無法掛載磁碟到 Transport 伺服器"
 
 #: _inc/languages/management_lan.php:83
 msgid "Getting new %1% information."
-msgstr ""
+msgstr "讀取磁碟識別資訊 %1%"
 
 #: _inc/languages/management_lan.php:84
 msgid "Cannot get volume address information."
-msgstr ""
+msgstr "無法讀取磁碟識別資訊"
 
 #: _inc/languages/management_lan.php:85
 msgid "A volume created and attached to the Transport server."
-msgstr ""
+msgstr "成功建立磁碟並掛載到 Transport 伺服器"
 
 #: _inc/languages/management_lan.php:86
 msgid "New %1% customized id %2%"
-msgstr ""
+msgstr "新磁碟 %1% 磁碟識別碼為 %2%"
 
 #: _inc/languages/management_lan.php:87
 msgid "New %1% serial number is %2%"
-msgstr ""
+msgstr "新磁碟 %1% 磁碟序號為 %2%"
 
 #: _inc/languages/management_lan.php:88
 msgid "New %1% address is %2%"
-msgstr ""
+msgstr "新磁碟 %1% 磁碟位址為 %2%"
 
 #: _inc/languages/management_lan.php:89
 msgid "Linux Launcher service cannot be found."
-msgstr ""
+msgstr "在目標 Transport 伺服器未安裝 Linux Launcher 服務"
 
 #: _inc/languages/management_lan.php:90
 msgid "Linux Launcher service required at least 2GB of memory."
-msgstr ""
+msgstr "執行 Linux Launcher 服務需要在目標伺服器配置 2GB 記憶體"
 
 #: _inc/languages/management_lan.php:91
 msgid "Getting replica disk information."
-msgstr ""
+msgstr "讀取複製磁碟資訊"
 
 #: _inc/languages/management_lan.php:92
 msgid "The volume is ready for the Launcher."
-msgstr ""
+msgstr "磁碟設定完成準備執行系統還原程序"
 
 #: _inc/languages/management_lan.php:93
 msgid "The recovery process submitted."
-msgstr ""
+msgstr "已傳送目標還原工作"
 
 #: _inc/languages/management_lan.php:94
 msgid "Cannot get the management server address."
-msgstr ""
+msgstr "無法讀取管理控制台伺服器 IP 位址"
 
 #: _inc/languages/management_lan.php:95
 msgid "Deleting replication job."
-msgstr ""
+msgstr "開始刪除複製工作"
 
 #: _inc/languages/management_lan.php:96
 msgid "Get the Scheduler job status."
-msgstr ""
+msgstr "讀取 Scheduler 複製工作狀態"
 
 #: _inc/languages/management_lan.php:97
 msgid "Stop the Scheduler job."
-msgstr ""
+msgstr "停止 Scheduler 複製工作"
 
 #: _inc/languages/management_lan.php:98
 msgid "Remove the Scheduler job."
-msgstr ""
+msgstr "刪除 Scheduler 複製工作"
 
 #: _inc/languages/management_lan.php:99
 msgid "Remove the snapshot images."
-msgstr ""
+msgstr "刪除快照複製工作檔案"
 
 #: _inc/languages/management_lan.php:100
 msgid "Cannot remove the snapshot images."
-msgstr ""
+msgstr "無法刪除快照複製工作檔案"
 
 #: _inc/languages/management_lan.php:101
 msgid "Get the Loader job status."
-msgstr ""
+msgstr "讀取 Loader 工作狀態"
 
 #: _inc/languages/management_lan.php:102
 msgid "Stop the Loader job."
-msgstr ""
+msgstr "停止 Loader 複製工作"
 
 #: _inc/languages/management_lan.php:103
 msgid "Remove the Loader job."
-msgstr ""
+msgstr "刪除 Loader 複製工作"
 
 #: _inc/languages/management_lan.php:104
 msgid "Removing the recovery process."
-msgstr ""
+msgstr "開始刪除目標還原工作"
 
 #: _inc/languages/management_lan.php:105
 msgid "The Recovery process removed."
-msgstr ""
+msgstr "成功刪除目標還原工作"
 
 #: _inc/languages/management_lan.php:106
 msgid "Start to terminate instance."
-msgstr ""
+msgstr "刪除目標還原機器"
 
 #: _inc/languages/management_lan.php:107
 msgid "The instance terminated."
-msgstr ""
+msgstr "成功刪除目標還原機器"
 
 #: _inc/languages/management_lan.php:108
 msgid "Failed to terminate instance."
-msgstr ""
+msgstr "無法刪除目標還原機器"
 
 #: _inc/languages/management_lan.php:109
 msgid "Disk unmount timeout."
-msgstr ""
+msgstr "無法在指定時間完成磁碟卸載"
 
 #: _inc/languages/management_lan.php:110
 msgid "The instance volumes removed."
-msgstr ""
+msgstr "成功刪除目標還原機器使用磁碟"
 
 #: _inc/languages/management_lan.php:111
 msgid "The replication configuration updated."
-msgstr ""
+msgstr "成功更新複製設定"
 
 #: _inc/languages/management_lan.php:112
 msgid "Cannot update the replication configuration."
-msgstr ""
+msgstr "無法更新複製工作設定"
 
 #: _inc/languages/management_lan.php:113
 msgid "Create and upload SaaSaMe private image for volume creation reference."
-msgstr ""
+msgstr "為後續磁碟建立程序開始上傳 SaaSaMe 自定義磁碟建立鏡像"
 
 #: _inc/languages/management_lan.php:114
 msgid "The uploaded image still in processing.<sup>%1%</sup>"
-msgstr ""
+msgstr "執行上傳 SaaSaMe 自定義磁碟建立鏡像 .<sup>%1%</sup>"
 
 #: _inc/languages/management_lan.php:115
 msgid "Attaching the volume to the Transport server"
-msgstr ""
+msgstr "正在將磁碟掛載到 Transport 伺服器"
 
 #: _inc/languages/management_lan.php:116
 msgid "Checking the volume status<sup>%1%</sup>"
-msgstr ""
+msgstr "檢查磁碟狀態 <sup>%1%</sup>"
 
 #: _inc/languages/management_lan.php:117
 msgid "Disk creation timeout."
-msgstr ""
+msgstr "無法在指定時間內完成磁碟建立"
 
 #: _inc/languages/management_lan.php:118
 msgid "Snapshot %1% removed."
-msgstr ""
+msgstr "成功刪除快照 %1%"
 
 #: _inc/languages/management_lan.php:119
 msgid "Trying to attach data disk."
-msgstr ""
+msgstr "開始掛載資料磁碟"
 
 #: _inc/languages/management_lan.php:120
 msgid "Removing the snapshots."
-msgstr ""
+msgstr "開始刪除快照"
 
 #: _inc/languages/management_lan.php:121
 msgid "The volume removed."
-msgstr ""
+msgstr "成功刪除磁碟"
 
 #: _inc/languages/management_lan.php:122
 msgid "Getting the instance root device."
-msgstr ""
+msgstr "讀取目標還原機器系統磁碟資訊"
 
 #: _inc/languages/management_lan.php:123
 msgid "Powering off the instance."
-msgstr ""
+msgstr "執行目標還原機器關機"
 
 #: _inc/languages/management_lan.php:124
 msgid "The instance powered off."
-msgstr ""
+msgstr "成功關閉目標還原機器"
 
 #: _inc/languages/management_lan.php:125
 msgid "Detach temp root device from the instance."
-msgstr ""
+msgstr "從目標還原機器卸載暫時性的系統磁碟"
 
 #: _inc/languages/management_lan.php:126
 msgid "Attach volume to the instance."
-msgstr ""
+msgstr "掛載磁碟到目標還原機器"
 
 #: _inc/languages/management_lan.php:127
 msgid "Delete the temp root device."
-msgstr ""
+msgstr "成功刪除暫時性的系統磁碟"
 
 #: _inc/languages/management_lan.php:128
 msgid "Associate elastic address to instance."
-msgstr ""
+msgstr "對應彈性公網 IP 到目標還原機器"
 
 #: _inc/languages/management_lan.php:129
 msgid "Powering on the instance."
-msgstr ""
+msgstr "執行目標還原機器開機"
 
 #: _inc/languages/management_lan.php:130
 msgid "Creating temporary snapshot from converted system volume."
-msgstr ""
+msgstr "由轉換成功的系統磁碟建立暫時性的工作快照"
 
 #: _inc/languages/management_lan.php:131
 msgid "Temporary snapshot %1% created."
-msgstr ""
+msgstr "建立暫時性的工作快照 %1%"
 
 #: _inc/languages/management_lan.php:132
 msgid "Creating custom image from snapshot %1%."
-msgstr ""
+msgstr "由暫時性的工作快照建立鏡像 %1%."
 
 #: _inc/languages/management_lan.php:133
 msgid "Custom image %1% created."
-msgstr ""
+msgstr "建立客製化鏡像中 %1% "
 
 #: _inc/languages/management_lan.php:134
 msgid "Instance %1% created"
-msgstr ""
+msgstr "成功建立目標還原機器 %1% "
 
 #: _inc/languages/management_lan.php:135
 msgid "Creating snapshot %1%"
-msgstr ""
+msgstr "建立快照 %1%"
 
 #: _inc/languages/management_lan.php:136
 msgid "Snapshot created."
-msgstr ""
+msgstr "成功建立快照"
 
 #: _inc/languages/management_lan.php:137
 msgid "Starting system conversion process."
-msgstr ""
+msgstr "開始系統轉換程序"
 
 #: _inc/languages/management_lan.php:138
 msgid "Creating temporary system disk from last snapshot."
-msgstr ""
+msgstr "由最新的快照建立暫時性系統磁碟"
 
 #: _inc/languages/management_lan.php:139
 msgid "Temporary system disk created."
-msgstr ""
+msgstr "成功建立暫時性系統磁碟"
 
 #: _inc/languages/management_lan.php:140
 msgid "Attached temporary system disk to Transport Server."
-msgstr ""
+msgstr "將暫時性工作系統磁碟掛載到 Transpor 伺服器"
 
 #: _inc/languages/management_lan.php:141
 msgid "New volume address is %1%."
-msgstr ""
+msgstr "新磁碟地址為 %1%."
 
 #: _inc/languages/management_lan.php:142
 msgid "The volume is ready for conversion."
-msgstr ""
+msgstr "磁碟設定完成準備執行系統還原程序"
 
 #: _inc/languages/management_lan.php:143
 msgid "Conversion process submitted."
-msgstr ""
+msgstr "已傳送系統轉換工作"
 
 #: _inc/languages/management_lan.php:144
 msgid "Recover Workload process started."
-msgstr ""
+msgstr "開始目標主機還原工作"
 
 #: _inc/languages/management_lan.php:145
 msgid "Creating a new instance from custom image %1%."
-msgstr ""
+msgstr "由鏡像建立目標還原機器 %1%."
 
 #: _inc/languages/management_lan.php:146
 msgid "Instance %1% created."
-msgstr ""
+msgstr "成功建立目標還原機器 %1%"
 
 #: _inc/languages/management_lan.php:147
 msgid "Creating disk %1%."
-msgstr ""
+msgstr "建立磁碟 %1%."
 
 #: _inc/languages/management_lan.php:148
 msgid "Attaching disk %1% to instance."
-msgstr ""
+msgstr "掛載磁碟 %1% 到目標還原機器"
 
 #: _inc/languages/management_lan.php:149
 msgid "Starting instance."
-msgstr ""
+msgstr "執行目標還原機器開機"
 
 #: _inc/languages/management_lan.php:150
 msgid "Recover Workload process completed."
-msgstr ""
+msgstr "成功完成目標還原工作"
 
 #: _inc/languages/management_lan.php:151
 msgid "Please power off recovery instance before delete recovery process."
-msgstr ""
+msgstr "關閉目標還原機器後才能執行刪除還原工作"
 
 #: _inc/languages/management_lan.php:152
 msgid "Detaching volumes from recovery instance."
-msgstr ""
+msgstr "從目標還原主機卸載磁碟"
 
 #: _inc/languages/management_lan.php:153
 msgid "Creating temporary instance."
-msgstr ""
+msgstr "建立暫時性工作主機"
 
 #: _inc/languages/management_lan.php:154
 msgid "Waiting for instance ready."
-msgstr ""
+msgstr "等待暫時性工作主機建立完成"
 
 #: _inc/languages/management_lan.php:155
 msgid "Failed to power off instance."
-msgstr ""
+msgstr "無法關閉暫時性工作主機"
 
 #: _inc/languages/management_lan.php:156
 msgid "Getting instance root volume id."
-msgstr ""
+msgstr "讀取暫時性工作主機系統磁碟資訊"
 
 #: _inc/languages/management_lan.php:157
 msgid "Cannot get instance root id."
-msgstr ""
+msgstr "無法讀取暫時性工作主機系統磁碟資訊"
 
 #: _inc/languages/management_lan.php:158
 msgid "Detach root volume from instance."
-msgstr ""
+msgstr "從暫時性工作主機卸載系統磁碟"
 
 #: _inc/languages/management_lan.php:159
 msgid "Failed to detach root volume from instance."
-msgstr ""
+msgstr "無法從暫時性工作主機卸載系統磁碟"
 
 #: _inc/languages/management_lan.php:160
 msgid "Expend root volume size to %1%"
-msgstr ""
+msgstr "擴大系統磁碟空間到 %1%"
 
 #: _inc/languages/management_lan.php:161
 msgid "Failed to expend root volume size."
-msgstr ""
+msgstr "無法擴大系統磁碟空間"
 
 #: _inc/languages/management_lan.php:162
 msgid "Delete temporary instance."
-msgstr ""
+msgstr "刪除暫時性工作主機"
 
 #: _inc/languages/management_lan.php:163
 msgid "Failed to delete temporary instance."
-msgstr ""
+msgstr "無法刪除暫時性工作主機"
 
 #: _inc/languages/management_lan.php:164
 msgid "Getting instance ready."
-msgstr ""
+msgstr "等待目標還原主機建立完成"
 
 #: _inc/languages/management_lan.php:165
 msgid "Failed to create instance."
-msgstr ""
+msgstr "無法建立目標還原主機"
 
 #: _inc/languages/management_lan.php:166
 msgid "Power off instance."
-msgstr ""
+msgstr "執行關閉目標還原主機"
 
 #: _inc/languages/management_lan.php:167
 msgid "Failed to stop instance."
-msgstr ""
+msgstr "無法關閉目標還原主機"
 
 #: _inc/languages/management_lan.php:168
 msgid "Getting instance temporary root volume id."
-msgstr ""
+msgstr "讀取暫時性系統磁碟 ID"
 
 #: _inc/languages/management_lan.php:169
 msgid "Cannot get instance temporary root volume ID."
-msgstr ""
+msgstr "無法讀取暫時性系統磁碟 ID"
 
 #: _inc/languages/management_lan.php:170
 msgid "Detach temporary root volume from instance."
-msgstr ""
+msgstr "卸載暫時性系統磁碟"
 
 #: _inc/languages/management_lan.php:171
 msgid "Cannot get detach temporary root volume."
-msgstr ""
+msgstr "無法卸載暫時性系統磁碟"
 
 #: _inc/languages/management_lan.php:172
 msgid "Delete temporary root volume."
-msgstr ""
+msgstr "刪除暫時性系統磁碟"
 
 #: _inc/languages/management_lan.php:173
 msgid "Failed to delete temporary root volume."
-msgstr ""
+msgstr "無法刪除暫時性系統磁碟"
 
 #: _inc/languages/management_lan.php:174
 msgid "Attach recovery volumes to instance."
-msgstr ""
+msgstr "掛載還原磁碟到目標還原主機"
 
 #: _inc/languages/management_lan.php:175
 msgid "Cannot get attach volume to the recovery instacne."
-msgstr ""
+msgstr "無法掛載還原磁碟到目標還原主機"
 
 #: _inc/languages/management_lan.php:176
 msgid "Power on instacne."
-msgstr ""
+msgstr "執行目標還原主機開機"
 
 #: _inc/languages/management_lan.php:177
 msgid "Failed to power on recovery instance."
-msgstr ""
+msgstr "無法將目標還原主機開機"
 
 #: _inc/languages/management_lan.php:178
 msgid "Trigger job synchronization."
-msgstr ""
+msgstr "手動執行複製工作"
 
 #: _inc/languages/management_lan.php:179
 msgid "Successful submitted synchronization task."
-msgstr ""
+msgstr "成功傳送複製啟動程序"
 
 #: _inc/languages/management_lan.php:180
 msgid "Failed to submit synchronization task."
-msgstr ""
+msgstr "無法傳送複製啟動程序"
 
 #: _inc/languages/management_lan.php:181
 msgid "Instance is ready."
-msgstr ""
+msgstr "目標還原主機回報系統啟動完成"
 
 #: _inc/languages/management_lan.php:182
 msgid ""
 "Cannot remove the replication process due to the active recovery process."
-msgstr ""
+msgstr "因為有執行中的還原工作所以無法刪除關聯的複製工作"
 
 #: _inc/languages/management_lan.php:183
 msgid "Fource to removed the Replication."
-msgstr ""
+msgstr "強制刪除複製作"
 
 #: _inc/languages/management_lan.php:184
 msgid "Fource to removed the Recovery."
-msgstr ""
+msgstr "強制刪除還原工作"
 
 #: _inc/languages/management_lan.php:185
 msgid "Invalid Security code."
-msgstr ""
+msgstr "不合法的安全驗證碼"
 
 #: _inc/languages/transport_lan.php:3
 msgid "Calculating backup size of disk %1%."
-msgstr ""
+msgstr "計算磁碟複製大小 %1%."
 
 #: _inc/languages/transport_lan.php:4
 msgid "Cannot calculate backup size of disk %1%."
-msgstr ""
+msgstr "無法執行磁碟複製大小計算 %1%."
 
 #: _inc/languages/transport_lan.php:5
 msgid "Backup size estimate of disk %1% : %2%."
-msgstr ""
+msgstr "磁碟 %1% 計算後複製大小為 %2%."
 
 #: _inc/languages/transport_lan.php:6
 msgid "Cannot estimate backup size of disk %1%."
-msgstr ""
+msgstr "無法計算出磁碟複製大小 %1%."
 
 #: _inc/languages/transport_lan.php:7
 msgid "Cannot open disk image %1%."
-msgstr ""
+msgstr "無法連線開始複製寫入 %1%."
 
 #: _inc/languages/transport_lan.php:8
 msgid "Cannot create disk image %1%."
-msgstr ""
+msgstr "無法執行複製寫入 %1%."
 
 #: _inc/languages/transport_lan.php:9
 msgid "Disk %1% backup started."
-msgstr ""
+msgstr "開始磁碟 %1% 複製同步"
 
 #: _inc/languages/transport_lan.php:10
 msgid "Disk %1% backup failed."
-msgstr ""
+msgstr "無法執行磁碟 %1% 複製同步"
 
 #: _inc/languages/transport_lan.php:11
 msgid "Disk %1% backup completed with size : %2%"
-msgstr "磁碟 %1% 備份完成，空間大小: %2%"
+msgstr "完成讀取磁碟 %1% 複製資訊，來源資料量 %2%"
 
 #: _inc/languages/transport_lan.php:12
 msgid "Cannot backup disk %1%."
-msgstr ""
+msgstr "無法複製同步磁碟 %1%."
 
 #: _inc/languages/transport_lan.php:13
 msgid "Cannot get volume object from access path %1%."
-msgstr ""
+msgstr "無法由來源路徑 %1% 讀取複製資訊 "
 
 #: _inc/languages/transport_lan.php:14
 msgid "Cannot find VSS snapshot for volume %1%."
-msgstr ""
+msgstr "無法從複製來源 %1% 讀取 VSS 資訊"
 
 #: _inc/languages/transport_lan.php:15
 msgid "Cannot find snapshot %1%."
-msgstr ""
+msgstr "無法讀取快照資訊 %1%"
 
 #: _inc/languages/transport_lan.php:16
 msgid "Cannot find snapshots by snapshot set %1%."
-msgstr ""
+msgstr "無法從快照設定 %1% 讀取快照"
 
 #: _inc/languages/transport_lan.php:17
 msgid "Cannot get snapshots info."
-msgstr ""
+msgstr "無法讀取快照資訊"
 
 #: _inc/languages/transport_lan.php:18
 msgid "No snapshot found."
-msgstr ""
+msgstr "沒有可用的快照"
 
 #: _inc/languages/transport_lan.php:19
 msgid "WinPE required."
-msgstr ""
+msgstr "需要配合 WinPE 設置"
 
 #: _inc/languages/transport_lan.php:20
 msgid "Multiple system disks found. Target only supports a single system disk."
-msgstr ""
+msgstr "來源主機有多個系統磁碟，無法符合目標還原主機上支援單一系統磁碟要求"
 
 #: _inc/languages/transport_lan.php:21
 msgid "Cannot connect to VMware host %1%."
-msgstr ""
+msgstr "無法連線到 VMware 伺服器 %1%."
 
 #: _inc/languages/transport_lan.php:22
 msgid "Cannot get thumbprint data of Packer for VMware %1%."
-msgstr ""
+msgstr "無法讀取 Packer for VMware %1% 識別資訊"
 
 #: _inc/languages/transport_lan.php:23
 #, php-format
 msgid "Cannot get virtual machine %s info."
-msgstr ""
+msgstr "無法讀取 VMware 虛擬機 %s  資訊"
 
 #: _inc/languages/transport_lan.php:24
 msgid "Invalid job spec."
-msgstr ""
+msgstr "不合符規定的工作內容"
 
 #: _inc/languages/transport_lan.php:25
 msgid "Disk %1% has incorrect changed block tracking configuration."
-msgstr ""
+msgstr "VMware 磁碟 %1% 有不正確 Changed Block Tracking 設定"
 
 #: _inc/languages/transport_lan.php:26
 msgid "Cannot open vmdk file %1%."
-msgstr ""
+msgstr "無法讀取 VMDK 檔案 %1%."
 
 #: _inc/languages/transport_lan.php:27
 msgid "Cannot open vmdk disk %1%."
-msgstr ""
+msgstr "無法讀取 VMDK 磁碟 %1%."
 
 #: _inc/languages/transport_lan.php:28
 msgid "Cannot replicate data to disk %1%."
-msgstr ""
+msgstr "無法將複製資訊寫人目標磁碟 %1%."
 
 #: _inc/languages/transport_lan.php:29
 msgid "Cannot import data block file %1%."
-msgstr ""
+msgstr "無法讀取來源複製資訊檔案 %1%."
 
 #: _inc/languages/transport_lan.php:30
 msgid "Cannot connect to the management server to take snapshot."
-msgstr ""
+msgstr "無法連線控制台服務完成後續目標快照建立"
 
 #: _inc/languages/transport_lan.php:31
 msgid "Abort replicating all data from disk %1%."
-msgstr ""
+msgstr "停止複製來源磁碟 %1% "
 
 #: _inc/languages/transport_lan.php:32
 msgid "Replicating snapshot data from disk %1%."
-msgstr ""
+msgstr "開始複製磁碟 %1% 寫入目標磁碟"
 
 #: _inc/languages/transport_lan.php:33
 msgid "Abort replicating snapshot data from disk %1%."
-msgstr ""
+msgstr "停止複製來源磁碟 %1% 的快照複製資訊"
 
 #: _inc/languages/transport_lan.php:34
 msgid "Data replication from disk %1% completed with size : %2%"
-msgstr ""
+msgstr "完成磁碟 %1% 複製，複製資料量 %2%"
 
 #: _inc/languages/transport_lan.php:35
 msgid "Initializing Loader job."
-msgstr ""
+msgstr "建立 Loader 複製工作"
 
 #: _inc/languages/transport_lan.php:36
 msgid "Cannot initialize Loader job."
-msgstr ""
+msgstr "無法建立  Loader 複製工作"
 
 #: _inc/languages/transport_lan.php:37
 msgid "Cannot get the loader job detail"
-msgstr ""
+msgstr "無法讀取 Loader 複製工作設定"
 
 #: _inc/languages/transport_lan.php:38
 msgid "Cannot get a connection object."
-msgstr ""
+msgstr "無法讀取連線設定內容"
 
 #: _inc/languages/transport_lan.php:39
 msgid "Invalid SCSI address %1% for disk %2%."
-msgstr ""
+msgstr "磁碟 %2%. 有不合法的 SCSI 地址 %1%"
 
 #: _inc/languages/transport_lan.php:40
 msgid "Faile to create the detal virtual disk file %1%"
-msgstr ""
+msgstr "無法建立詳細虛擬磁碟檔案 %1%"
 
 #: _inc/languages/transport_lan.php:41
 msgid "Cannot create virtual disk %1%."
-msgstr ""
+msgstr "無法建立虛擬磁碟 %1%."
 
 #: _inc/languages/transport_lan.php:42
 msgid "Cannot find disk %1%."
-msgstr ""
+msgstr "無法找到磁碟 %1%."
 
 #: _inc/languages/transport_lan.php:43
 msgid "Job devices are not ready."
-msgstr ""
+msgstr "工作裝置無法正常啟始"
 
 #: _inc/languages/transport_lan.php:44
 msgid "Initialization of Loader job completed."
-msgstr ""
+msgstr "Loader 工作設置準備完成"
 
 #: _inc/languages/transport_lan.php:45
 msgid "Incorrect job spec."
-msgstr ""
+msgstr "不正確的工作設定內容"
 
 #: _inc/languages/transport_lan.php:46
 msgid "Cannnot open disk %1% for data replication."
-msgstr ""
+msgstr "無法將複製資訊寫入目標複製磁碟 %1%"
 
 #: _inc/languages/transport_lan.php:47
 #, php-format
 msgid "Replication of %s data completed."
-msgstr ""
+msgstr "已完成%s 的資料複製。"
 
 #: _inc/languages/transport_lan.php:48
 msgid "Snapshot creation completed."
-msgstr ""
+msgstr "目標快照建立成功"
 
 #: _inc/languages/transport_lan.php:49
 msgid "Cannot create snapshot."
-msgstr ""
+msgstr "無法建立目標快照"
 
 #: _inc/languages/transport_lan.php:50
 msgid "Snapshot discarded."
-msgstr ""
+msgstr "捨棄複製快照"
 
 #: _inc/languages/transport_lan.php:51
 msgid "Cannot discard snapshot."
-msgstr ""
+msgstr "無法捨棄複製快照"
 
 #: _inc/languages/transport_lan.php:52
 msgid "Disk partition is larger than %1%G."
-msgstr ""
+msgstr "磁碟區大小超過 %1%G."
 
 #: _inc/languages/transport_lan.php:53
 msgid "Cannot find any bootable disk."
-msgstr ""
+msgstr "無法找到任何可開機系統磁碟"
 
 #: _inc/languages/transport_lan.php:54
 msgid "Conversion started."
-msgstr ""
+msgstr "開始執行系統轉換程序"
 
 #: _inc/languages/transport_lan.php:55
 msgid "The volume shrink operation started."
-msgstr ""
+msgstr "開始執行磁碟區壓縮"
 
 #: _inc/languages/transport_lan.php:56
 msgid ""
 "There is not enough space available on the disk(s) to complete the shrink "
 "operation."
-msgstr ""
+msgstr "磁碟上沒有足夠的空間執行磁碟區壓縮"
 
 #: _inc/languages/transport_lan.php:57
 msgid "The volume shrink operation completed."
-msgstr ""
+msgstr "磁碟區壓縮執行完成"
 
 #: _inc/languages/transport_lan.php:58
 msgid "The volume shrink operation failed."
-msgstr ""
+msgstr "磁碟區壓縮執行失敗"
 
 #: _inc/languages/transport_lan.php:59
 msgid "Please make sure MBR disk to boot from UEFI BIOS."
-msgstr ""
+msgstr "請確認來源主機 MBR 磁碟是由 UEFI 系統開機"
 
 #: _inc/languages/transport_lan.php:60
 msgid "Cannot convert partition style from GPT to MBR : disk size over 2 TB"
-msgstr ""
+msgstr "因為磁碟大小超過 2TB, 無法將磁碟由 GPT 轉換為 MBR"
 
 #: _inc/languages/transport_lan.php:61
 msgid "Cannot convert partition style from GPT to MBR."
-msgstr ""
+msgstr "無法執行磁碟由 GPT 轉換為 MBR "
 
 #: _inc/languages/transport_lan.php:62
 msgid "Disk conversion failed."
-msgstr ""
+msgstr "磁碟轉換失敗"
 
 #: _inc/languages/transport_lan.php:63
 msgid "System booting takes longer due to Windows Update."
-msgstr ""
+msgstr "由於系統正在執行 Windows Update, 將會需要非常長的開機時間"
 
 #: _inc/languages/transport_lan.php:64
 msgid "Cannot find any system information from disk(s)."
-msgstr ""
+msgstr "無法從磁碟中發現任何可開機的系統資訊"
 
 #: _inc/languages/transport_lan.php:65
 msgid "Initializing a Launcher job."
-msgstr ""
+msgstr "開始設定 Launcher 轉換工作"
 
 #: _inc/languages/transport_lan.php:66
 msgid "Cannot get the Launcher job detail from management server."
-msgstr ""
+msgstr "Launcher 服務無法從控制台取得詳細工作設定資訊"
 
 #: _inc/languages/transport_lan.php:67
 msgid "Faile to create the temp virtual disk file %1% for conversion."
-msgstr ""
+msgstr "無法建立暫時性的虛擬磁碟檔案 %1% 以執行系統轉換程序"
 
 #: _inc/languages/transport_lan.php:68
 msgid "Faile to attach the temp virtual disk file %1% for conversion."
-msgstr ""
+msgstr "無法掛載暫時性的虛擬磁碟檔案 %1% 以執行系統轉換程序"
 
 #: _inc/languages/transport_lan.php:69
 msgid "Cannot find virtual disk %1%."
-msgstr ""
+msgstr "無法找到虛擬磁碟檔案 %1%."
 
 #: _inc/languages/transport_lan.php:70
 msgid "Cannot find any disk for recovery."
-msgstr ""
+msgstr "無法找到磁碟執行目標還原工作"
 
 #: _inc/languages/transport_lan.php:71
 msgid "VHD upload completed."
-msgstr ""
+msgstr "完成 VHD 檔案上傳"
 
 #: _inc/languages/transport_lan.php:72
 msgid "Disk(s) conversion completed."
-msgstr ""
+msgstr "完成磁碟系統轉換"
 
 #: _inc/languages/transport_lan.php:73
 msgid "Disk(s) conversion failed."
-msgstr ""
+msgstr "執行磁碟系統轉換失敗"
 
 #: _inc/languages/transport_lan.php:74
 msgid "Job interrupted."
-msgstr ""
+msgstr "中止複製工作"
 
 #: _inc/languages/transport_lan.php:75
 msgid "Uploading VHD."
-msgstr ""
+msgstr "正在上傳 VHD 檔案"
 
 #: _inc/languages/transport_lan.php:76
 msgid "Connection retry timeout to Packer."
-msgstr ""
+msgstr "無法在指定時間內重新連線到 Packer"
 
 #: _inc/languages/transport_lan.php:77
 msgid "Connection retry timeout to Offline Packer."
-msgstr ""
+msgstr "無法在指定時間內重新連線到 Packer for Offline"
 
 #: _inc/languages/transport_lan.php:78
 msgid "Response timeout from Packer."
-msgstr ""
+msgstr "Packer 沒有在指定的時間內完成回應"
 
 #: _inc/languages/transport_lan.php:79
 msgid "Response timeout from Offline Packer."
-msgstr ""
+msgstr "Packer for Offline 沒有在指定的時間內完成回應"
 
 #: _inc/languages/transport_lan.php:80
 msgid "Resume connection to Packer."
-msgstr ""
+msgstr "恢復與 Packer 的連線"
 
 #: _inc/languages/transport_lan.php:81
 msgid "Resume connection to Offline Packer."
-msgstr ""
+msgstr "恢復與 Packer for Offline 的連線"
 
 #: _inc/languages/transport_lan.php:82
 msgid "Cannot get the replica job detail"
-msgstr ""
+msgstr "無法取得複製工作的詳細設定資訊"
 
 #: _inc/languages/transport_lan.php:83
 msgid "Cannot connect to the physical host."
-msgstr ""
+msgstr "無法連線到來源主機"
 
 #: _inc/languages/transport_lan.php:84
 msgid "The Packer cannot connect to the Carrier."
-msgstr ""
+msgstr "Packer 無法連線來源 Transport 伺服器的 Carrier 服務"
 
 #: _inc/languages/transport_lan.php:85
 msgid "Pending for available job resource."
-msgstr ""
+msgstr "等待 CPU 資源以執行複製工作"
 
 #: _inc/languages/transport_lan.php:86
 msgid "Cannot connect to the management server."
-msgstr ""
+msgstr "無法連線到管理控制台服務"
 
 #: _inc/languages/transport_lan.php:87
 msgid "Carrier job started."
-msgstr ""
+msgstr "開始執行 Carrier 複製接收工作"
 
 #: _inc/languages/transport_lan.php:88
 msgid "Cannot find disks from host %1%."
-msgstr ""
+msgstr "無法從來源主機 %1%. 找到磁碟"
 
 #: _inc/languages/transport_lan.php:89
 msgid "Cannot take snapshots of host %1%."
-msgstr ""
+msgstr "無法在來源主機建立快照 %1%."
 
 #: _inc/languages/transport_lan.php:90
 msgid "Cannot create a Packer job for host %1%."
-msgstr ""
+msgstr "無法在來源主機 %1%. 建立 Packer 複製工作"
 
 #: _inc/languages/transport_lan.php:91
 msgid "Connection retry timeout to Packer for VMware."
-msgstr ""
+msgstr "無法在指定時間內連線到 Packer for VMware 服務"
 
 #: _inc/languages/transport_lan.php:92
 msgid "Response timeout from Packer for VMware."
-msgstr ""
+msgstr "無法在指定時間內得到 Packer for VMware 回應"
 
 #: _inc/languages/transport_lan.php:93
 msgid "Resume connection to Packer for VMware."
-msgstr ""
+msgstr "恢復與 Packer for VMware 的連線"
 
 #: _inc/languages/transport_lan.php:94
 msgid "Cannot get thumbprint data of VMware host %1%."
-msgstr ""
+msgstr "無法讀取 Packer for VMware %1% 識別資訊"
 
 #: _inc/languages/transport_lan.php:95
 msgid "Cannot connect to the Packer for VMware."
-msgstr ""
+msgstr "無法連線到 Packer for VMware 服務"
 
 #: _inc/languages/transport_lan.php:96
 msgid "Virtual machine %1% not found."
-msgstr ""
+msgstr "找不到 VMware 虛擬機 %1%"
 
 #: _inc/languages/transport_lan.php:97
 msgid "Cannot enable CBT."
-msgstr ""
+msgstr "無法在 VMware 虛擬機啟用 CBT 設定"
 
 #: _inc/languages/transport_lan.php:98
 msgid "Cannot find disks from virtual machine %1%."
-msgstr ""
+msgstr "無法從 VMware 虛擬機 %1% 找到磁碟資訊."
 
 #: _inc/languages/transport_lan.php:99
 msgid "Cannot create temporary snapshot %1%."
-msgstr ""
+msgstr "無法在 VMware 虛擬機建立暫時性的複製快照 %1%."
 
 #: _inc/languages/transport_lan.php:100
 msgid "Cannot create Packer job for host %1%."
-msgstr ""
+msgstr "無法在來源主機 %1% 建立 Packer 工作."
 
 #: _inc/languages/transport_lan.php:101
 msgid "Cannot get the replica job detail."
-msgstr ""
+msgstr "無法讀取複製工作詳細設定內容"
 
 #: _inc/languages/transport_lan.php:102
 msgid "Cannot creatae a Packer job for host %1%."
-msgstr ""
+msgstr "無法在來源主機 %1%. 建立 Packer 複製工作"
 
 #: _pages/_headernavi.php:5
 msgid "Reset"
-msgstr ""
+msgstr "重新設定"
 
 #: _pages/_headernavi.php:6
 msgid "Log out"
-msgstr ""
+msgstr "登出"
 
 #: _pages/_headernavi.php:7
 msgid "Settings"
-msgstr ""
+msgstr "系統設定"
 
 #: _pages/_headernavi.php:8
 msgid "Main"
-msgstr ""
+msgstr "主頁面"
 
 #: _pages/_inc/_ConfigureWorkload.php:162
 #: _pages/_inc/_MgmtPrepareWorkload.php:660
@@ -1177,50 +1177,50 @@ msgstr ""
 #: _pages/_inc/_SelectRegisteredHost.php:230
 #: _pages/_inc/_SelectTargetTransportServer.php:131 _pages/_leftnavi.php:13
 msgid "Replication"
-msgstr ""
+msgstr "複製工作"
 
 #: _pages/_inc/_ConfigureWorkload.php:168
 #: _pages/_inc/_PrepareWorkloadSummary.php:377
 #: _pages/_inc/_SelectRegisteredHost.php:236
 #: _pages/_inc/_SelectTargetTransportServer.php:137
 msgid "Step 1 - Select Registered Host"
-msgstr ""
+msgstr "步驟一： 選擇來源主機"
 
 #: _pages/_inc/_ConfigureWorkload.php:169
 #: _pages/_inc/_PrepareWorkloadSummary.php:378
 #: _pages/_inc/_SelectRegisteredHost.php:237
 #: _pages/_inc/_SelectTargetTransportServer.php:138
 msgid "Step 2 - Select Transport Server"
-msgstr ""
+msgstr "步驟二： 選擇複製目的地"
 
 #: _pages/_inc/_ConfigureWorkload.php:170
 #: _pages/_inc/_PrepareWorkloadSummary.php:379
 #: _pages/_inc/_SelectRegisteredHost.php:238
 #: _pages/_inc/_SelectTargetTransportServer.php:139
 msgid "Step 3 - Configure Workload"
-msgstr ""
+msgstr "步驟三： 選擇複製內容"
 
 #: _pages/_inc/_ConfigureWorkload.php:171
 #: _pages/_inc/_PrepareWorkloadSummary.php:380
 #: _pages/_inc/_SelectRegisteredHost.php:239
 #: _pages/_inc/_SelectTargetTransportServer.php:140
 msgid "Step 4 - Configure Schedule"
-msgstr ""
+msgstr "步驟四： 選擇複製排程"
 
 #: _pages/_inc/_ConfigureWorkload.php:172
 #: _pages/_inc/_PrepareWorkloadSummary.php:381
 #: _pages/_inc/_SelectRegisteredHost.php:240
 #: _pages/_inc/_SelectTargetTransportServer.php:141
 msgid "Step 5 - Replication Summary"
-msgstr ""
+msgstr "步驟五： 確認複製設定"
 
 #: _pages/_inc/_ConfigureWorkload.php:181
 msgid "Pre Snapshot Script:"
-msgstr ""
+msgstr "來源快照執行前置腳本"
 
 #: _pages/_inc/_ConfigureWorkload.php:186
 msgid "Post Snapshot Script:"
-msgstr ""
+msgstr "來源快照執行後置腳本"
 
 #: _pages/_inc/_ConfigureWorkload.php:193
 #: _pages/_inc/_InstanceAliyunConfigurations.php:678
@@ -1303,7 +1303,7 @@ msgstr ""
 #: _pages/_inc/_VerifyTencentHostTransportType.php:423
 #: _pages/_inc/_VerifyTencentTransportServices.php:522
 msgid "Back"
-msgstr ""
+msgstr "上一步"
 
 #: _pages/_inc/_ConfigureWorkload.php:194
 #: _pages/_inc/_InstanceAliyunConfigurations.php:679
@@ -1386,7 +1386,7 @@ msgstr ""
 #: _pages/_inc/_VerifyTencentHostTransportType.php:424
 #: _pages/_inc/_VerifyTencentTransportServices.php:523
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: _pages/_inc/_ConfigureWorkload.php:195
 #: _pages/_inc/_InstanceAliyunConfigurations.php:680
@@ -1430,7 +1430,7 @@ msgstr ""
 #: _pages/_inc/_ServLinuxConnection.php:177
 #: _pages/_inc/_VerifyHostCloud.php:189
 msgid "Next"
-msgstr ""
+msgstr "下一步"
 
 #: _pages/_inc/_InstanceAliyunConfigurations.php:619
 #: _pages/_inc/_InstanceAwsConfigurations.php:527
@@ -1456,7 +1456,7 @@ msgstr ""
 #: _pages/_inc/_SelectRecoverPlan.php:113 _pages/_leftnavi.php:15
 #: _pages/_leftnavi.php:17
 msgid "Recovery"
-msgstr ""
+msgstr "還原工作"
 
 #: _pages/_inc/_InstanceAliyunConfigurations.php:625
 #: _pages/_inc/_InstanceAwsConfigurations.php:533
@@ -1492,7 +1492,7 @@ msgstr ""
 #: _pages/_inc/_SelectRecoverHost.php:215
 #: _pages/_inc/_SelectRecoverPlan.php:119
 msgid "Step 1 - Select Host"
-msgstr ""
+msgstr "步驟一： 選擇來源主機"
 
 #: _pages/_inc/_InstanceAliyunConfigurations.php:626
 #: _pages/_inc/_InstanceAwsConfigurations.php:534
@@ -1528,7 +1528,7 @@ msgstr ""
 #: _pages/_inc/_SelectRecoverHost.php:216
 #: _pages/_inc/_SelectRecoverPlan.php:120
 msgid "Step 2 - Select Recovery Type"
-msgstr ""
+msgstr "步驟二： 選擇還原類型"
 
 #: _pages/_inc/_InstanceAliyunConfigurations.php:627
 #: _pages/_inc/_InstanceAwsConfigurations.php:535
@@ -1551,7 +1551,7 @@ msgstr ""
 #: _pages/_inc/_SelectRecoverHost.php:217
 #: _pages/_inc/_SelectRecoverPlan.php:121
 msgid "Step 3 - Select Snapshot"
-msgstr ""
+msgstr "步驟三： 選擇還原使用快照"
 
 #: _pages/_inc/_InstanceAliyunConfigurations.php:628
 #: _pages/_inc/_InstanceAwsConfigurations.php:536
@@ -1574,7 +1574,7 @@ msgstr ""
 #: _pages/_inc/_SelectRecoverHost.php:218
 #: _pages/_inc/_SelectRecoverPlan.php:122
 msgid "Step 4 - Configure Instance"
-msgstr ""
+msgstr "步驟四： 設定目標還原主機"
 
 #: _pages/_inc/_InstanceAliyunConfigurations.php:629
 #: _pages/_inc/_InstanceAwsConfigurations.php:537
@@ -1597,7 +1597,7 @@ msgstr ""
 #: _pages/_inc/_SelectRecoverHost.php:219
 #: _pages/_inc/_SelectRecoverPlan.php:123
 msgid "Step 5 - Recovery Summary"
-msgstr ""
+msgstr "步驟五： 確認還原設定"
 
 #: _pages/_inc/_InstanceAliyunConfigurations.php:634
 #: _pages/_inc/_InstanceAzureConfigurations.php:57
@@ -1609,7 +1609,7 @@ msgstr ""
 #: _pages/_inc/_PlanInstanceAzureConfigurations.php:105
 #: _pages/_inc/_PlanInstanceConfigurations.php:672
 msgid "Recovery Script"
-msgstr ""
+msgstr "還原執行腳本"
 
 #: _pages/_inc/_InstanceAliyunConfigurations.php:638
 #: _pages/_inc/_InstanceAwsConfigurations.php:545
@@ -1622,7 +1622,7 @@ msgstr ""
 #: _pages/_inc/_PlanInstanceConfigurations.php:676
 #: _pages/_inc/_PlanInstanceTencentConfigurations.php:675
 msgid "Add Script"
-msgstr ""
+msgstr "新增腳本"
 
 #: _pages/_inc/_InstanceAliyunConfigurations.php:642
 #: _pages/_inc/_InstanceAwsConfigurations.php:549
@@ -1638,19 +1638,19 @@ msgstr ""
 #: _pages/_inc/_SelectCtyunHostTransportInstance.php:198
 #: _pages/_inc/_SelectCtyunTransportInstance.php:197
 msgid "Instance Type"
-msgstr ""
+msgstr "還原主機規格"
 
 #: _pages/_inc/_InstanceAliyunConfigurations.php:647
 #: _pages/_inc/_InstanceTencentConfigurations.php:624
 #: _pages/_inc/_PlanInstanceAliyunConfigurations.php:622
 #: _pages/_inc/_PlanInstanceTencentConfigurations.php:684
 msgid "VPC"
-msgstr ""
+msgstr "專有網路"
 
 #: _pages/_inc/_InstanceAliyunConfigurations.php:652
 #: _pages/_inc/_PlanInstanceAliyunConfigurations.php:627
 msgid "Switch"
-msgstr ""
+msgstr "網路交換器"
 
 #: _pages/_inc/_InstanceAliyunConfigurations.php:657
 #: _pages/_inc/_InstanceAwsConfigurations.php:559
@@ -1664,7 +1664,7 @@ msgstr ""
 #: _pages/_inc/_PlanInstanceConfigurations.php:691
 #: _pages/_inc/_PlanInstanceTencentConfigurations.php:694
 msgid "Security Group"
-msgstr ""
+msgstr "安全群組"
 
 #: _pages/_inc/_InstanceAliyunConfigurations.php:662
 #: _pages/_inc/_InstanceAzureConfigurations.php:93
@@ -1673,7 +1673,7 @@ msgstr ""
 #: _pages/_inc/_PlanInstanceAzureConfigurations.php:141
 #: _pages/_inc/_PlanInstanceTencentConfigurations.php:707
 msgid "Public IP"
-msgstr ""
+msgstr "公網 IP"
 
 #: _pages/_inc/_InstanceAliyunConfigurations.php:669
 #: _pages/_inc/_InstanceAzureConfigurations.php:100
@@ -1681,46 +1681,46 @@ msgstr ""
 #: _pages/_inc/_PlanInstanceAzureConfigurations.php:148
 #: _pages/_inc/_PlanInstanceTencentConfigurations.php:714
 msgid "Specified Private IP:"
-msgstr ""
+msgstr "指定私有 IP"
 
 #: _pages/_inc/_InstanceAwsConfigurations.php:554
 #: _pages/_inc/_PlanInstanceAwsConfigurations.php:599
 msgid "Internal Network"
-msgstr ""
+msgstr "內部網路"
 
 #: _pages/_inc/_InstanceAwsConfigurations.php:564
 #: _pages/_inc/_PlanInstanceAwsConfigurations.php:609
 msgid "Elastic Address"
-msgstr ""
+msgstr "彈性 IP"
 
 #: _pages/_inc/_InstanceAzureConfigurations.php:70
 #: _pages/_inc/_PlanInstanceAzureConfigurations.php:118
 msgid "Internal Network ( virtual network | subnet )"
-msgstr ""
+msgstr "內部網路 (虛擬網路/子網路)"
 
 #: _pages/_inc/_InstanceAzureConfigurations.php:80
 #: _pages/_inc/_PlanInstanceAzureConfigurations.php:128
 msgid "Availability Set"
-msgstr ""
+msgstr "可用性設定組"
 
 #: _pages/_inc/_InstanceAzureConfigurations.php:85
 #: _pages/_inc/_InstanceTencentConfigurations.php:639
 #: _pages/_inc/_PlanInstanceAzureConfigurations.php:133
 #: _pages/_inc/_PlanInstanceTencentConfigurations.php:699
 msgid "Disk Type"
-msgstr ""
+msgstr "磁碟類型"
 
 #: _pages/_inc/_InstanceConfigurations.php:653
 #: _pages/_inc/_InstanceCtyunConfigurations.php:649
 #: _pages/_inc/_PlanInstanceConfigurations.php:680
 msgid "Instance Flavors"
-msgstr ""
+msgstr "主機規格"
 
 #: _pages/_inc/_InstanceConfigurations.php:657
 #: _pages/_inc/_InstanceCtyunConfigurations.php:653
 #: _pages/_inc/_PlanInstanceConfigurations.php:684
 msgid "Subnet Network"
-msgstr ""
+msgstr "子網路"
 
 #: _pages/_inc/_InstanceConfigurations.php:669
 #: _pages/_inc/_InstanceCtyunConfigurations.php:665
@@ -1731,7 +1731,7 @@ msgstr ""
 #: _pages/_inc/_SelectLinuxLauncher.php:197
 #: _pages/_inc/_SelectTransportInstance.php:202
 msgid "Floating IP"
-msgstr ""
+msgstr "彈性 IP"
 
 #: _pages/_inc/_InstanceTencentConfigurations.php:596
 #: _pages/_inc/_PlanInstanceTencentConfigurations.php:658
@@ -1739,111 +1739,111 @@ msgstr ""
 #: _pages/_inc/_RecoverTencentSummary.php:292
 #: _pages/_inc/_SelectListTencentSnapshot.php:158
 msgid "Recover Workload"
-msgstr ""
+msgstr "還原目標主機"
 
 #: _pages/_inc/_InstanceTencentConfigurations.php:629
 #: _pages/_inc/_PlanInstanceTencentConfigurations.php:689
 msgid "Subnet"
-msgstr ""
+msgstr "子網路"
 
 #: _pages/_inc/_Login.php:92
 msgid "Username"
-msgstr ""
+msgstr "用戶名稱"
 
 #: _pages/_inc/_Login.php:97
 msgid "Password"
-msgstr ""
+msgstr "用戶密碼"
 
 #: _pages/_inc/_Login.php:103
 msgid "Log in"
-msgstr ""
+msgstr "登入"
 
 #: _pages/_inc/_MgmtAcct.php:80 _pages/_inc/_MgmtAcct.php:926
 msgid "Loading... "
-msgstr ""
+msgstr "載入中 ...."
 
 #: _pages/_inc/_MgmtAcct.php:490 _pages/_inc/_MgmtAcct.php:507
 msgid "Authorization Message"
-msgstr ""
+msgstr "授權資訊"
 
 #: _pages/_inc/_MgmtAcct.php:550 _pages/_inc/_MgmtAcct.php:689
 msgid "Select Type of X-Ray"
-msgstr ""
+msgstr "選擇 X-Ray 項目"
 
 #: _pages/_inc/_MgmtAcct.php:551
 msgid "Cannot get Transport server\\'s X-Ray."
-msgstr ""
+msgstr "無法讀取 Transport 伺服器 X-Ray 資訊"
 
 #: _pages/_inc/_MgmtAcct.php:598 _pages/_inc/_MgmtAcct.php:1524
 #: _pages/_inc/_MgmtAcct.php:1686
 msgid "Information"
-msgstr ""
+msgstr "資訊"
 
 #: _pages/_inc/_MgmtAcct.php:598
 msgid "Account UUID copied!"
-msgstr ""
+msgstr "完成帳戶 UUID 複製"
 
 #: _pages/_inc/_MgmtAcct.php:650
 msgid "Transport Server"
-msgstr ""
+msgstr "Transport 伺服器"
 
 #: _pages/_inc/_MgmtAcct.php:651
 msgid "Packer for Windows/Linux"
-msgstr ""
+msgstr "Packer for Windows/Linux"
 
 #: _pages/_inc/_MgmtAcct.php:652
 msgid "checked> Management Server"
-msgstr ""
+msgstr "確認 > 管理控制台伺服器"
 
 #: _pages/_inc/_MgmtAcct.php:690
 msgid "Please select a X-Ray type."
-msgstr ""
+msgstr "請選擇 X-Ray 項目"
 
 #: _pages/_inc/_MgmtAcct.php:734
 msgid "General"
-msgstr ""
+msgstr "一般設定"
 
 #: _pages/_inc/_MgmtAcct.php:735
 msgid "Notifications"
-msgstr ""
+msgstr "通知設定"
 
 #: _pages/_inc/_MgmtAcct.php:736
 msgid "Licensing"
-msgstr ""
+msgstr "授權設定"
 
 #: _pages/_inc/_MgmtAcct.php:737
 msgid "File Management"
-msgstr ""
+msgstr "檔案管理"
 
 #: _pages/_inc/_MgmtAcct.php:743
 msgid "Time Zone:"
-msgstr ""
+msgstr "時區"
 
 #: _pages/_inc/_MgmtAcct.php:744
 msgid "Web Port:"
-msgstr ""
+msgstr "Web Port:"
 
 #: _pages/_inc/_MgmtAcct.php:752
 msgid "Language:"
-msgstr ""
+msgstr "語言"
 
 #: _pages/_inc/_MgmtAcct.php:753
 msgid "UI Mode:"
-msgstr ""
+msgstr "UI 顯示模式"
 
 #: _pages/_inc/_MgmtAcct.php:754
 msgid "Security Code:"
-msgstr ""
+msgstr "安全驗證碼"
 
 #: _pages/_inc/_MgmtAcct.php:763 _pages/_inc/_MgmtAcct.php:842
 #: _pages/_inc/_MgmtHuaweiCloudConnection.php:300
 #: _pages/_inc/_MgmtOpenStackConnection.php:294
 msgid "Password:"
-msgstr ""
+msgstr "密碼"
 
 #: _pages/_inc/_MgmtAcct.php:764
 msgid "Account UUID:"
-msgstr ""
+msgstr "帳戶 UUID"
 
 #: _pages/_inc/_MgmtAcct.php:774 _pages/_inc/_MgmtAcct.php:813
 #: _pages/_inc/_MgmtAliyunConnection.php:275
@@ -1872,81 +1872,81 @@ msgstr ""
 #: _pages/_inc/_VerifyTencentHostTransportType.php:425
 #: _pages/_inc/_VerifyTencentTransportServices.php:524
 msgid "Submit"
-msgstr ""
+msgstr "送出"
 
 #: _pages/_inc/_MgmtAcct.php:775
 msgid "X-Ray"
-msgstr ""
+msgstr "X-Ray"
 
 #: _pages/_inc/_MgmtAcct.php:783 _pages/_inc/_MgmtAcct.php:789
 msgid "Preferences"
-msgstr ""
+msgstr "參考資訊"
 
 #: _pages/_inc/_MgmtAcct.php:784 _pages/_inc/_MgmtAcct.php:819
 msgid "SMTP Settings"
-msgstr ""
+msgstr "SMTP 設定"
 
 #: _pages/_inc/_MgmtAcct.php:796
 msgid "Replication Notification"
-msgstr ""
+msgstr "複製通知"
 
 #: _pages/_inc/_MgmtAcct.php:796
 msgid "A message will be sent whenever a replication process starts."
-msgstr ""
+msgstr "複製開始執行時會立即送出通知 "
 
 #: _pages/_inc/_MgmtAcct.php:798
 msgid "Recovery Notification"
-msgstr ""
+msgstr "還原通知 "
 
 #: _pages/_inc/_MgmtAcct.php:798
 msgid "A message will be sent whenever a new recovery process completes."
-msgstr ""
+msgstr "還原開始執行時會立即送出通知 "
 
 #: _pages/_inc/_MgmtAcct.php:800
 msgid "Daily Report"
-msgstr ""
+msgstr "每日執行結果通知 "
 
 #: _pages/_inc/_MgmtAcct.php:800
 msgid ""
 "A message with the activity from the last 24hs will be sent every day at the "
 "specified time."
-msgstr ""
+msgstr "每一天在指定的時間會送出執行結果通知"
 
 #: _pages/_inc/_MgmtAcct.php:825
 msgid "SMTP Address:"
-msgstr ""
+msgstr "SMTP 伺服器"
 
 #: _pages/_inc/_MgmtAcct.php:826
 msgid "SMTP Secure:"
-msgstr ""
+msgstr "SMTP 連線安全驗證"
 
 #: _pages/_inc/_MgmtAcct.php:827
 msgid "SMTP Port:"
-msgstr ""
+msgstr "SMTP 連線 port"
 
 #: _pages/_inc/_MgmtAcct.php:833
 msgid "TLS"
-msgstr ""
+msgstr "TLS"
 
 #: _pages/_inc/_MgmtAcct.php:834
 msgid "SSL"
-msgstr ""
+msgstr "SSL"
 
 #: _pages/_inc/_MgmtAcct.php:835
 msgid "Normal"
-msgstr ""
+msgstr "一般設定"
 
 #: _pages/_inc/_MgmtAcct.php:841 _pages/_inc/_MgmtOpenStackConnection.php:289
 msgid "Username:"
-msgstr ""
+msgstr "用戶名稱"
 
 #: _pages/_inc/_MgmtAcct.php:850
 msgid "Mail From Address:"
-msgstr ""
+msgstr "寄件者郵件地址"
 
 #: _pages/_inc/_MgmtAcct.php:851
 msgid "Mail To Address:"
-msgstr ""
+msgstr "收件者郵件地址 "
 
 #: _pages/_inc/_MgmtAcct.php:862 _pages/_inc/_MgmtAcct.php:936
 #: _pages/_inc/_MgmtCloudConnection.php:280
@@ -1956,38 +1956,38 @@ msgstr ""
 #: _pages/_inc/_MgmtTransportConnection.php:399
 #: _pages/_inc/_MgmtUploadWorkload.php:557
 msgid "Delete"
-msgstr ""
+msgstr "刪除"
 
 #: _pages/_inc/_MgmtAcct.php:863 _pages/_inc/_PlanRecoverAliyunSummary.php:350
 #: _pages/_inc/_PlanRecoverAwsSummary.php:363
 #: _pages/_inc/_PlanRecoverAzureSummary.php:360
 #: _pages/_inc/_PlanRecoverSummary.php:385
 msgid "Save"
-msgstr ""
+msgstr "儲存"
 
 #: _pages/_inc/_MgmtAcct.php:864
 msgid "Verify"
-msgstr ""
+msgstr "驗證"
 
 #: _pages/_inc/_MgmtAcct.php:873 _pages/_inc/_MgmtAcct.php:881
 msgid "Licenses"
-msgstr ""
+msgstr "授權"
 
 #: _pages/_inc/_MgmtAcct.php:874 _pages/_inc/_MgmtAcct.php:887
 msgid "Activity"
-msgstr ""
+msgstr "使用紀錄"
 
 #: _pages/_inc/_MgmtAcct.php:875 _pages/_inc/_MgmtAcct.php:893
 msgid "Activation"
-msgstr ""
+msgstr "激活"
 
 #: _pages/_inc/_MgmtAcct.php:876 _pages/_inc/_MgmtAcct.php:1379
 msgid "Offline Activation"
-msgstr ""
+msgstr "離線激活 "
 
 #: _pages/_inc/_MgmtAcct.php:904
 msgid "Activate"
-msgstr ""
+msgstr "啟用"
 
 #: _pages/_inc/_MgmtAcct.php:918
 #: _pages/_inc/_SelectAliyunHostTransportInstance.php:187
@@ -2019,55 +2019,55 @@ msgstr ""
 #: _pages/_inc/_VerifyTencentHostTransportType.php:400
 #: _pages/_inc/_VerifyTencentTransportServices.php:509
 msgid "Name"
-msgstr ""
+msgstr "名字"
 
 #: _pages/_inc/_MgmtAcct.php:919
 msgid "Date Modified"
-msgstr ""
+msgstr "修改日期"
 
 #: _pages/_inc/_MgmtAcct.php:920
 msgid "Size"
-msgstr ""
+msgstr "大小"
 
 #: _pages/_inc/_MgmtAcct.php:934
 msgid "Browse..."
-msgstr ""
+msgstr "瀏覽"
 
 #: _pages/_inc/_MgmtAcct.php:935 _pages/_inc/_MgmtUploadWorkload.php:554
 msgid "Upload"
-msgstr ""
+msgstr "上傳"
 
 #: _pages/_inc/_MgmtAcct.php:1232
 msgid "Remove License"
-msgstr ""
+msgstr "刪除授權"
 
 #: _pages/_inc/_MgmtAcct.php:1233
 msgid "Failed to remove license."
-msgstr ""
+msgstr "無法刪除授權"
 
 #: _pages/_inc/_MgmtAcct.php:1312 _pages/_inc/_MgmtAcct.php:1425
 msgid "License Information"
-msgstr ""
+msgstr "授權資訊"
 
 #: _pages/_inc/_MgmtAcct.php:1385
 msgid "Input String For Activation"
-msgstr ""
+msgstr "輸入授權離線激活字串"
 
 #: _pages/_inc/_MgmtAcct.php:1426
 msgid "Transport is activated."
-msgstr ""
+msgstr "成功激活 Transport 授權"
 
 #: _pages/_inc/_MgmtAcct.php:1448
 msgid "Product activation failed."
-msgstr ""
+msgstr "線上授權激活失敗"
 
 #: _pages/_inc/_MgmtAcct.php:1525
 msgid "Notification preferences saved."
-msgstr ""
+msgstr "成功儲存通知設定"
 
 #: _pages/_inc/_MgmtAcct.php:1687
 msgid "SMTP Settings Saved."
-msgstr ""
+msgstr "成功儲存 SMTP 設定"
 
 #: _pages/_inc/_MgmtAliyunConnection.php:254
 #: _pages/_inc/_MgmtAwsConnection.php:242
@@ -2077,7 +2077,7 @@ msgstr ""
 #: _pages/_inc/_MgmtOpenStackConnection.php:272
 #: _pages/_inc/_SelectCloudRegistration.php:12
 msgid "Step 1 - Select Cloud"
-msgstr ""
+msgstr "步驗一：選擇目標雲平台"
 
 #: _pages/_inc/_MgmtAliyunConnection.php:255
 #: _pages/_inc/_MgmtAwsConnection.php:243
@@ -2088,21 +2088,21 @@ msgstr ""
 #: _pages/_inc/_MgmtTencentConnection.php:260
 #: _pages/_inc/_SelectCloudRegistration.php:13
 msgid "Step 2 - Verify Cloud Connection"
-msgstr ""
+msgstr "步驗一：驗證與目標雲平台連線"
 
 #: _pages/_inc/_MgmtAliyunConnection.php:260
 #: _pages/_inc/_MgmtAwsConnection.php:248
 #: _pages/_inc/_MgmtCtyunConnection.php:267
 #: _pages/_inc/_MgmtTencentConnection.php:265
 msgid "Access Key:"
-msgstr ""
+msgstr "訪問密鑰"
 
 #: _pages/_inc/_MgmtAliyunConnection.php:265
 #: _pages/_inc/_MgmtAwsConnection.php:253
 #: _pages/_inc/_MgmtCtyunConnection.php:272
 #: _pages/_inc/_MgmtTencentConnection.php:270
 msgid "Secret Key:"
-msgstr ""
+msgstr "安全密鑰"
 
 #: _pages/_inc/_MgmtAliyunConnection.php:276
 #: _pages/_inc/_MgmtAwsConnection.php:264
@@ -2112,7 +2112,7 @@ msgstr ""
 #: _pages/_inc/_MgmtOpenStackConnection.php:305
 #: _pages/_inc/_MgmtTencentConnection.php:286
 msgid "Verify Connection"
-msgstr ""
+msgstr "驗證測試連線"
 
 #: _pages/_inc/_MgmtAwsConnection.php:236
 #: _pages/_inc/_MgmtAzureConnection.php:308
@@ -2122,35 +2122,35 @@ msgstr ""
 #: _pages/_inc/_SelectHostType.php:24 _pages/_inc/_SelectServRegion.php:22
 #: _pages/_leftnavi.php:8
 msgid "Cloud"
-msgstr "云"
+msgstr "雲平台"
 
 #: _pages/_inc/_MgmtAzureConnection.php:320
 msgid "Endpoint:"
-msgstr ""
+msgstr "連接端點"
 
 #: _pages/_inc/_MgmtAzureConnection.php:335
 msgid "Application ID:"
-msgstr ""
+msgstr "應用程式識別碼"
 
 #: _pages/_inc/_MgmtAzureConnection.php:340
 msgid "Security Key:"
-msgstr ""
+msgstr "金鑰密碼"
 
 #: _pages/_inc/_MgmtAzureConnection.php:344
 msgid "Directory Id:"
-msgstr ""
+msgstr "目錄識別碼"
 
 #: _pages/_inc/_MgmtAzureConnection.php:348
 msgid "Subscription Id:"
-msgstr ""
+msgstr "訂閱識別碼"
 
 #: _pages/_inc/_MgmtAzureConnection.php:353
 msgid "Storage Connection String:"
-msgstr ""
+msgstr "儲存體帳戶 存取金鑰連接字串"
 
 #: _pages/_inc/_MgmtCloudConnection.php:102
 msgid "Click New to add a Cloud connection."
-msgstr ""
+msgstr "點選新增開始建立雲平台 API 連線設定"
 
 #: _pages/_inc/_MgmtCloudConnection.php:107
 #: _pages/_inc/_MgmtHostConnection.php:162
@@ -2158,11 +2158,11 @@ msgstr ""
 #: _pages/_inc/_MgmtRecoverWorkload.php:163
 #: _pages/_inc/_MgmtTransportConnection.php:141
 msgid "Failed to coneect to database."
-msgstr ""
+msgstr "無法連接控制台資料庫"
 
 #: _pages/_inc/_MgmtCloudConnection.php:260
 msgid "Do you want to delete the selected cloud connection?"
-msgstr ""
+msgstr "確定要刪除雲平台連線設定"
 
 #: _pages/_inc/_MgmtCloudConnection.php:278
 #: _pages/_inc/_MgmtHostConnection.php:432
@@ -2172,7 +2172,7 @@ msgstr ""
 #: _pages/_inc/_MgmtTransportConnection.php:397
 #: _pages/_inc/_MgmtUploadWorkload.php:555
 msgid "New"
-msgstr ""
+msgstr "新增"
 
 #: _pages/_inc/_MgmtCloudConnection.php:279
 #: _pages/_inc/_MgmtHostConnection.php:433
@@ -2181,21 +2181,21 @@ msgstr ""
 #: _pages/_inc/_MgmtTransportConnection.php:398
 #: _pages/_inc/_MgmtUploadWorkload.php:556
 msgid "Edit"
-msgstr ""
+msgstr "編輯"
 
 #: _pages/_inc/_MgmtCloudConnection.php:290
 #: _pages/_inc/_ServCloudConnection.php:190
 #: _pages/_inc/_ServLinuxConnection.php:161
 #: _pages/_inc/_VerifyHostCloud.php:175
 msgid "Platform"
-msgstr ""
+msgstr "作業系統"
 
 #: _pages/_inc/_MgmtCloudConnection.php:291
 #: _pages/_inc/_ServCloudConnection.php:191
 #: _pages/_inc/_ServLinuxConnection.php:163
 #: _pages/_inc/_VerifyHostCloud.php:177
 msgid "Username / Access key ID / Tenant ID"
-msgstr ""
+msgstr "雲平台註冊資訊"
 
 #: _pages/_inc/_MgmtCloudConnection.php:298
 #: _pages/_inc/_MgmtHostConnection.php:456
@@ -2207,16 +2207,16 @@ msgstr ""
 #: _pages/_inc/_PlanSelectRecoverReplica.php:218
 #: _pages/_inc/_SelectRecoverHost.php:237
 msgid "Checking management connection..."
-msgstr ""
+msgstr "測試主控台服務連線中"
 
 #: _pages/_inc/_MgmtCtyunConnection.php:277
 #: _pages/_inc/_MgmtHuaweiCloudConnection.php:305
 msgid "Region:"
-msgstr ""
+msgstr "區域"
 
 #: _pages/_inc/_MgmtEnvironment.php:7 _pages/_leftnavi.php:6
 msgid "Environment"
-msgstr ""
+msgstr "環境設定"
 
 #: _pages/_inc/_MgmtEnvironment.php:13
 #: _pages/_inc/_MgmtTransportConnection.php:396
@@ -2241,7 +2241,7 @@ msgstr ""
 #: _pages/_inc/_VerifyRecoveryKitServices.php:278
 #: _pages/_inc/_VerifyTencentTransportServices.php:492 _pages/_leftnavi.php:9
 msgid "Transport"
-msgstr ""
+msgstr "Transport"
 
 #: _pages/_inc/_MgmtEnvironment.php:14 _pages/_inc/_MgmtHostConnection.php:431
 #: _pages/_inc/_SelectAliyunHostTransportInstance.php:169
@@ -2262,23 +2262,23 @@ msgstr ""
 #: _pages/_inc/_VerifyHostVirtual.php:380
 #: _pages/_inc/_VerifyTencentHostTransportType.php:383 _pages/_leftnavi.php:10
 msgid "Host"
-msgstr ""
+msgstr "來源主機"
 
 #: _pages/_inc/_MgmtHostConnection.php:157
 msgid "Click New to add a host."
-msgstr ""
+msgstr "點選新增開始註冊來源主機"
 
 #: _pages/_inc/_MgmtHostConnection.php:398
 msgid "Do you want to delete the selected host connection?"
-msgstr ""
+msgstr "請確認刪除 Host 註冊"
 
 #: _pages/_inc/_MgmtHostConnection.php:412
 msgid "Do you want to rescan the selected host connection?"
-msgstr ""
+msgstr "請確認執行 Host 資訊更新"
 
 #: _pages/_inc/_MgmtHostConnection.php:435
 msgid "Rescan"
-msgstr ""
+msgstr "更新資訊"
 
 #: _pages/_inc/_MgmtHostConnection.php:445
 #: _pages/_inc/_MgmtPrepareWorkload.php:675
@@ -2289,27 +2289,27 @@ msgstr ""
 #: _pages/_inc/_SelectRecoverHost.php:228
 #: _pages/_inc/_SelectRegisteredHost.php:249
 msgid "Host Name"
-msgstr ""
+msgstr "來源主機名稱"
 
 #: _pages/_inc/_MgmtHostConnection.php:446
 #: _pages/_inc/_SelectRegisteredHost.php:250
 msgid "Host IP"
-msgstr ""
+msgstr "來源主機 IP"
 
 #: _pages/_inc/_MgmtHostConnection.php:447
 #: _pages/_inc/_SelectRegisteredHost.php:251
 msgid "OS Type"
-msgstr ""
+msgstr "作業系統"
 
 #: _pages/_inc/_MgmtHostConnection.php:448
 #: _pages/_inc/_SelectRegisteredHost.php:252
 msgid "Packer Type"
-msgstr ""
+msgstr "Packer 類型"
 
 #: _pages/_inc/_MgmtHostConnection.php:449
 #: _pages/_inc/_SelectRegisteredHost.php:253
 msgid "Total Disk Size"
-msgstr ""
+msgstr "全部磁碟大小"
 
 #: _pages/_inc/_MgmtHostConnection.php:450
 #: _pages/_inc/_MgmtPrepareWorkload.php:679
@@ -2318,69 +2318,69 @@ msgstr ""
 #: _pages/_inc/_MgmtTransportConnection.php:412
 #: _pages/_inc/_SelectRegisteredHost.php:254
 msgid "Details"
-msgstr ""
+msgstr "詳細資訊"
 
 #: _pages/_inc/_MgmtHuaweiCloudConnection.php:283
 msgid "VIP Address"
-msgstr ""
+msgstr "API 存取節點 IP"
 
 #: _pages/_inc/_MgmtHuaweiCloudConnection.php:290
 msgid "Account Name:"
-msgstr ""
+msgstr "帳戶名稱"
 
 #: _pages/_inc/_MgmtHuaweiCloudConnection.php:295
 msgid "IAM User name:"
-msgstr ""
+msgstr "IAM 用戶名稱"
 
 #: _pages/_inc/_MgmtOpenStackConnection.php:278
 msgid "Address:"
-msgstr ""
+msgstr "IP 地址"
 
 #: _pages/_inc/_MgmtOpenStackConnection.php:283
 msgid "Project:"
-msgstr ""
+msgstr "項目名稱"
 
 #: _pages/_inc/_MgmtPrepareWorkload.php:163
 msgid "Click New to create a new replication process."
-msgstr ""
+msgstr "點選新增開始建立新的複製工作"
 
 #: _pages/_inc/_MgmtPrepareWorkload.php:215
 msgid "Delta Replication"
-msgstr ""
+msgstr "增量複製"
 
 #: _pages/_inc/_MgmtPrepareWorkload.php:215
 msgid "Replicates changed data"
-msgstr ""
+msgstr "複製變動的磁碟區塊"
 
 #: _pages/_inc/_MgmtPrepareWorkload.php:217
 msgid "Full Replication"
-msgstr ""
+msgstr "完整資料複製"
 
 #: _pages/_inc/_MgmtPrepareWorkload.php:217
 msgid "Replicates all data (long replication time)​"
-msgstr ""
+msgstr "複製磁碟上所有資訊 (需要較長複製時間)"
 
 #: _pages/_inc/_MgmtPrepareWorkload.php:221
 msgid "Fource Clean up​"
-msgstr ""
+msgstr "強制清除設定"
 
 #: _pages/_inc/_MgmtPrepareWorkload.php:320
 msgid "Click New to create a new replication process.​"
-msgstr ""
+msgstr "點選新增開始建立新的複製工作"
 
 #: _pages/_inc/_MgmtPrepareWorkload.php:582
 msgid "Do you want to delete the selected replication process?"
-msgstr ""
+msgstr "請確認是否刪除選擇的複製工作"
 
 #: _pages/_inc/_MgmtPrepareWorkload.php:664
 #: _pages/_inc/_MgmtUploadWorkload.php:558
 msgid "Sync"
-msgstr ""
+msgstr "同步"
 
 #: _pages/_inc/_MgmtPrepareWorkload.php:665
 #: _pages/_inc/_MgmtRecoverWorkload.php:559
 msgid "Force Delete"
-msgstr ""
+msgstr "強制刪除"
 
 #: _pages/_inc/_MgmtPrepareWorkload.php:676
 #: _pages/_inc/_MgmtRecoverWorkload.php:570
@@ -2393,12 +2393,12 @@ msgstr ""
 #: _pages/_inc/_SelectRecoverHost.php:229
 #: _pages/_inc/_SelectTransportInstance.php:203
 msgid "Status"
-msgstr ""
+msgstr "狀態"
 
 #: _pages/_inc/_MgmtPrepareWorkload.php:677
 #: _pages/_inc/_MgmtUploadWorkload.php:570
 msgid "Progress"
-msgstr ""
+msgstr "複製進度"
 
 #: _pages/_inc/_MgmtPrepareWorkload.php:678
 #: _pages/_inc/_MgmtRecoverPlan.php:313
@@ -2410,15 +2410,15 @@ msgstr ""
 #: _pages/_inc/_ServLinuxConnection.php:164
 #: _pages/_inc/_VerifyHostCloud.php:178
 msgid "Time"
-msgstr ""
+msgstr "時間"
 
 #: _pages/_inc/_MgmtRecoverPlan.php:163
 msgid "Click New to create a recovery plan."
-msgstr ""
+msgstr "點選新增開始建立新還原計劃"
 
 #: _pages/_inc/_MgmtRecoverPlan.php:276
 msgid "Do you want to delete the selected recovery plan?"
-msgstr ""
+msgstr "請確認是否刪除選擇的還原計劃"
 
 #: _pages/_inc/_MgmtRecoverPlan.php:297
 #: _pages/_inc/_PlanInstanceAwsConfigurations.php:572
@@ -2428,7 +2428,7 @@ msgstr ""
 #: _pages/_inc/_PlanSelectRecoverReplica.php:191
 #: _pages/_inc/_PlanSelectRecoverType.php:99 _pages/_leftnavi.php:18
 msgid "Recovery Plan"
-msgstr ""
+msgstr "還原計劃"
 
 #: _pages/_inc/_MgmtRecoverPlan.php:312
 #: _pages/_inc/_MgmtTransportConnection.php:410
@@ -2439,12 +2439,12 @@ msgstr ""
 #: _pages/_inc/_SelectTencentHostTransportInstance.php:188
 #: _pages/_inc/_SelectTencentTransportInstance.php:188
 msgid "Type"
-msgstr ""
+msgstr "類型"
 
 #: _pages/_inc/_MgmtRecoverWorkload.php:158
 #: _pages/_inc/_MgmtRecoverWorkload.php:313
 msgid "Click New to start a new recovery process."
-msgstr ""
+msgstr "點選新增開始建立新還原工作"
 
 #: _pages/_inc/_MgmtRecoverWorkload.php:207
 #: _pages/_inc/_MgmtRecoverWorkload.php:213
@@ -2452,7 +2452,7 @@ msgstr ""
 #: _pages/_inc/_MgmtRecoverWorkload.php:230
 #: _pages/_inc/_MgmtRecoverWorkload.php:236
 msgid "Remove Process"
-msgstr ""
+msgstr "刪除複製工作"
 
 #: _pages/_inc/_MgmtRecoverWorkload.php:207
 msgid ""
@@ -2460,46 +2460,52 @@ msgid ""
 "process will be removed. You can create a new dev-test environment by "
 "creating a new recovery process."
 msgstr ""
+"還原工作和DEV-TEST 還原測試所建立的目標還原機器和磁碟都會被刪除。您可以重新執"
+"行 DEV-TEST 還原測試建立另一個新的測試環境。"
 
 #: _pages/_inc/_MgmtRecoverWorkload.php:209
 msgid "Keep Instance"
-msgstr ""
+msgstr "保留目標還原機"
 
 #: _pages/_inc/_MgmtRecoverWorkload.php:209
 msgid ""
 "Launched replica for dev-test environment will remain on target. Only this "
 "recovery process will be removed."
 msgstr ""
+"只刪除還原測試工作，然後保留 DEV-TEST 還原測試所建立的目標還原機器和磁碟都會"
+"被保留，。"
 
 #: _pages/_inc/_MgmtRecoverWorkload.php:213
 msgid ""
 "Recovered replica will be deleted and this recovery process will be removed. "
 "You can create a new replica by creating a new recovery process."
 msgstr ""
+"災難還原工作和災難還原所建立的目標還原機器和磁碟都會被刪除。您可以重新執行災"
+"難還原工作。"
 
 #: _pages/_inc/_MgmtRecoverWorkload.php:215
 #: _pages/_inc/_MgmtRecoverWorkload.php:221
 #: _pages/_inc/_MgmtRecoverWorkload.php:232
 #: _pages/_inc/_MgmtRecoverWorkload.php:238
 msgid "Complete Process"
-msgstr ""
+msgstr "確認執行完成"
 
 #: _pages/_inc/_MgmtRecoverWorkload.php:215
 #: _pages/_inc/_MgmtRecoverWorkload.php:219
 msgid ""
 "Recovered replica will remain on target. Only this recovery process will be "
 "removed."
-msgstr ""
+msgstr "只刪除災難還原工作，保留災難還原所建立的目標還原機器和磁碟恢復業務。"
 
 #: _pages/_inc/_MgmtRecoverWorkload.php:221
 msgid ""
 "Migration completed. Prepare Workload and Recover Workload jobs will be "
 "cleaned up."
-msgstr ""
+msgstr "確認完成遷移，刪除複製和還原工作。"
 
 #: _pages/_inc/_MgmtRecoverWorkload.php:224
 msgid "Clean Up Snapshot(s)"
-msgstr ""
+msgstr "刪除快照"
 
 #: _pages/_inc/_MgmtRecoverWorkload.php:230
 #: _pages/_inc/_MgmtRecoverWorkload.php:236
@@ -2507,6 +2513,7 @@ msgid ""
 "Recover Workload process will be deleted. You can run conversion again by "
 "creating a new Recover Workload process."
 msgstr ""
+"刪除目前遷移還原工作，然後重新建立遷移還原工作進行系統轉換和目標遷移機器建立"
 
 #: _pages/_inc/_MgmtRecoverWorkload.php:232
 #: _pages/_inc/_MgmtRecoverWorkload.php:238
@@ -2514,42 +2521,44 @@ msgid ""
 "Conversion completed and system running in production mode. Prepare Workload "
 "and Recover Workload jobs will be cleaned up."
 msgstr ""
+"完成遷移成功，確認業務在目標遷移機器運作正常。將刪除執行完成的複製和還原工"
+"作。"
 
 #: _pages/_inc/_MgmtRecoverWorkload.php:458
 msgid "Do you want to delete the selected recovery process?"
-msgstr ""
+msgstr "請確認是否刪除選擇的還原工作"
 
 #: _pages/_inc/_MgmtRecoverWorkload.php:558
 msgid "Action"
-msgstr ""
+msgstr "動作"
 
 #: _pages/_inc/_MgmtTencentConnection.php:259
 msgid "Step 1 - Select Cloud Type"
-msgstr ""
+msgstr "步驟一：選擇目標雲平台"
 
 #: _pages/_inc/_MgmtTencentConnection.php:275
 msgid "App Id:"
-msgstr ""
+msgstr "App Id:"
 
 #: _pages/_inc/_MgmtTransportConnection.php:136
 msgid "Click New to add a Transport."
-msgstr ""
+msgstr "點選新增開始註冊 Transport 伺服器"
 
 #: _pages/_inc/_MgmtTransportConnection.php:378
 msgid "Do you want to delete the selected transport server connection?"
-msgstr ""
+msgstr "請確認是否刪除點選的 Transport 伺服器"
 
 #: _pages/_inc/_MgmtTransportConnection.php:409
 msgid "Server"
-msgstr ""
+msgstr "伺服器"
 
 #: _pages/_inc/_MgmtTransportConnection.php:411
 msgid "Address"
-msgstr ""
+msgstr "IP 地址"
 
 #: _pages/_inc/_MgmtUploadWorkload.php:572
 msgid "Detail"
-msgstr ""
+msgstr "詳細資訊"
 
 #: _pages/_inc/_PlanInstanceAliyunConfigurations.php:603
 #: _pages/_inc/_PlanInstanceAwsConfigurations.php:580
@@ -2565,7 +2574,7 @@ msgstr ""
 #: _pages/_inc/_PlanSelectRecoverType.php:107
 #: _pages/_inc/_RecoverAzureSummary.php:324
 msgid "Step 3 - Configure Instance"
-msgstr ""
+msgstr "步驟三：設定目標還原機器"
 
 #: _pages/_inc/_PlanInstanceAliyunConfigurations.php:604
 #: _pages/_inc/_PlanInstanceAwsConfigurations.php:581
@@ -2577,14 +2586,14 @@ msgstr ""
 #: _pages/_inc/_PlanSelectRecoverReplica.php:200
 #: _pages/_inc/_PlanSelectRecoverType.php:108
 msgid "Step 4 - Recovery Plan Summary"
-msgstr ""
+msgstr "步驟四：確認還原計劃設定"
 
 #: _pages/_inc/_PlanInstanceTencentConfigurations.php:667
 #: _pages/_inc/_PlanRecoverAliyunSummary.php:319
 #: _pages/_inc/_PlanRecoverAzureSummary.php:329
 #: _pages/_inc/_RecoverAzureSummary.php:325
 msgid "Step 4 - Recover Summary"
-msgstr ""
+msgstr "步驟四：確認還原工作設定"
 
 #: _pages/_inc/_PlanRecoverTencentSummary.php:350
 #: _pages/_inc/_PrepareWorkloadSummary.php:427
@@ -2596,66 +2605,66 @@ msgstr ""
 #: _pages/_inc/_RecoverKitSummary.php:250 _pages/_inc/_RecoverSummary.php:395
 #: _pages/_inc/_RecoverTencentSummary.php:342
 msgid "Run"
-msgstr ""
+msgstr "執行"
 
 #: _pages/_inc/_PlanSelectRecoverReplica.php:211
 msgid "Job Type"
-msgstr ""
+msgstr "工作類型"
 
 #: _pages/_inc/_PlanSelectRecoverType.php:125
 #: _pages/_inc/_SelectRecoverPlan.php:140
 msgid "Planned Migration"
-msgstr ""
+msgstr "計劃性遷移"
 
 #: _pages/_inc/_PlanSelectRecoverType.php:126
 #: _pages/_inc/_SelectRecoverPlan.php:141
 msgid "Migrates a chosen workload state to the target environment."
-msgstr ""
+msgstr "將來源主機遷移到複製到的目標環境"
 
 #: _pages/_inc/_PlanSelectRecoverType.php:130
 #: _pages/_inc/_SelectRecoverPlan.php:145
 msgid "Disaster Recovery"
-msgstr ""
+msgstr "災難復原"
 
 #: _pages/_inc/_PlanSelectRecoverType.php:131
 #: _pages/_inc/_SelectRecoverPlan.php:146
 msgid "Resumes a recent workload state in the event of a disaster."
-msgstr ""
+msgstr "災難發生時以快照在目標平台建立還原機器恢復業務"
 
 #: _pages/_inc/_PlanSelectRecoverType.php:135
 #: _pages/_inc/_SelectRecoverPlan.php:150
 msgid "Development Testing"
-msgstr ""
+msgstr "開發及測試"
 
 #: _pages/_inc/_PlanSelectRecoverType.php:136
 #: _pages/_inc/_SelectRecoverPlan.php:151
 msgid "Creates a test environment using chosen snapshot."
-msgstr ""
+msgstr "由快照在目標平台建立機器進行開發或測試"
 
 #: _pages/_inc/_PrepareWorkloadSummary.php:389
 msgid "Host Information"
-msgstr ""
+msgstr "來源主機資訊"
 
 #: _pages/_inc/_PrepareWorkloadSummary.php:398
 msgid "Transport Server Information"
-msgstr ""
+msgstr "Transport 伺服器資訊"
 
 #: _pages/_inc/_PrepareWorkloadSummary.php:407
 msgid "Virtual Packer Information"
-msgstr ""
+msgstr "Packer for VMware 資訊"
 
 #: _pages/_inc/_PrepareWorkloadSummary.php:416
 msgid "Replication Configuration"
-msgstr ""
+msgstr "複製設定內容"
 
 #: _pages/_inc/_RecoverExportSummary.php:270
 #: _pages/_inc/_RecoverTencentSummary.php:311
 msgid "Trigger data synchronize:"
-msgstr ""
+msgstr "執行複製同步"
 
 #: _pages/_inc/_RecoverKitSummary.php:231
 msgid "Reboot after completed:"
-msgstr ""
+msgstr "完成後自動重新開機"
 
 #: _pages/_inc/_SelectAliyunHostTransportInstance.php:175
 #: _pages/_inc/_SelectAliyunTransportInstance.php:175
@@ -2695,7 +2704,7 @@ msgstr ""
 #: _pages/_inc/_VerifyTencentHostTransportType.php:389
 #: _pages/_inc/_VerifyTencentTransportServices.php:498
 msgid "Step 1 - Select Type"
-msgstr ""
+msgstr "步驟一：選擇主機類型"
 
 #: _pages/_inc/_SelectAliyunHostTransportInstance.php:176
 #: _pages/_inc/_SelectAliyunTransportInstance.php:176
@@ -2735,7 +2744,7 @@ msgstr ""
 #: _pages/_inc/_VerifyTencentHostTransportType.php:390
 #: _pages/_inc/_VerifyTencentTransportServices.php:499
 msgid "Step 2 - Select Connection"
-msgstr ""
+msgstr "步驟二：選擇註冊的雲平台"
 
 #: _pages/_inc/_SelectAliyunHostTransportInstance.php:177
 #: _pages/_inc/_SelectAliyunTransportInstance.php:177
@@ -2775,7 +2784,7 @@ msgstr ""
 #: _pages/_inc/_VerifyTencentHostTransportType.php:391
 #: _pages/_inc/_VerifyTencentTransportServices.php:500
 msgid "Step 3 - Select Server"
-msgstr ""
+msgstr "步驟三：選擇 Transport 伺服器"
 
 #: _pages/_inc/_SelectAliyunHostTransportInstance.php:178
 #: _pages/_inc/_SelectAwsHostTransportInstance.php:202
@@ -2795,7 +2804,7 @@ msgstr ""
 #: _pages/_inc/_VerifyHostVirtual.php:389
 #: _pages/_inc/_VerifyTencentHostTransportType.php:392
 msgid "Step 4 - Verify Host"
-msgstr ""
+msgstr "步驟四：驗證主機連線"
 
 #: _pages/_inc/_SelectAliyunHostTransportInstance.php:189
 #: _pages/_inc/_SelectAliyunTransportInstance.php:189
@@ -2807,21 +2816,21 @@ msgstr ""
 #: _pages/_inc/_SelectTencentHostTransportInstance.php:189
 #: _pages/_inc/_SelectTencentTransportInstance.php:189
 msgid "Public Address"
-msgstr ""
+msgstr "公網 IP"
 
 #: _pages/_inc/_SelectAliyunHostTransportInstance.php:190
 #: _pages/_inc/_SelectAliyunTransportInstance.php:190
 #: _pages/_inc/_SelectTencentHostTransportInstance.php:190
 #: _pages/_inc/_SelectTencentTransportInstance.php:190
 msgid "Private Address"
-msgstr ""
+msgstr "私網 IP"
 
 #: _pages/_inc/_SelectAliyunHostTransportInstance.php:191
 #: _pages/_inc/_SelectAliyunTransportInstance.php:191
 #: _pages/_inc/_SelectTencentHostTransportInstance.php:191
 #: _pages/_inc/_SelectTencentTransportInstance.php:191
 msgid "Zone"
-msgstr ""
+msgstr "區域"
 
 #: _pages/_inc/_SelectAliyunHostTransportInstance.php:192
 #: _pages/_inc/_SelectAliyunTransportInstance.php:192
@@ -2831,7 +2840,7 @@ msgstr ""
 #: _pages/_inc/_SelectTencentHostTransportInstance.php:192
 #: _pages/_inc/_SelectTencentTransportInstance.php:192
 msgid "Power Status"
-msgstr ""
+msgstr "電源狀態"
 
 #: _pages/_inc/_SelectAliyunTransportInstance.php:178
 #: _pages/_inc/_SelectAwsLinuxLauncher.php:201
@@ -2855,7 +2864,7 @@ msgstr ""
 #: _pages/_inc/_VerifyRecoveryKitServices.php:287
 #: _pages/_inc/_VerifyTencentTransportServices.php:501
 msgid "Step 4 - Verify Services"
-msgstr ""
+msgstr "步驟四：驗證服務連線"
 
 #: _pages/_inc/_SelectAwsHostTransportInstance.php:213
 #: _pages/_inc/_SelectAwsLinuxLauncher.php:212
@@ -2863,7 +2872,7 @@ msgstr ""
 #: _pages/_inc/_SelectAzureHostTransportInstance.php:187
 #: _pages/_inc/_SelectAzureTransportInstance.php:194
 msgid "Internal Address"
-msgstr ""
+msgstr "內網 IP"
 
 #: _pages/_inc/_SelectAwsHostTransportInstance.php:216
 #: _pages/_inc/_SelectAwsLinuxLauncher.php:215
@@ -2871,17 +2880,17 @@ msgstr ""
 #: _pages/_inc/_SelectCtyunHostTransportInstance.php:199
 #: _pages/_inc/_SelectCtyunTransportInstance.php:198
 msgid "Availability Zone"
-msgstr ""
+msgstr "可用性設定組"
 
 #: _pages/_inc/_SelectAzureHostTransportInstance.php:188
 #: _pages/_inc/_SelectAzureTransportInstance.php:195
 msgid "Resource Group"
-msgstr ""
+msgstr "資源群組"
 
 #: _pages/_inc/_SelectAzureHostTransportInstance.php:189
 #: _pages/_inc/_SelectAzureTransportInstance.php:196
 msgid "Location"
-msgstr ""
+msgstr "位置"
 
 #: _pages/_inc/_SelectCtyunHostTransportInstance.php:196
 #: _pages/_inc/_SelectCtyunTransportInstance.php:195
@@ -2889,23 +2898,23 @@ msgstr ""
 #: _pages/_inc/_SelectLinuxLauncher.php:196
 #: _pages/_inc/_SelectTransportInstance.php:201
 msgid "IP"
-msgstr ""
+msgstr "IP"
 
 #: _pages/_inc/_SelectHostType.php:21
 msgid "Windows Server"
-msgstr ""
+msgstr "Windows 伺服器"
 
 #: _pages/_inc/_SelectHostType.php:22
 msgid "Linux Server"
-msgstr ""
+msgstr "Linux 伺服器"
 
 #: _pages/_inc/_SelectHostType.php:23
 msgid "VMware<br>ESX Server"
-msgstr ""
+msgstr "VMware<br> vSphere Server"
 
 #: _pages/_inc/_SelectHostType.php:25
 msgid "Offline Clone"
-msgstr ""
+msgstr "Packer<br> for Offline"
 
 #: _pages/_inc/_SelectRecoverPlan.php:133
 #: _pages/_inc/_VerifyAliyunHostTransportType.php:432
@@ -2923,24 +2932,24 @@ msgstr ""
 #: _pages/_inc/_VerifyTencentHostTransportType.php:401
 #: _pages/_inc/_VerifyTencentTransportServices.php:510
 msgid "Description"
-msgstr ""
+msgstr "設定資訊"
 
 #: _pages/_inc/_SelectServRegion.php:21
 msgid "On-Premises"
-msgstr ""
+msgstr "本地"
 
 #: _pages/_inc/_SelectServRegion.php:23
 msgid "Recovery Kit"
-msgstr ""
+msgstr "Recovery Kit"
 
 #: _pages/_inc/_SelectTargetTransportServer.php:146
 msgid "Target Transport Server:"
-msgstr ""
+msgstr "目標 Transport 伺服器"
 
 #: _pages/_inc/_ServLinuxConnection.php:162
 #: _pages/_inc/_VerifyHostCloud.php:176
 msgid "Project / User"
-msgstr ""
+msgstr "項目/用戶"
 
 #: _pages/_inc/_VerifyAliyunHostTransportType.php:442
 #: _pages/_inc/_VerifyAwsHostTransportType.php:469
@@ -2951,7 +2960,7 @@ msgstr ""
 #: _pages/_inc/_VerifyHostTransportType.php:457
 #: _pages/_inc/_VerifyHostVirtual.php:411
 msgid "Transport Server:"
-msgstr ""
+msgstr "Transport 伺服器"
 
 #: _pages/_inc/_VerifyAliyunHostTransportType.php:443
 #: _pages/_inc/_VerifyAwsHostTransportType.php:470
@@ -2961,7 +2970,7 @@ msgstr ""
 #: _pages/_inc/_VerifyHostPhysical.php:375
 #: _pages/_inc/_VerifyHostTransportType.php:458
 msgid "Preferred Address:"
-msgstr ""
+msgstr "優先 IP"
 
 #: _pages/_inc/_VerifyAliyunHostTransportType.php:461
 #: _pages/_inc/_VerifyAwsHostTransportType.php:488
@@ -2973,7 +2982,7 @@ msgstr ""
 #: _pages/_inc/_VerifyHostVirtual.php:422
 #: _pages/_inc/_VerifyTencentHostTransportType.php:426
 msgid "Test Connection"
-msgstr ""
+msgstr "測試連線"
 
 #: _pages/_inc/_VerifyAliyunTransportServices.php:470
 #: _pages/_inc/_VerifyAwsLinuxLauncherService.php:407
@@ -2986,34 +2995,34 @@ msgstr ""
 #: _pages/_inc/_VerifyRecoveryKitServices.php:303
 #: _pages/_inc/_VerifyTencentTransportServices.php:525
 msgid "Verify Service"
-msgstr ""
+msgstr "驗證服務"
 
 #: _pages/_inc/_VerifyHostOfflineClone.php:361
 #: _pages/_inc/_VerifyHostPhysical.php:369
 msgid "FQDN / Host Name / IP Address:"
-msgstr ""
+msgstr "FQDN / 主機名稱 / IP"
 
 #: _pages/_inc/_VerifyHostVirtual.php:396
 msgid "ESX IP / Name:"
-msgstr ""
+msgstr "ESX IP / 主機名稱"
 
 #: _pages/_inc/_VerifyHostVirtual.php:401
 msgid "ESX Username:"
-msgstr ""
+msgstr "ESX 管理員用戶"
 
 #: _pages/_inc/_VerifyHostVirtual.php:406
 msgid "ESX Password:"
-msgstr ""
+msgstr "ESX 管理員密碼"
 
 #: _pages/_inc/_VerifyHostVirtual.php:421
 msgid "Select Host"
-msgstr ""
+msgstr "新增虛擬機"
 
 #: _pages/_inc/_VerifyOnPremiseTransportServices.php:367
 #: _pages/_inc/_VerifyRecoveryKitServices.php:292
 msgid "FQDN / Host Name / IP address:"
-msgstr ""
+msgstr "FQDN / 主機名稱 / IP"
 
 #: _pages/_inc/_VerifyTencentHostTransportType.php:411
 msgid "Home Transport Server:"
-msgstr ""
+msgstr "來源 Transport 服務器"

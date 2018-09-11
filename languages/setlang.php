@@ -1,13 +1,14 @@
 <?php
- 
+
 class MutiLanguage{
 	
+	private $lang;
+	
 	public function __construct(){
-		
+		$this->init2();
 	}
 	
-	public function init(){
-		
+	private function getLang() {
 		preg_match("/^([a-z\-]+)/i", $_SERVER["HTTP_ACCEPT_LANGUAGE"], $matches); //分析 HTTP_ACCEPT_LANGUAGE 的屬性
 	
 		$lang = $matches[1]; //取第一語言設置
@@ -19,17 +20,40 @@ class MutiLanguage{
 		$lang = isset($_SESSION["language"]) ? $_SESSION["language"] : $lang;
 		//$lang = isset($_GET["lang"]) ? $_GET["lang"] : $lang;
 		$lang = strtolower($lang); //轉換為小寫
-		$lang = str_replace("-","_", $lang );
 		
-		if ($lang == "en-us" || $lang == "en_us") { //English
+		$this->lang = str_replace("-","_", $lang );
+		
+	}
+	
+	// open gettext in php.ini
+	public function init(){
+		
+		$this->getLang();
+		
+		if ($this->lang == "en-us" || $this->lang == "en_us") { //English
 			$this->setDomain( $lang );
 		}
-		if ($lang == "zh-tw" || $lang == "zh_tw") { //正體中文 (台灣)
+		if ($this->lang == "zh-tw" || $this->lang == "zh_tw") { //正體中文 (台灣)
 			$this->setDomain( "zh_tw" );
 		}
-		if ($lang == "zh-cn" || $lang == "zh_cn") { //简体中文 (中国)
-			$this->setDomain( $lang );
+		if ($this->lang == "zh-cn" || $this->lang == "zh_cn") { //简体中文 (中国)
+			$this->setDomain( $this->lang );
 		}
+	}
+	
+	//use gettext.inc package
+	public function init2(){
+		
+		$this->getLang();
+		
+		require_once('gettext\gettext.inc');
+
+		T_setlocale(LC_MESSAGES, $this->lang);
+		// Set the text domain as 'messages'
+		$domain = 'language';
+		bindtextdomain($domain, __DIR__);
+		textdomain($domain);
+		
 	}
 	
 	private function setDomain( $package = 'demo' ){
@@ -63,8 +87,6 @@ class MutiLanguage{
 }
 
 $MutiLanguage = new MutiLanguage();
-
-$MutiLanguage->init();
 
 function translate(){
 	$MutiLanguage = new MutiLanguage();
